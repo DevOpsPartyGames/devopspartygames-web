@@ -14,8 +14,8 @@
                 "url": "/features"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
+                "label": "Code of Conduct",
+                "url": "https://github.com/Irreverent-DevOps/code-of-conduct",
                 "primary": false
             }
         ]
