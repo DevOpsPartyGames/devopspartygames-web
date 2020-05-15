@@ -1,7 +1,7 @@
 {
     "palette": "blue",
     "header": {
-        "title": "Azimuth",
+        "title": "Irreverent DevOps",
         "logo_img": "images/logo.png",
         "has_nav": true,
         "nav_links": [
@@ -12,14 +12,6 @@
             {
                 "label": "Features",
                 "url": "/features"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide"
             },
             {
                 "label": "Sign Up",
@@ -70,10 +62,10 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
+        "content": "&copy; Irreverent DevOps. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit",
