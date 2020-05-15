@@ -16,13 +16,13 @@
             {
                 "label": "Sign Up",
                 "url": "/signup",
-                "primary": true
+                "primary": false
             }
         ]
     },
     "footer": {
         "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "Putting the 'oops' in DevOps",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
@@ -74,5 +74,5 @@
             }
         ]
     },
-    "title": "Stackbit Azimuth Theme"
+    "title": "Irreverent DevOps Party Games"
 }
