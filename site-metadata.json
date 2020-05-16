@@ -10,8 +10,8 @@
                 "url": "/"
             },
             {
-                "label": "Features",
-                "url": "/features"
+                "label": "Episodes",
+                "url": "/#episodes"
             },
             {
                 "label": "Code of Conduct",
@@ -62,10 +62,7 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": false,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Irreverent DevOps. All rights reserved.",
+       "content": "&copy; Irreverent DevOps. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit",
