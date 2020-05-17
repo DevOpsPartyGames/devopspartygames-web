@@ -14,6 +14,18 @@
                 "url": "/#episodes"
             },
             {
+                "label": "Livestream",
+                "url": "ttps://twitch.tv/mattstratton"
+            },
+            {
+                "label": "Sign Up to Play",
+                "url": "/#signup"
+            },
+            {
+                "label": "Submit Ideas",
+                "url": "/#ideas"
+            },
+            {
                 "label": "Code of Conduct",
                 "url": "https://github.com/Irreverent-DevOps/code-of-conduct",
                 "primary": false
