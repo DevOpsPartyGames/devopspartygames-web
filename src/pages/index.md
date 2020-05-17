@@ -5,15 +5,16 @@ sections:
     type: section_hero
     image: images/game_logo.png
     content: >-
+      Irreverent DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then <a href = "https://twitch.tv/mattstratton">streams it live via Twitch</a> for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a> and <a href = "https://twitter.com/IAmJerdog">Jeremy Meiss</a>) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from <i>Dodgeball</i>). 
+      <br/>
+      <br/>
+      The goal here is to have fun and not take things too seriously.
       A live streamed game show that is most definitely a ridiculous idea, but hopefully entertaining.
-      <br/>
-      <br/>
-      Players something something party games with a DevOps twist, <a href = "https://twitch.tv/mattstratton" class="hero-copy">streamed live on Twitch</a>.
-    actions:
-      - label: Episodes
-        url: /#episodes
-      - label: Live Stream
-        url: https://twitch.tv/mattstratton
+    # actions:
+    #   - label: Episodes
+    #     url: /#episodes
+    #   - label: Live Stream
+    #     url: https://twitch.tv/mattstratton
   - section_id: episodes
     type: section_posts
     background: gray
