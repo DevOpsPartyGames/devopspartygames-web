@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "Irreverent DevOps",
-        "logo_img": "images/logo.png",
+        "logo_img": "images/logo-with-stroke.png",
         "has_nav": true,
         "nav_links": [
             {

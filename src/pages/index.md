@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/game_logo.png
+    image: images/game_logo-with-stroke.png
     content: >-
       Irreverent DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then <a href = "https://twitch.tv/mattstratton">streams it live via Twitch</a> for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a> and <a href = "https://twitter.com/IAmJerdog">Jeremy Meiss</a>) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from <i>Dodgeball</i>). 
       <br/>
