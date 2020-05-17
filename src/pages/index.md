@@ -3,8 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    title: Irreverent DevOps Party Games
+    image: images/game_logo.png
     content: >-
       Putting the 'oops' in DevOps 
     actions:
