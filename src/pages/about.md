@@ -1,12 +1,10 @@
 ---
-title: About Us
+title: About Irreverent DevOps Party Games
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+image: 
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+For those who aren’t familiar, [Jackbox Party Games](https://www.jackboxgames.com/) are a set of quirky, well, party games. They consist of fun takes on Pictionary, Balderdash, Trivial Pursuit, and more. In the world of isolation, Jackbox games have been used via Zoom and other platforms to play with friends and family members around the world.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Irreverent DevOps Party Games takes this idea and tilts it on its head by adding DevOps-inspired content to the Jackbox games [Drawful 2](https://www.jackboxgames.com/drawful-two/) and [Quiplash 2](https://www.jackboxgames.com/quiplash-two-interlashional/), and then streams it live via [Twitch](https://twitch.tv/mattstratton) for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts ([Matt Stratton](https://twitter.com/mattstratton) and [Jeremy Meiss](https://twitter.com/IAmJerdog)) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from Dodgeball). The goal here is to have fun and not take things too seriously.
