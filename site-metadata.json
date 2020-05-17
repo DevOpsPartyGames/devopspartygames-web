@@ -57,7 +57,12 @@
                 "label": "Suggest a Player",
                 "url": "https://forms.gle/qztDdzxd3XdU66ka6",
                 "new_window": true
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact"
             }
+
         ],
         "has_social": false,
         "social_title": "Community",
