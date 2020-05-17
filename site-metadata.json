@@ -15,12 +15,12 @@
             },
             {
                 "label": "Livestream",
-                "url": "https://twitch.tv/mattstratton"
+                "url": "https://twitch.tv/mattstratton",
+                "new_window": true
             },
             {
                 "label": "Code of Conduct",
-                "url": "/code-of-conduct",
-                "primary": false
+                "url": "/code-of-conduct"
             }
         ]
     },
@@ -36,19 +36,12 @@
             },
             {
                 "label": "Livestream",
-                "url": "https://twitch.tv/mattstratton"
+                "url": "https://twitch.tv/mattstratton",
+                "new_window": true
             },
             {
-                "label": "Submit Ideas",
-                "url": "/submit"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact"
+                "label": "Code of Conduct",
+                "url": "/code-of-conduct"
             }
         ],
         "has_social": false,
