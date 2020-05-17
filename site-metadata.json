@@ -18,16 +18,8 @@
                 "url": "https://twitch.tv/mattstratton"
             },
             {
-                "label": "Sign Up to Play",
-                "url": "/#signup"
-            },
-            {
-                "label": "Submit Ideas",
-                "url": "/#ideas"
-            },
-            {
                 "label": "Code of Conduct",
-                "url": "https://github.com/Irreverent-DevOps/code-of-conduct",
+                "url": "/code-of-conduct",
                 "primary": false
             }
         ]
@@ -36,26 +28,30 @@
         "logo_img": "images/logo_alt.png",
         "tagline": "Putting the 'oops' in DevOps",
         "has_nav": true,
-        "nav_title": "Company",
+        "nav_title": "Show Info",
         "nav_links": [
             {
                 "label": "About Us",
                 "url": "/about"
             },
             {
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Livestream",
+                "url": "https://twitch.tv/mattstratton"
+            },
+            {
+                "label": "Submit Ideas",
+                "url": "/submit"
             },
             {
                 "label": "Sign Up",
-                "url": "signup"
+                "url": "/signup"
             },
             {
                 "label": "Contact",
                 "url": "/contact"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_title": "Community",
         "social_links": [
             {
