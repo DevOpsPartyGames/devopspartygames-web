@@ -19,6 +19,10 @@
                 "new_window": true
             },
             {
+                "label": "FAQ",
+                "url": "/faq"
+            },
+            {
                 "label": "Code of Conduct",
                 "url": "/code-of-conduct"
             }
@@ -42,6 +46,17 @@
             {
                 "label": "Code of Conduct",
                 "url": "/code-of-conduct"
+            }
+            ,
+            {
+                "label": "Submit Prompt Ideas",
+                "url": "https://forms.gle/57mKCieY22UezbJi8",
+                "new_window": true
+            },
+            {
+                "label": "Suggest a Player",
+                "url": "https://forms.gle/qztDdzxd3XdU66ka6",
+                "new_window": true
             }
         ],
         "has_social": false,
