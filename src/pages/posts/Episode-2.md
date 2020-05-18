@@ -3,7 +3,7 @@ title: DevOps Party Games Episode 2
 subtitle: Streaming live at TBD
 excerpt: >-
   Streaming live at TBD
-date: '2019-05-18'
+date: '2019-04-22'
 thumb_image: images/episodes/episode2_thumb.png
 image: images/episodes/episode2.png
 template: post
