@@ -1,9 +1,9 @@
 ---
 title: DevOps Party Games Episode 1
-subtitle: Broadcast live at Tuesday, June 2, 8 PM CT
+subtitle: Streaming live at 8PM CT on Tuesday, June 2
 excerpt: >-
   Streaming live at 8 PM CT<br> on Tuesday, June 2
-date: '2019-04-23'
+date: '2020-05-16'
 thumb_image: images/episodes/episode1_thumb.png
 image: images/episodes/episode1.png
 template: post
