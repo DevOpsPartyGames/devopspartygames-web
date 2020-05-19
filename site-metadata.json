@@ -94,5 +94,9 @@
     },
     "title": "Irreverent DevOps Party Games",
     "description": "Irreverent DevOps Party Games takes the idea of 'online party games' and tilts it on its head by adding DevOps-inspired content to existing games and streaming over Twitch.",
-    "image": "/images/game-logo-with-stroke.png"
+    "image": "/images/game-logo-with-stroke.png",
+    "social": {
+        "twitter": "mattstratton"
+    },
+    "siteUrl": "https://irreverentdevops.com"
 }

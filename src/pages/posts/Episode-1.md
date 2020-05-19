@@ -7,6 +7,7 @@ date: '2019-04-23'
 thumb_image: images/episodes/episode1_thumb.png
 image: images/episodes/episode1.png
 template: post
+ogimage: /images/episodes/episode1-social.png
 ---
 Games include two rounds each of [Drawful](https://www.jackboxgames.com/drawful-two/) and [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/), with DevOps-themed prompts!
 
