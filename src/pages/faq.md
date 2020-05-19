@@ -24,3 +24,6 @@ Definitely! [Fill out this form](https://forms.gle/qztDdzxd3XdU66ka6) and let us
 
 ***I have a great idea for a Drawful or Quiplash prompt!***<br/>
 Fantastic! We love your suggestions - and we even have [a handy form](https://forms.gle/57mKCieY22UezbJi8) for you to submit them!
+
+***Will the games be "family friendly?"***<br />
+While we do have a [Code of Conduct](/code-of-conduct), the show is rated M for Mature. Plan accordingly.
