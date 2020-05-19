@@ -3,12 +3,18 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 
 import {Layout} from '../components/index';
+import SEO from "../components/seo";
 import {safePrefix, htmlToReact} from '../utils';
 
 export default class Post extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
+            <SEO
+              title={_.get(this.props, 'pageContext.frontmatter.title')}
+              description={_.get(this.props, 'pageContext.frontmatter.title')}
+              image={_.get(this.props, 'pageContext.frontmatter.ogimage')}
+            />
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
