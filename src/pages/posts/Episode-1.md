@@ -20,6 +20,8 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 <a href = "https://twitter.com/quinnypig" class = "player-episode-page" target = "_blank"><img src = "/images/players/corey.png" alt="Corey Quinn" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/Dixie3Flatline" class = "player-episode-page" target = "_blank"><img src = "/images/players/kat.png" alt="Kat Cosgrove" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/gitbisect" class = "player-episode-page" target = "_blank"><img src = "/images/players/jason.png" alt="Jason Yee" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/jessicaewest" class = "player-episode-page" target = "_blank"><img src = "/images/players/jessicawest.png" alt="Jessica West" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/DarkAndNerdy" class = "player-episode-page" target = "_blank"><img src = "/images/players/jeffsmith.png" alt="Jeff Smith" width="200" height="100" class = "player-episode-page"></a>
 
 <br clear = "all">
 
