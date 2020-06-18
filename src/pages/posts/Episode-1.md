@@ -1,8 +1,8 @@
 ---
 title: DevOps Party Games Episode 1
-subtitle: Streaming live at TBD
+subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=Irreverent+DevOps+Party+Games+Episode+1&iso=20200630T20&p1=64&ah=2" target = "_blank">Tuesday, June 30, 8 PM CT</a>
 excerpt: >-
-  Streaming live at TBD
+  Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=Irreverent+DevOps+Party+Games+Episode+1&iso=20200630T20&p1=64&ah=2" target = "_blank">8 PM CT</a><br> on Tuesday, June 30
 date: '2019-04-23'
 thumb_image: images/episodes/episode1_thumb.png
 image: images/episodes/episode1.png
