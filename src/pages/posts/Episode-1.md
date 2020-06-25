@@ -28,3 +28,52 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 ## Hosts
 <a href = "https://twitter.com/mattstratton" class = "player-episode-page" target = "_blank"><img src = "/images/hosts/matty.png" alt="Matt Stratton" width="150" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/IAmJerdog" class = "player-episode-page" target = "_blank"><img src = "/images/hosts/jeremy.png" alt="Jeremy Meiss" width="150" height="100" class = "player-episode-page"></a>
+
+<br clear = "all">
+
+### Player Charities
+Players are asking your support for the following funds/charities:
+
+<ul>
+  <li>
+    Quintessence Anx - <a href = "https://donate.keela.co/black-love-resists-in-the-rust-just-resisting/default-donation-form-184" target = "_new">
+      Black Love Resists in the Rust, Buffalo's BLM group
+    </a>
+  </li>
+    <!-- <li>
+    Pete Cheslock - <a href = "https://donate.keela.co/black-love-resists-in-the-rust-just-resisting/default-donation-form-184" target = "_new">
+      Black Love Resists in the Rust, Buffalo's BLM group
+    </a>
+  </li>
+    <li>
+    Heidi Waterhouse - <a href = "https://donate.keela.co/black-love-resists-in-the-rust-just-resisting/default-donation-form-184" target = "_new">
+      Black Love Resists in the Rust, Buffalo's BLM group
+    </a>
+  </li> -->
+    <li>
+    Corey Quinn - <a href = "https://www.pisab.org/we-are-undoing-racism/" target = "_new">
+      The People’s Institute for Survival and Beyond
+    </a>
+  </li>
+    <li>
+    Kat Cosgrove - <a href = "https://www.joincampaignzero.org/" target = "_new">
+      Campaign Zero
+    </a>
+  </li>
+    <li>
+    Jason Yee - <a href = "https://www.splcenter.org/" target = "_new">
+      SPLC
+    </a>
+  </li>
+    <li>
+    Amy Tobey - <a href = "https://www.translifeline.org/" target = "_new">
+      Trans Lifeline
+    </a>
+  </li>
+    <li>
+    Jeff Smith - <a href = "hhttps://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780" target = "_new">
+      NAACP Legal Defense Fund
+    </a>
+  </li>
+
+</ul>
