@@ -44,12 +44,12 @@ Players are asking your support for the following funds/charities:
     Pete Cheslock - <a href = "https://donate.keela.co/black-love-resists-in-the-rust-just-resisting/default-donation-form-184" target = "_new">
       Black Love Resists in the Rust, Buffalo's BLM group
     </a>
-  </li>
+  </li>-->
     <li>
-    Heidi Waterhouse - <a href = "https://donate.keela.co/black-love-resists-in-the-rust-just-resisting/default-donation-form-184" target = "_new">
-      Black Love Resists in the Rust, Buffalo's BLM group
+    Heidi Waterhouse - <a href = "https://unicornriot.ninja/donate/" target = "_new">
+      Unicorn Riot
     </a>
-  </li> -->
+  </li>
     <li>
     Corey Quinn - <a href = "https://www.pisab.org/we-are-undoing-racism/" target = "_new">
       The People’s Institute for Survival and Beyond
