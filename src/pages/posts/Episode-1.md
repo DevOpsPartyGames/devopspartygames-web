@@ -11,7 +11,7 @@ ogimage: /images/episodes/episode1-social.png
 ---
 Games include two rounds each of [Drawful](https://www.jackboxgames.com/drawful-two/) and [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/), with DevOps-themed prompts!
 
-Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilWOLddZTBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Players
 <a href = "https://twitter.com/quintessenceanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/quinn.png" alt="Quintessence Anx" width="200" height="100" class = "player-episode-page"></a>
