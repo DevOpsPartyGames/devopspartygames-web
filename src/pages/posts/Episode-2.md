@@ -16,7 +16,7 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 ## Players
 <a href = "https://twitter.com/TheJewberwocky" class = "player-episode-page" target = "_blank"><img src = "/images/players/josh.png" alt="Josh Zimmerman" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/IanColdwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/ian.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/Dixie3Flatline" class = "player-episode-page" target = "_blank"><img src = "/images/players/kat.png" alt="Kat Cosgrove" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/julian_dunn" class = "player-episode-page" target = "_blank"><img src = "/images/players/julian.png" alt="Julian Dunn" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/taylor_atx" class = "player-episode-page" target = "_blank"><img src = "/images/players/taylor.png" alt="Taylor Barnett" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/wesley83" class = "player-episode-page" target = "_blank"><img src = "/images/players/wesley.png" alt="Wesley Faulkner" width="200" height="100" class = "player-episode-page"></a>
