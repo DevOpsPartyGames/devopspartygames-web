@@ -11,9 +11,7 @@ ogimage: /images/episodes/episode2-social.png
 ---
 Games include one round each of [Drawful](https://www.jackboxgames.com/drawful-two/) and [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/), with DevOps-themed prompts!
 
-Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
-
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzgyNjJxM2MzYW03NW90dDZjZzExYTRnYjAgbWF0dC5zdHJhdHRvbkBt&amp;tmsrc=matt.stratton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>&nbsp;[Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzgyNjJxM2MzYW03NW90dDZjZzExYTRnYjAgbWF0dC5zdHJhdHRvbkBt&tmsrc=matt.stratton%40gmail.com) so you don't forget to join!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u18gzX-URIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Players
 <a href = "https://twitter.com/TheJewberwocky" class = "player-episode-page" target = "_blank"><img src = "/images/players/josh.png" alt="Josh Zimmerman" width="200" height="100" class = "player-episode-page"></a>
