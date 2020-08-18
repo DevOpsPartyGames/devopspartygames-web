@@ -11,7 +11,7 @@ This page is a work in progress, but we will keep updating it with FAQ's about t
 Yes! Not only will we be watching the Twitch chat during the game and maybe replying to your comments, but you will be able to join the "audience" of the game on your device and vote on answers and help shape the outcome of the game!
 
 ***Is this a one-time event, or a regularly scheduled thing?***<br/>
-Good question. Currently we are experimenting with this to see what the interest is, what the response is from viewers, and whether or not this ends up being generally terrible.
+We stream episodes once a month, usually on the last Tuesday of the month, at 8 PM US Central time.
 
 ***I want to tweet about this! Any suggestions?***<br/>
 Please use the hashtag [#devopspartygames](https://twitter.com/search?q=%23devopspartygames) for any tweets, before, or during, a show!
