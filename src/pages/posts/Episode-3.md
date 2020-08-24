@@ -11,6 +11,8 @@ ogimage: /images/episodes/episode3-social.png
 ---
 Games include one round each of [Drawful](https://www.jackboxgames.com/drawful-two/) and [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/), with DevOps-themed prompts!
 
+Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
+
 ## Players
 <a href = "https://twitter.com/jessitron" class = "player-episode-page" target = "_blank"><img src = "/images/players/jessica-kerr.png" alt="Jessica Kerr" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/thelongshanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/tiffany.png" alt="Tiffany Longworth" width="200" height="100" class = "player-episode-page"></a>
