@@ -1,7 +1,6 @@
 import React from "react"
-import { graphql } from "gatsby"
 import ScoreData from "../../data/scores.json"
-import PlayerData from "../../data/players.json"
+import LikeData from "../../data/likes.json"
 
 class ScoreRow extends React.Component {
     constructor(props) {
@@ -11,12 +10,16 @@ class ScoreRow extends React.Component {
             key: this.props.key,
             score: null,
             name: null,
+            likes: null,
+            drawful: null,
+            quiplash: null
         }
     }
 
     componentDidMount() {
         this.setName();
         this.calculateScores();
+        this.calculateLikes();
     }
 
     setName() {
@@ -36,26 +39,26 @@ class ScoreRow extends React.Component {
         });
     }
 
+    calculateLikes() {
+        let likeArray = LikeData.likes.filter( record => record.winner === this.state.player.twitter);
+        let countLikes = 0;
+        likeArray.forEach( (elem) =>
+            countLikes = countLikes + elem.likes
+        )
+        this.setState({
+            likes: countLikes
+        })
+    }
+
     render() {
         return (
             <tr key={this.props.key}>
                 <td>{this.state.name}</td>
                 <td>{this.state.score}</td>
+                <td>{this.state.likes}</td>
             </tr>
         );
     }
 }
 
 export default ScoreRow;
-
-// export const playerQuery = graphql`
-//     query PlayerQuery {
-//         allPlayersJson {
-//             edges {
-//                 node {
-//                     name
-//                 }
-//             }
-//         }
-//     }
-// `

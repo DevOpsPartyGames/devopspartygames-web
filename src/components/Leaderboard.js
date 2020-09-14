@@ -23,6 +23,9 @@ export class Leaderboard extends React.Component {
                 <tr>
                     <th>Name</th>
                     <th>Total Score</th>
+                    <th>Most Likes</th>
+                    <th>Top Drawful</th>
+                    <th>Top Quiplash</th>
                 </tr>
                 </thead>
                 <tbody>
