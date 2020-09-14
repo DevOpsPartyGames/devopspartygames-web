@@ -3,13 +3,22 @@ module.exports = {
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-mdx`,
         `gatsby-source-data`,
+        `gatsby-transformer-json`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
                 path: `${__dirname}/src/pages`,
             },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `data`,
+                path: `${__dirname}/data`
+            }
         },
         {
             resolve: `gatsby-plugin-google-analytics`,

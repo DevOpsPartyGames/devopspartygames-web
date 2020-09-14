@@ -1,0 +1,13 @@
+{
+  "players": [
+    {
+      "name": "Laura Santamaria",
+      "twitter": "nimbinatus",
+      "image": "laura.png",
+      "episodes": [
+        2,
+        4
+      ]
+    }
+  ]
+}
