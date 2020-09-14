@@ -1,12 +1,100 @@
 {
   "scores": [
     {
-      "player": "nimbinatus",
-      "score": 42
+      "player": "quintessence",
+      "score": 21
+    },
+    {
+      "player": "cheslock",
+      "score": 28
+    },
+    {
+      "player": "kat",
+      "score": 32
+    },
+    {
+      "player": "heidi",
+      "score": 25
+    },
+    {
+      "player": "quinnypig",
+      "score": 34
+    },
+    {
+      "player": "gitbisect",
+      "score": 30
+    },
+    {
+      "player": "amytobey",
+      "score": 24
+    },
+    {
+      "player": "jeffsmith",
+      "score": 25
+    },
+    {
+      "player": "josh",
+      "score": 19
+    },
+    {
+      "player": "julian",
+      "score": 15
+    },
+    {
+      "player": "kat",
+      "score": 15
     },
     {
       "player": "nimbinatus",
-      "score": 1
+      "score": 9
+    },
+    {
+      "player": "czarkowski",
+      "score": 24
+    },
+    {
+      "player": "taylor",
+      "score": 9
+    },
+    {
+      "player": "waldo",
+      "score": 13
+    },
+    {
+      "player": "wesley",
+      "score": 8
+    },
+    {
+      "player": "crayzeigh",
+      "score": 14
+    },
+    {
+      "player": "anamedina",
+      "score": 19
+    },
+    {
+      "player": "austin",
+      "score": 9
+    },
+    {
+      "player": "jessabe",
+      "score": 8
+    },
+    {
+      "player": "jessitron",
+      "score": 9
+    },
+    {
+      "player": "cheslock",
+      "score": 17
+    },
+    {
+      "player": "pj",
+      "score": 11
+    },
+    {
+      "player": "tiffany",
+      "score": 22
     }
   ]
 }
