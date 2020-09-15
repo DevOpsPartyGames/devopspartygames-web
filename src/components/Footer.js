@@ -28,10 +28,36 @@ export default class Footer extends React.Component {
                       </p>
                       }
                     </div>
-                    {((_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav') && _.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links')) || (_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links'))) && 
+                    {
+                        (
+                            (
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.has_nav'
+                                ) &&
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.nav_links'
+                                )
+                            ) ||
+                            (
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.has_social'
+                                ) &&
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.social_links'
+                                )
+                            )
+                        ) &&
                     <nav className="widget footer-navigation">
                       <div className="footer-nav-inside">
-                        {(_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links') && _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav')) && 
+                        {
+                            (
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.nav_links'
+                                ) &&
+                                _.get(
+                                    this.props, 'pageContext.site.siteMetadata.footer.has_nav'
+                                )
+                            ) &&
                         <div className="secondary-nav">
                           <h2 className="widget-title">{_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_title')}</h2>
                           <ul className="secondary-menu">

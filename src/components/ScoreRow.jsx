@@ -7,12 +7,9 @@ class ScoreRow extends React.Component {
         super(props);
         this.state = {
             player: this.props.player,
-            key: this.props.key,
             score: null,
             name: null,
             likes: null,
-            drawful: null,
-            quiplash: null
         }
     }
 
@@ -40,7 +37,7 @@ class ScoreRow extends React.Component {
     }
 
     calculateLikes() {
-        let likeArray = LikeData.likes.filter( record => record.winner === this.state.player.twitter);
+        let likeArray = LikeData.likes.filter( record => record.player === this.state.player.twitter);
         let countLikes = 0;
         likeArray.forEach( (elem) =>
             countLikes = countLikes + elem.likes
@@ -52,7 +49,7 @@ class ScoreRow extends React.Component {
 
     render() {
         return (
-            <tr key={this.props.key}>
+            <tr key={this.key}>
                 <td>{this.state.name}</td>
                 <td>{this.state.score}</td>
                 <td>{this.state.likes}</td>

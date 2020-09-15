@@ -7,7 +7,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.6.16",

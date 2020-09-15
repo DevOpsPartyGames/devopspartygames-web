@@ -3,7 +3,6 @@ module.exports = {
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
-        `gatsby-plugin-mdx`,
         `gatsby-source-data`,
         `gatsby-transformer-json`,
         {
@@ -33,6 +32,16 @@ module.exports = {
                 inputFile: `${__dirname}/src/sass/main.scss`,
                 outputFile: `${__dirname}/public/assets/css/main.css`
             },
+        },
+        {
+            resolve: `gatsby-plugin-mdx`,
+            options: {
+                extensions: [`.mdx`],
+                defaultLayouts: {
+                    pages: require.resolve("./src/templates/page-mdx.js"),
+                    default: require.resolve("./src/templates/page-mdx.js"),
+                },
+            }
         },
         {
             resolve: `gatsby-transformer-remark`,

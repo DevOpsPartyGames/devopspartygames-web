@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
 
 import {Layout} from '../components/index';
 import SEO from "../components/seo";
