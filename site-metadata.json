@@ -14,6 +14,10 @@
                 "url": "/#episodes"
             },
             {
+                "label": "Thought Leaderboard",
+                "url": "/scoreboard"
+            },
+            {
                 "label": "Livestream",
                 "url": "https://twitch.tv/mattstratton",
                 "new_window": true

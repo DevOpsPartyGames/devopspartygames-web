@@ -1,0 +1,182 @@
+{
+  "players": [
+    {
+      "name": "Corey Quinn",
+      "twitter": "quinnypig",
+      "image": "corey.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Quintessence Anx",
+      "twitter": "quintessenceanx",
+      "image": "quinn.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Pete Cheslock",
+      "twitter": "petecheslock",
+      "image": "cheslock.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Kat Cosgrove",
+      "twitter": "Dixie3Flatline",
+      "image": "kat.png",
+      "episodes": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Jason Yee",
+      "twitter": "gitbisect",
+      "image": "jason.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Amy Tobey",
+      "twitter": "MissAmyTobey",
+      "image": "amytobey.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Jeff Smith",
+      "twitter": "DarkAndNerdy",
+      "image": "jeffsmith.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Heidi Waterhouse",
+      "twitter": "wiredferret",
+      "image": "heidi.png",
+      "episodes": [
+        1
+      ]
+    },
+    {
+      "name": "Laura Santamaria",
+      "twitter": "nimbinatus",
+      "image": "laura.png",
+      "episodes": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Josh Zimmerman",
+      "twitter": "TheJewberwocky",
+      "image": "josh.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Julian Dunn",
+      "twitter": "julian_dunn",
+      "image": "julian.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Taylor Barnett",
+      "twitter": "taylor_atx",
+      "image": "taylor.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Wesley Faulkner",
+      "twitter":"wesley83",
+      "image":"wesley.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Paul Czarkowski",
+      "twitter": "pczarkowski",
+      "image": "paul.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Waldo G",
+      "twitter": "gwaldo",
+      "image": "waldo.png",
+      "episodes": [
+        2
+      ]
+    },
+    {
+      "name": "Jessica Kerr",
+      "twitter": "jessitron",
+      "image": "jessica-kerr.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name": "Tiffany Longworth",
+      "twitter":"thelongshanx",
+      "image": "tiffany.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name":"Ana Medina",
+      "twitter":"ana_m_medina",
+      "image":"ana.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name":"Aaron Aldrich",
+      "twitter":"crayzeigh",
+      "image":"aaron.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name":"Jessica Brown",
+      "twitter":"jessalyn",
+      "image":"jessica-brown.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name":"Austin Parker",
+      "twitter":"austinlparker",
+      "image":"austin.png",
+      "episodes": [
+        3
+      ]
+    },
+    {
+      "name":"PJ Hagerty",
+      "twitter":"aspleenic",
+      "image":"pj.png",
+      "episodes": [
+        3
+      ]
+    }
+  ]
+}

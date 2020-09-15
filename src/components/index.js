@@ -2,34 +2,32 @@ import ActionLink from './ActionLink';
 import CtaButtons from './CtaButtons';
 import Footer from './Footer';
 import Header from './Header';
-import SectionContact from './SectionContact';
+import Layout from './Layout';
+import ScoreRow from "./ScoreRow";
 import SectionContent from './SectionContent';
 import SectionCta from './SectionCta';
 import SectionFaq from './SectionFaq';
 import SectionFeatures from './SectionFeatures';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
-import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import SubscribeForm from './SubscribeForm';
-import Layout from './Layout';
 
 export {
     ActionLink,
     CtaButtons,
     Footer,
     Header,
-    SectionContact,
+    Layout,
+    ScoreRow,
     SectionContent,
     SectionCta,
     SectionFaq,
     SectionFeatures,
     SectionHero,
     SectionPosts,
-    SectionPricing,
     SectionReviews,
-    SubscribeForm,
-    Layout
+    SubscribeForm
 };
 
 export default {
@@ -37,15 +35,14 @@ export default {
     CtaButtons,
     Footer,
     Header,
-    SectionContact,
+    Layout,
+    ScoreRow,
     SectionContent,
     SectionCta,
     SectionFaq,
     SectionFeatures,
     SectionHero,
     SectionPosts,
-    SectionPricing,
     SectionReviews,
-    SubscribeForm,
-    Layout
+    SubscribeForm
 };

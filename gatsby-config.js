@@ -4,12 +4,20 @@ module.exports = {
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
+        `gatsby-transformer-json`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
                 path: `${__dirname}/src/pages`,
             },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `data`,
+                path: `${__dirname}/data`
+            }
         },
         {
             resolve: `gatsby-plugin-google-analytics`,
@@ -24,6 +32,16 @@ module.exports = {
                 inputFile: `${__dirname}/src/sass/main.scss`,
                 outputFile: `${__dirname}/public/assets/css/main.css`
             },
+        },
+        {
+            resolve: `gatsby-plugin-mdx`,
+            options: {
+                extensions: [`.mdx`],
+                defaultLayouts: {
+                    pages: require.resolve("./src/templates/page-mdx.js"),
+                    default: require.resolve("./src/templates/page-mdx.js"),
+                },
+            }
         },
         {
             resolve: `gatsby-transformer-remark`,
