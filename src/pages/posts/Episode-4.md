@@ -4,8 +4,8 @@ subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fi
 excerpt: >-
   Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+4&iso=20200929T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, September 29
 date: '2019-04-19'
-thumb_image: images/episodes/episode2_thumb.png
-image: images/episodes/episode2.png
+thumb_image: images/episodes/episode4_thumb.png
+image: images/episodes/episode4.png
 template: post
 ogimage: /images/episodes/episode4-social.png
 ---
