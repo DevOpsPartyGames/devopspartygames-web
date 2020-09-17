@@ -1,5 +1,5 @@
 ---
-title: About Irreverent DevOps Party Games
+title: About DevOps Party Games
 subtitle: >-
 image: 
 template: page
