@@ -87,7 +87,7 @@
                 "new_window": true
             }
         ],
-       "content": "&copy; Irreverent DevOps. All rights reserved.",
+       "content": "&copy; DevOps Party Games. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit",
@@ -96,11 +96,11 @@
             }
         ]
     },
-    "title": "Irreverent DevOps Party Games",
-    "description": "Irreverent DevOps Party Games takes the idea of 'online party games' and tilts it on its head by adding DevOps-inspired content to existing games and streaming over Twitch.",
+    "title": "DevOps Party Games",
+    "description": "DevOps Party Games takes the idea of 'online party games' and tilts it on its head by adding DevOps-inspired content to existing games and streaming over Twitch.",
     "image": "/images/game-logo-with-stroke.png",
     "social": {
         "twitter": "mattstratton"
     },
-    "siteUrl": "https://devopspartygames.com"
+    "siteUrl": "https://irreverentdevops.com"
 }
