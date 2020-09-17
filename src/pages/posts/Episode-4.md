@@ -9,7 +9,7 @@ image: images/episodes/episode4.png
 template: post
 ogimage: /images/episodes/episode4-social.png
 ---
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzI0MjlwOWc3dW1raWd1aGtvMXFrYjNmdWwgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzI0MjlwOWc3dW1raWd1aGtvMXFrYjNmdWwgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> Add to your calender!
 
 Games include one round each of [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/) and [Drawful](https://www.jackboxgames.com/drawful-two/), with DevOps-themed prompts!
 
