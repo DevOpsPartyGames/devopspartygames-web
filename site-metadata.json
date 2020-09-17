@@ -1,7 +1,7 @@
 {
     "palette": "blue",
     "header": {
-        "title": "Irreverent DevOps",
+        "title": "DevOps Party Games",
         "logo_img": "images/logo-with-stroke.png",
         "has_nav": true,
         "nav_links": [
@@ -87,7 +87,7 @@
                 "new_window": true
             }
         ],
-       "content": "&copy; Irreverent DevOps. All rights reserved.",
+       "content": "&copy; DevOps Party Games. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit",
