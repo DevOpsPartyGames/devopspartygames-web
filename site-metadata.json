@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "DevOps Party Games",
-        "logo_img": "images/logo-with-stroke.png",
+        "logo_img": "images/header-logo.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -102,5 +102,5 @@
     "social": {
         "twitter": "mattstratton"
     },
-    "siteUrl": "https://irreverentdevops.com"
+    "siteUrl": "https://devopspartygames.com"
 }
