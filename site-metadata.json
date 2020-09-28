@@ -68,22 +68,12 @@
             }
 
         ],
-        "has_social": false,
+        "has_social": true,
         "social_title": "Community",
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://twitter.com/devopspartygame",
                 "new_window": true
             }
         ],
@@ -100,7 +90,7 @@
     "description": "DevOps Party Games takes the idea of 'online party games' and tilts it on its head by adding DevOps-inspired content to existing games and streaming over Twitch.",
     "image": "/images/game-logo-with-stroke.png",
     "social": {
-        "twitter": "mattstratton"
+        "twitter": "devopspartygame"
     },
     "siteUrl": "https://devopspartygames.com"
 }
