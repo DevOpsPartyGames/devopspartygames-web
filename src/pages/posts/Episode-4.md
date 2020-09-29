@@ -26,7 +26,7 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 <a href = "https://twitter.com/shelbyspees" class = "player-episode-page" target = "_blank"><img src = "/images/players/shelby-spees.png" alt="Shelby Spees" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/lizthegrey" class = "player-episode-page" target = "_blank"><img src = "/images/players/liz-fong-jones.png" alt="Liz Fong-Jones" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/ian.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/team-coldwater.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
 
 <br clear = "all">
 
