@@ -177,6 +177,62 @@
       "episodes": [
         3
       ]
+    },
+    {
+      "name":"Tim Banks",
+      "twitter":"elchefe",
+      "image": "tim-banks.png",
+      "episodes": [
+        4
+        ]
+    },
+    {
+      "name":"Liz Fong-Jones",
+      "twitter":"lizthegrey",
+      "image":"liz-fong-jones.png",
+      "episodes": [
+        4
+        ]
+    },
+    {
+      "name":"Bonnie Aumann",
+      "twitter":"bonniea",
+      "image":"bonnie-aumann.png",
+      "episodes":[
+        4
+        ]
+    },
+    {
+      "name":"Nathen Harvey",
+      "twitter":"nathenharvey",
+      "image":"nathen-harvey.png",
+      "episodes":[
+        4
+        ]
+    },
+    {
+      "name":"Ian Coldwater",
+      "twitter":"iancoldwater",
+      "image":"team-coldwater.png",
+      "episodes":[
+        4
+        ]
+    },
+    {
+      "name":"Chloe Condon",
+      "twitter":"chloecondon",
+      "image":"chloe-condon.png",
+      "episodes":[
+        4
+        ]
+    },
+    {
+      "name":"Shelby Spees",
+      "twitter":"shelbyspees",
+      "image":"shelby-spees.png",
+      "episodes": [
+        4
+        ]
     }
   ]
 }
