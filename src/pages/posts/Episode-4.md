@@ -2,21 +2,17 @@
 title: DevOps Party Games Episode 4
 subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+4&iso=20200929T20&p1=64&ah=1" target = "_blank">Tuesday, September 29, 8 PM CT</a> 
 excerpt: >-
-  Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+4&iso=20200929T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, September 29
+  Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+4&iso=20200929T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, September 29
 date: '2019-04-19'
 thumb_image: images/episodes/episode4_thumb.png
 image: images/episodes/episode4.png
 template: post
 ogimage: /images/episodes/episode4-social.png
 ---
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzI0MjlwOWc3dW1raWd1aGtvMXFrYjNmdWwgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com">
-<img border="0" src="/images/add-to-calendar.png" class = "player-episode-page">
-</a>
-<br clear = "all">
 
 Games include one round each of [Quiplash](https://www.jackboxgames.com/quiplash-two-interlashional/) and [Drawful](https://www.jackboxgames.com/drawful-two/), with DevOps-themed prompts!
 
-Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cji-wxJjUoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Players
 <a href = "https://twitter.com/nathenharvey" class = "player-episode-page" target = "_blank"><img src = "/images/players/nathen-harvey.png" alt="Nathen Harvey" width="200" height="100" class = "player-episode-page"></a>
