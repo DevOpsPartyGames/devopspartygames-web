@@ -19,13 +19,14 @@ Games include one round each of [Quiplash](https://www.jackboxgames.com/quiplash
 Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 
 ## Players
-<a href = "https://twitter.com/nathenharvey" class = "player-episode-page" target = "_blank"><img src = "/images/players/nathen-harvey.png" alt="Jessica Kerr" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tiffany Longworth" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/chloecondon" class = "player-episode-page" target = "_blank"><img src = "/images/players/chloe-condon.png" alt="Ana Medina" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/bonniea" class = "player-episode-page" target = "_blank"><img src = "/images/players/bonnie-aumann.png" alt="Aaron Aldrich" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/shelbyspees" class = "player-episode-page" target = "_blank"><img src = "/images/players/shelby-spees.png" alt="Jessica Brown" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/lizthegrey" class = "player-episode-page" target = "_blank"><img src = "/images/players/liz-fong-jones.png" alt="Pete Cheslock" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Austin Parker" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/nathenharvey" class = "player-episode-page" target = "_blank"><img src = "/images/players/nathen-harvey.png" alt="Nathen Harvey" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tim Banks" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/chloecondon" class = "player-episode-page" target = "_blank"><img src = "/images/players/chloe-condon.png" alt="Chloe Condon" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/bonniea" class = "player-episode-page" target = "_blank"><img src = "/images/players/bonnie-aumann.png" alt="Bonnie Aumann" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/shelbyspees" class = "player-episode-page" target = "_blank"><img src = "/images/players/shelby-spees.png" alt="Shelby Spees" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/lizthegrey" class = "player-episode-page" target = "_blank"><img src = "/images/players/liz-fong-jones.png" alt="Liz Fong-Jones" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/team-coldwater.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
 
 <br clear = "all">
 
