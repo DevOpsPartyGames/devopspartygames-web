@@ -2,7 +2,7 @@
 title: DevOps Party Games Episode 2
 subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+2&iso=20200728T20&p1=64&ah=1" target = "_blank">Tuesday, July 28, 8 PM CT</a> 
 excerpt: >-
-  Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+2&iso=20200728T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, July 28
+  Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode+2&iso=20200728T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, July 28
 date: '2019-04-22'
 thumb_image: images/episodes/episode2_thumb.png
 image: images/episodes/episode2.png
