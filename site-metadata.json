@@ -27,6 +27,11 @@
                 "url": "/faq"
             },
             {
+                "label": "Videos",
+                "url": "https://matty.wtf/devops-party-games",
+                "new_window": true
+            },
+            {
                 "label": "Code of Conduct",
                 "url": "/code-of-conduct"
             }
