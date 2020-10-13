@@ -3,7 +3,7 @@ title: DevOps Party Games All-Stars Edition
 subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+All-Star+Edition&iso=20201027T20&p1=64&ah=1" target = "_blank">Tuesday, October 27, 8 PM CT</a> 
 excerpt: >-
   Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+All-Star+Edition&iso=20201027T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, October 27
-date: '2019-04-18'
+date: '2020-10-27'
 thumb_image: images/episodes/episode5_thumb.png
 image: images/episodes/episode5.png
 template: post
