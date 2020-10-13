@@ -5,6 +5,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-json`,
+        `gatsby-plugin-antd`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {

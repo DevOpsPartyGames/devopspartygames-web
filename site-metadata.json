@@ -80,6 +80,10 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/devopspartygame",
                 "new_window": true
+            },
+            {
+                "label": "Mailing List",
+                "url": "/subscribe"
             }
         ],
        "content": "&copy; DevOps Party Games. All rights reserved.",
