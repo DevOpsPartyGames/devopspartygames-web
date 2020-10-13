@@ -7,7 +7,7 @@ date: '2019-04-18'
 thumb_image: images/episodes/episode5_thumb.png
 image: images/episodes/episode5.png
 template: post
-ogimage: /images/episodes/episode5-social.png
+ogimage: /images/allstar-teaser.png
 ---
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTdlYTl1Z2MzaWxja2c3YjlobnMzZ2d0NmQgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="/images/add-to-calendar.png" class = "player-episode-page"></a>	
 <br clear = "all">
@@ -16,7 +16,9 @@ Games include one round each of [Patently Stupid](https://www.jackboxgames.com/p
 
 Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 
-## Players
+## Players Still To Be Announced!
+
+<!-- ## Players
 <a href = "https://twitter.com/quintessenceanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/quinn.png" alt="Quintessence Anx" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tim Banks" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/lizthegrey" class = "player-episode-page" target = "_blank"><img src = "/images/players/liz-fong-jones.png" alt="Liz Fong-Jones" width="200" height="100" class = "player-episode-page"></a>
@@ -24,7 +26,7 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 <a href = "https://twitter.com/pczarkowski" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul.png" alt="Paul Czarkowski" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/petecheslock" class = "player-episode-page" target = "_blank"><img src = "/images/players/cheslock.png" alt="Pete Cheslock" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/gitbisect" class = "player-episode-page" target = "_blank"><img src = "/images/players/jason.png" alt="Jason Yee" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/gitbisect" class = "player-episode-page" target = "_blank"><img src = "/images/players/jason.png" alt="Jason Yee" width="200" height="100" class = "player-episode-page"></a> -->
 
 <br clear = "all">
 
