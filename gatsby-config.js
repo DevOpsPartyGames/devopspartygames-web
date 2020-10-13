@@ -56,6 +56,12 @@ module.exports = {
             }
         },
         {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+                endpoint: 'https://devopspartygames.us2.list-manage.com/subscribe/post?u=f5a52a13fe832c1bd09846fb3&amp;id=f653bcdca8',
+            },
+        },
+        {
             resolve: `@stackbit/gatsby-plugin-menus`,
             options: {
                 sourceUrlPath: `fields.url`,
