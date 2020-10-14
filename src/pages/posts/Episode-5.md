@@ -20,17 +20,19 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 We will be announcing all the All-Star contestents in the days leading up to the episode!
 
 <a href = "https://twitter.com/quintessenceanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/quinn.png" alt="Quintessence Anx" width="200" height="100" class = "player-episode-page"></a>
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tim Banks" width="200" height="100" class = "player-episode-page"></a> -->
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/wiredferret" class = "player-episode-page" target = "_blank"><img src = "/images/players/heidi.png" alt="Heidi Waterhouse" width="200" height="100" class = "player-episode-page"></a> -->
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/ian.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a> -->
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/pczarkowski" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul.png" alt="Paul Czarkowski" width="200" height="100" class = "player-episode-page"></a> -->
 <a href = "https://twitter.com/petecheslock" class = "player-episode-page" target = "_blank"><img src = "/images/players/cheslock.png" alt="Pete Cheslock" width="200" height="100" class = "player-episode-page"></a>
-
-<!-- ## Players
-<a href = "https://twitter.com/quintessenceanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/quinn.png" alt="Quintessence Anx" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tim Banks" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/wiredferret" class = "player-episode-page" target = "_blank"><img src = "/images/players/heidi.png" alt="Heidi Waterhouse" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/ian.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/pczarkowski" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul.png" alt="Paul Czarkowski" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/petecheslock" class = "player-episode-page" target = "_blank"><img src = "/images/players/cheslock.png" alt="Pete Cheslock" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/gitbisect" class = "player-episode-page" target = "_blank"><img src = "/images/players/jason.png" alt="Jason Yee" width="200" height="100" class = "player-episode-page"></a> -->
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a> -->
+<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
+<!-- <a href = "https://twitter.com/gitbisect" class = "player-episode-page" target = "_blank"><img src = "/images/players/jason.png" alt="Jason Yee" width="200" height="100" class = "player-episode-page"></a> -->
 
 <br clear = "all">
 
