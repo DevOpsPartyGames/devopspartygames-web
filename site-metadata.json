@@ -83,7 +83,8 @@
             },
             {
                 "label": "Mailing List",
-                "url": "/subscribe"
+                "url": "http://eepurl.com/hfXWCf",
+                "new_window": true
             }
         ],
        "content": "&copy; DevOps Party Games. All rights reserved.",
