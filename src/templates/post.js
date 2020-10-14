@@ -4,6 +4,7 @@ import _ from 'lodash';
 import {Layout} from '../components/index';
 import SEO from "../components/seo";
 import {safePrefix, htmlToReact} from '../utils';
+import Subscribe from '../components/MailingList';
 
 export default class Post extends React.Component {
     render() {
@@ -32,6 +33,7 @@ export default class Post extends React.Component {
                   }
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
+                    <Subscribe />
                   </div>
                   {/* <footer className="post-meta">
                     <time className="published"

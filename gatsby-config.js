@@ -5,6 +5,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-json`,
+        `gatsby-plugin-antd`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -54,6 +55,12 @@ module.exports = {
             options: {
                 
             }
+        },
+        {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+                endpoint: 'https://devopspartygames.us2.list-manage.com/subscribe/post?u=f5a52a13fe832c1bd09846fb3&amp;id=f653bcdca8',
+            },
         },
         {
             resolve: `@stackbit/gatsby-plugin-menus`,
