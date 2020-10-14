@@ -13,3 +13,9 @@ from = "/players"
 to = "https://bit.ly/IDPGPlayers"
 status = 301
 force = true
+
+[[redirects]]
+from = "/subscribe"
+to = "http://eepurl.com/hfXWCf"
+status = 301
+force = true
