@@ -7,11 +7,11 @@ image: images/conduct.jpg
 template: page
 ---
 
-All attendees, players, and hosts of Irreverent DevOps Party Games are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, players, and hosts of DevOps Party Games are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
-Our show is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any show venue, including Twitch chat, game play, Twitter, and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.
+Our show is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any show venue, including Twitch chat, game play, Discord, Twitter, and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.
 
 ### The Less Quick Version
 
@@ -25,4 +25,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event staff can be contacted at [devopspartygames@mattstratton.com](mailto:devopspartygames@mattstratton.com). Event staff will be happy to help assist those experiencing harassment to feel safe for the duration of the event. We value your participation.
 
-_The Irrevent DevOps Party Games Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
+_The DevOps Party Games Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
