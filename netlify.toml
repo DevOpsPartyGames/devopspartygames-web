@@ -19,3 +19,9 @@ from = "/subscribe"
 to = "http://eepurl.com/hfXWCf"
 status = 301
 force = true
+
+[[redirects]]
+from = "/discord"
+to = "https://discord.gg/XcVUDe9"
+status = 301
+force = true
