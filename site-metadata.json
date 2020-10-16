@@ -68,6 +68,11 @@
                 "new_window": true
             },
             {
+                "label": "Special Thanks",
+                "url": "/thanks",
+                "new_window": true
+            },
+            {
                 "label": "Contact Us",
                 "url": "/contact"
             }
@@ -84,6 +89,11 @@
             {
                 "label": "Mailing List",
                 "url": "http://eepurl.com/hfXWCf",
+                "new_window": true
+            },
+            {
+                "label": "Discord",
+                "url": "/discord",
                 "new_window": true
             }
         ],
