@@ -24,8 +24,7 @@ We will be announcing all the All-Star contestents in the days leading up to the
 <img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
 <!-- <a href = "https://twitter.com/wiredferret" class = "player-episode-page" target = "_blank"><img src = "/images/players/heidi.png" alt="Heidi Waterhouse" width="200" height="100" class = "player-episode-page"></a> -->
 <a href = "https://twitter.com/iancoldwater" class = "player-episode-page" target = "_blank"><img src = "/images/players/ian.png" alt="Ian Coldwater" width="200" height="100" class = "player-episode-page"></a>
-<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
-<!-- <a href = "https://twitter.com/pczarkowski" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul.png" alt="Paul Czarkowski" width="200" height="100" class = "player-episode-page"></a> -->
+<a href = "https://twitter.com/pczarkowski" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul.png" alt="Paul Czarkowski" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/petecheslock" class = "player-episode-page" target = "_blank"><img src = "/images/players/cheslock.png" alt="Pete Cheslock" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/nimbinatus" class = "player-episode-page" target = "_blank"><img src = "/images/players/laura.png" alt="Laura Santamaria" width="200" height="100" class = "player-episode-page"></a>
 <img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
