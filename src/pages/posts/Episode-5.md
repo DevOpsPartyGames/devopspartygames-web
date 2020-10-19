@@ -7,7 +7,7 @@ date: '2020-10-27'
 thumb_image: images/episodes/episode5_thumb.png
 image: images/episodes/episode5.png
 template: post
-ogimage: /images/allstar-teaser.png
+ogimage: /images/episodes/heidi.png
 ---
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTdlYTl1Z2MzaWxja2c3YjlobnMzZ2d0NmQgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="/images/add-to-calendar.png" class = "player-episode-page"></a>	
 <br clear = "all">
