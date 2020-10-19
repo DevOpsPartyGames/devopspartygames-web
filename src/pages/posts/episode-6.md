@@ -18,7 +18,6 @@ Games include one round each of [Quiplash 3](https://www.jackboxgames.com/quipla
 Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 
 ## Players
-We will be announcing all the All-Star contestents in the days leading up to the episode!
 
 <a href = "https://twitter.com/jpaulreed" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul-reed.png" alt="J. Paul Reed" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/_mallorybrewer_" class = "player-episode-page" target = "_blank"><img src = "/images/players/mallory-brewer.png" alt="Mallory Brewer" width="200" height="100" class = "player-episode-page"></a>
