@@ -34,3 +34,4 @@ We will be announcing all the All-Star contestents in the days leading up to the
 ## Hosts
 <a href = "https://twitter.com/mattstratton" class = "player-episode-page"><img src = "/images/hosts/matty.png" alt="Matt Stratton" width="150" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/IAmJerdog" class = "player-episode-page"><img src = "/images/hosts/jeremy.png" alt="Jeremy Meiss" width="150" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/littleidea" class = "player-episode-page"><img src = "/images/hosts/andrew-clay-shafer.png" alt="Andrew Clay Shafer" width="150" height="100" class = "player-episode-page"></a>
