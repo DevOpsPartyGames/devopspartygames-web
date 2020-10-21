@@ -17,7 +17,7 @@ Games include one round each of [Patently Stupid](https://www.jackboxgames.com/p
 Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 
 ## Players
-We will be announcing all the All-Star contestents in the days leading up to the episode!
+Featuring a roster of returning DevOps Party Games favorites!
 
 <a href = "https://twitter.com/quintessenceanx" class = "player-episode-page" target = "_blank"><img src = "/images/players/quinn.png" alt="Quintessence Anx" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/elchefe" class = "player-episode-page" target = "_blank"><img src = "/images/players/tim-banks.png" alt="Tim Banks" width="200" height="100" class = "player-episode-page"></a>
