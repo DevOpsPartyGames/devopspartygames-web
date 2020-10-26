@@ -20,15 +20,13 @@ Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 ## Players
 
 <a href = "https://twitter.com/jpaulreed" class = "player-episode-page" target = "_blank"><img src = "/images/players/paul-reed.png" alt="J. Paul Reed" width="200" height="100" class = "player-episode-page"></a>
-<a href = "https://twitter.com/_mallorybrewer_" class = "player-episode-page" target = "_blank"><img src = "/images/players/mallory-brewer.png" alt="Mallory Brewer" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/malwaaare" class = "player-episode-page" target = "_blank"><img src = "/images/players/mallory-brewer.png" alt="Mallory Brewer" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/mbbroberg" class = "player-episode-page" target = "_blank"><img src = "/images/players/matt-broberg.png" alt="Matt Broberg" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/divineops" class = "player-episode-page" target = "_blank"><img src = "/images/players/sasha-rosenbaum.png" alt="Sasha Rosenbaum" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/mindseyeccf" class = "player-episode-page" target = "_blank"><img src = "/images/players/ashton-rodeniser.png" alt="Ashton Rodenhiser" width="200" height="100" class = "player-episode-page"></a>
-<img src = "/images/players/mystery-guest2.png" alt="Mystery Guest" width="200" height="100" class = "player-episode-page">
-<!-- <a href = "https://twitter.com/sonofgarr" class = "player-episode-page" target = "_blank"><img src = "/images/players/mike-mcgarr.png" alt="Mike McGarr" width="200" height="100" class = "player-episode-page"></a> -->
-<a href = "https://twitter.com/joelaha" class = "player-episode-page" target = "_blank"><img src = "/images/players/joelaha.png" alt="Joe Laha" width="200" height="100" class = "player-episode-page"></a>
+<a href = "https://twitter.com/darkandnerdy" class = "player-episode-page" target = "_blank"><img src = "/images/players/jeff-smith.png" alt="Jeff Smith" width="200" height="100" class = "player-episode-page"></a>
 <a href = "https://twitter.com/jillwohlner" class = "player-episode-page" target = "_blank"><img src = "/images/players/jill-wohlner.png" alt="Jill Wohlner" width="200" height="100" class = "player-episode-page"></a>
-
+<a href = "https://twitter.com/joelaha" class = "player-episode-page" target = "_blank"><img src = "/images/players/joelaha.png" alt="Joe Laha" width="200" height="100" class = "player-episode-page"></a>
 
 <br clear = "all">
 
