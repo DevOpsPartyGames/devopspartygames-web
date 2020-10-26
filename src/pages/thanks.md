@@ -23,3 +23,4 @@ The following folks are helpful moderators of our [Twitch stream](https://twitch
 - [Austin Parker](https://twitter.com/austinlparker)
 - [Paul Czarkowski](https://twitter.com/pczarkowski)
 - [Taylor Barnett](https://twitter.com/taylor_atx)
+- [Aaron Aldrich](https://twitter.com/crayzeigh)
