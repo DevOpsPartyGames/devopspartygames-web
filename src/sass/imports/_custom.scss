@@ -17,11 +17,11 @@ a.player-episode-page {
 }
 
 h1 {
-  font-family: PartyCrush-Regular;
-  color: #ff6a42;
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
 }
 
 h2 {
-  font-family: PartyCrush-Regular;
-  color: #ff6a42;
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
 }
