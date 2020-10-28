@@ -2,19 +2,20 @@
 title: DevOps Party Games All-Stars Edition
 subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+All-Star+Edition&iso=20201027T20&p1=64&ah=1" target = "_blank">Tuesday, October 27, 8 PM CT</a> 
 excerpt: >-
-  Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+All-Star+Edition&iso=20201027T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, October 27
+  Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+All-Star+Edition&iso=20201027T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, October 27
 date: '2020-10-27'
 thumb_image: images/episodes/episode5_thumb.png
 image: images/episodes/episode5.png
 template: post
 ogimage: /images/episodes/heidi.png
 ---
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTdlYTl1Z2MzaWxja2c3YjlobnMzZ2d0NmQgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="/images/add-to-calendar.png" class = "player-episode-page"></a>	
-<br clear = "all">
+
+Results of the games (order t-shirts or share on social media)
+
+- [Patently Stupid](https://games.jackbox.tv/artifact/PatentlyStupidGame/cff21d3a2dc384e0f0f3d27c7f8513b5/)
+- [TKO](http://games.jackbox.tv/artifact/TeeKOGame/4e67b6c01b046b56da7e4b2d8c91f79a/)
 
 Games include one round each of [Patently Stupid](https://www.jackboxgames.com/patently-stupid/) and [TKO](https://www.jackboxgames.com/tee-ko/)!
-
-Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
 
 ## Players
 Featuring a roster of returning DevOps Party Games favorites!
