@@ -121,45 +121,84 @@
       "episode": 3
     },
     {
-      "player":"nathenharvey",
+      "player": "nathenharvey",
       "score": 6,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"lizthegrey",
+      "player": "lizthegrey",
       "score": 12,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"elchefe",
+      "player": "elchefe",
       "score": 23,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"chloecondon",
+      "player": "chloecondon",
       "score": 13,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"shelbyspees",
+      "player": "shelbyspees",
       "score": 11,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"bonniea",
+      "player": "bonniea",
       "score": 11,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"iancoldwater",
+      "player": "iancoldwater",
       "score": 16,
-      "episode":4
+      "episode": 4
     },
     {
-      "player":"nimbinatus",
+      "player": "nimbinatus",
       "score": 16,
-      "episode":4
+      "episode": 4
+    },
+    {
+      "player": "nimbinatus",
+      "score": 10,
+      "episode": 5
+    },
+    {
+      "player": "petecheslock",
+      "score": 13,
+      "episode": 5
+    },
+    {
+      "player": "iancoldwater",
+      "score": 8,
+      "episode": 5
+    },
+    {
+      "player": "pczarkowski",
+      "score": 3,
+      "episode": 5
+    },
+    {
+      "player": "wiredferret",
+      "score": 10,
+      "episode": 5
+    },
+    {
+      "player": "elchefe",
+      "score": 1,
+      "episode": 5
+    },
+    {
+      "player": "quintessenceanx",
+      "score": 5,
+      "episode": 5
+    },
+    {
+      "player": "gitbisect",
+      "score": 8,
+      "episode": 5
     }
-
   ]
 }
