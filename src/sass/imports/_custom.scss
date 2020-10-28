@@ -7,3 +7,21 @@ img.player-episode-page {
 a.player-episode-page {
     border-bottom: 0;
 }
+
+.PartyCrush-Thin {
+	font-family: PartyCrush-Thin;
+}.PartyCrush-Regular {
+	font-family: PartyCrush-Regular;
+}.PartyCrush-Inline {
+	font-family: PartyCrush-Inline;
+}
+
+h1 {
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
+}
+
+h2 {
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
+}

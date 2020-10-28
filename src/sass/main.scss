@@ -18,9 +18,10 @@ $palette: (
   accent-green:      #438945,
   accent-green-alt:  #73bb75,
   accent-orange:     #fe8c00,
-  accent-orange-alt: #f83600
+  accent-orange-alt: #f83600,
+  partygames-orange: #ff6a42,
 );
-
+@import url("//hello.myfonts.net/count/3c849d");
 @import "imports/functions";
 
 @import "imports/reset";
@@ -34,3 +35,4 @@ $palette: (
 @import "imports/palettes";
 @import "imports/custom";
 @import "imports/banner";
+@import "imports/fonts";
