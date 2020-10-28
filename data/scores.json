@@ -159,6 +159,46 @@
       "player":"nimbinatus",
       "score": 16,
       "episode":4
+    },
+        {
+      "player":"nimbinatus",
+      "score": 10,
+      "episode":5
+    },
+        {
+      "player":"petecheslock",
+      "score": 13,
+      "episode":5
+    },
+        {
+      "player":"iancoldwater",
+      "score": 8,
+      "episode":5
+    },
+        {
+      "player":"pczarkowski",
+      "score": 3,
+      "episode":5
+    },
+        {
+      "player":"wiredferret",
+      "score": 10,
+      "episode":5
+    },
+        {
+      "player":"elchefe",
+      "score": 1,
+      "episode":5
+    },
+    {
+      "player":"quintessenceanx",
+      "score": 5,
+      "episode":5
+    },
+    {
+      "player":"gitbisect",
+      "score": 8,
+      "episode":5
     }
 
   ]
