@@ -1,0 +1,42 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3966109, 2020-10-28T08:41:39-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: PartyCrush-Thin by PizzaDude.dk
+ * URL: https://www.myfonts.com/fonts/pizzadude/party-crush/thin/
+ * 
+ * Webfont: PartyCrush-Regular by PizzaDude.dk
+ * URL: https://www.myfonts.com/fonts/pizzadude/party-crush/regular/
+ * 
+ * Webfont: PartyCrush-Inline by PizzaDude.dk
+ * URL: https://www.myfonts.com/fonts/pizzadude/party-crush/inline/
+ * 
+ * 
+ * Webfonts copyright: Copyright (c) 2018 by Jakob Fischer / pizzadude.dk. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+// @import url("//hello.myfonts.net/count/3c849d");
+  
+@font-face {
+  font-family: 'PartyCrush-Inline';
+  src: url('/fonts/PartyCrush-Inline/font.woff2') format('woff2'), url('fonts/PartyCrush-Inline/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'PartyCrush-Regular';
+  src: url('/fonts/PartyCrush-Regular/font.woff2') format('woff2'), url('fonts/PartyCrush-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'PartyCrush-Thin';
+  src: url('/fonts/PartyCrush-Thin/font.woff2') format('woff2'), url('fonts/PartyCrush-Thin/font.woff') format('woff');
+}
+
