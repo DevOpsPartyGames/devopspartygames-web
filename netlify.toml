@@ -31,3 +31,9 @@ from = "/calendar"
 to = "https://calendar.google.com/calendar/u/0?cid=cG12aHNpb3N1amE0aTJsbW1jN2U4Zm5xOGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
 status = 301
 force = true
+
+[[redirects]]
+from "/store"
+to = "https://teespring.com/stores/devopspartygames"
+status = 301
+force = true
