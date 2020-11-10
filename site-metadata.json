@@ -95,6 +95,11 @@
                 "label": "Discord",
                 "url": "https://devopspartygames.com/discord",
                 "new_window": true
+            },
+            {
+                "label": "Store",
+                "url": "https://devopspartygames.com/store",
+                "new_window": true
             }
         ],
        "content": "&copy; DevOps Party Games. All rights reserved.",
