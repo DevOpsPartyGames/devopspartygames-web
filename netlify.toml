@@ -33,7 +33,7 @@ status = 301
 force = true
 
 [[redirects]]
-from "/store"
+from = "/store"
 to = "https://teespring.com/stores/devopspartygames"
 status = 301
 force = true
