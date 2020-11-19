@@ -39,7 +39,7 @@
     },
     "footer": {
         "logo_img": "images/logo_alt.png",
-        "tagline": "Putting the 'oops' in DevOps",
+        "tagline": "Because comedy is tragedy plus YAML",
         "has_nav": true,
         "nav_title": "Show Info",
         "nav_links": [
