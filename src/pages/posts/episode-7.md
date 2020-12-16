@@ -2,7 +2,7 @@
 title: DevOps Party Games Holiday Edition
 subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode-7&iso=20201215T20&p1=64&ah=1" target = "_blank">Tuesday, December 15, 8 PM CT</a> 
 excerpt: >-
-  Streaming live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode-7&iso=20201215T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, December 15
+  Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode-7&iso=20201215T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, December 15
 date: '2020-12-15'
 thumb_image: images/episodes/episode_thumb-template.png
 image: images/episodes/episode-template.png
@@ -10,12 +10,14 @@ template: post
 ogimage: /images/episodes/episode7-social.png
 ---
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGE0NTducTFmMm50c2lva2VjNmN1NWExZzUgZHUyYXJxZGhlcjJsNGs0MTducXRsdjE4ZmNAZw&amp;tmsrc=du2arqdher2l4k417nqtlv18fc%40group.calendar.google.com"><img border="0" src="/images/add-to-calendar.png" class = "player-episode-page"></a>
-<br clear = "all">
+Results of the games (order t-shirts or share on social media)
+
+- [Quiplash](https://games.jackbox.tv/artifact/quiplash3Game/567393a7b15547eae368055d9ee3ccc7/)
+- [Drawful](http://games.jackbox.tv/artifact/DrawfulGame/2a0bbf830f34e83403a16ee0bb010a76/)
 
 Games include one round each of [Quiplash 3](https://www.jackboxgames.com/quiplash-three/) and [Drawful](https://www.jackboxgames.com/drawful-two/), with DevOps-themed prompts!
 
-Join the livestream at [twitch.tv/mattstratton](https://twitch.tv/mattstratton)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zr7K8DuwlFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Players
 
