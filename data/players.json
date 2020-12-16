@@ -291,6 +291,70 @@
       "episodes": [
         6
         ]
+    },
+    {
+      "name":"Jocelyn Matthews",
+      "twitter":"bffjossy",
+      "image":"jocelyn-matthews.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Michael Ducy",
+      "twitter":"mfdii",
+      "image":"michael-ducy.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Chrstina Warren",
+      "twitter":"film_girl",
+      "image":"christina-warren.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Jacquie Grindrod",
+      "twitter":"devopsjacquie",
+      "image":"jacquie-grindrod.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Bryan Liles",
+      "twitter":"bryanl",
+      "image":"bryan-liles.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Jason Hand",
+      "twitter":"jasonhand",
+      "image":"jason-hand.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Jam Leomi",
+      "twitter":"jamfish728",
+      "image":"jam-leomi.png",
+      "episodes": [
+        7
+        ]
+    },
+    {
+      "name":"Katie McLaughlin",
+      "twitter":"glasnt",
+      "image":"katie-mclaughlin.png",
+      "episodes": [
+        7
+        ]
     }
   ]
 }
