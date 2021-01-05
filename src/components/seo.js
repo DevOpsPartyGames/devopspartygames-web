@@ -29,7 +29,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const defaultOpenGraphImage = '/images/episodes/episode7-social.png'
+  const defaultOpenGraphImage = '/images/episodes/s02e01-twittercard.png'
   const ogImageUrl = 
     site.siteMetadata.siteUrl +
     ( image || defaultOpenGraphImage )
