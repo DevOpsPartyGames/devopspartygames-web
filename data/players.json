@@ -119,7 +119,8 @@
       "image": "paul.png",
       "episodes": [
         2,
-        5
+        5,
+        8
       ]
     },
     {
@@ -354,6 +355,62 @@
       "image":"katie-mclaughlin.png",
       "episodes": [
         7
+        ]
+    },
+    {
+      "name":"Stormy",
+      "twitter":"stormy_prime",
+      "image":"stormy.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Kris Howard",
+      "twitter":"web_goddess",
+      "image":"kris-howard.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Kai Hoffman",
+      "twitter":"kaipmdh",
+      "image":"kai-hoffman.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Serhat Can",
+      "twitter":"srhtcn",
+      "image":"serhat-can.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Lucy Davinhart",
+      "twitter":"LucyDavinhart",
+      "image":"lucy-davinhart.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Sharone Zitzman",
+      "twitter":"shar1z",
+      "image":"sharone-zitzman.png",
+      "episodes": [
+        8
+        ]
+    },
+    {
+      "name":"Cobus Bernard",
+      "twitter":"cobusbernard",
+      "image":"cobus-bernard.png",
+      "episodes": [
+        8
         ]
     }
   ]
