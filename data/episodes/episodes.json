@@ -1,0 +1,84 @@
+{
+  "episodes": [
+    {
+      "id": "1.1.na",
+      "title": "Season 1 Episode 1",
+      "slug": "s01e01",
+      "region": "North America",
+      "players": [
+        "heidi.waterhouse",
+        "corey.quinn",
+        "kat.cosgrove",
+        "jeff.smith",
+        "jason.yee",
+        "quintessence.anx",
+        "amy.tobey",
+        "pete.cheslock"
+      ],
+      "games": [
+        "drawful",
+        "quiplash"
+      ]
+    },
+    {
+      "id": "1.2.na",
+      "title": "Season 1 Episode 2",
+      "slug": "s01e02",
+      "region": "North America",
+      "players": [],
+      "games": []
+    },
+    {
+      "id": "1.3.na",
+      "title": "Season 1 Episode 3",
+      "slug": "s01e03",
+      "region": "North America",
+      "players": [],
+      "games": []
+    },
+    {
+      "id": "1.4.na",
+      "title": "Season 1 Episode 4",
+      "slug": "s01e04",
+      "players": [],
+      "games": []
+
+    },
+    {
+      "id": "1.5.na",
+      "title": "Season 1 Episode 5",
+      "slug": "s01e05",
+      "players": [],
+      "games": []
+
+    },
+    {
+      "id": "1.6.na",
+      "title": "Season 1 Episode 6",
+      "slug": "s01e06",
+      "players": [],
+      "games": []
+    },
+    {
+      "id": "1.7.na",
+      "title": "Season 1 Episode 7",
+      "slug": "s01e07",
+      "players": [],
+      "games": []
+    },
+    {
+      "id": "2.1.emea",
+      "title": "Season 2 Episode 1",
+      "slug": "s02e01",
+      "players": [],
+      "games": []
+    },
+    {
+      "id": "2.2.na",
+      "title": "Season 2 Episode 2",
+      "slug": "s02e02",
+      "players": [],
+      "games": []
+    }
+  ]
+}

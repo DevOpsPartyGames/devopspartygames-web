@@ -17,13 +17,35 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `data`,
-                path: `${__dirname}/data`
+                path: `${__dirname}/data`,
+                plugins: [
+                    `gatsby-transformer-json`
+                ]
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `players`,
+                path: `${__dirname}/data/players`,
+                plugins: [
+                    `gatsby-transformer-json`
+                ]
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `episodes`,
+                path: `${__dirname}/data/episodes`,
+                plugins: [
+                    `gatsby-transformer-json`
+                ]
             }
         },
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-              // replace "UA-XXXXXXXXX-X" with your own Tracking ID
               trackingId: "UA-167098414-1",
             },
         },

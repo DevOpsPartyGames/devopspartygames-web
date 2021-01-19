@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash";
-import ScoreRow from "../components/ScoreRow";
-import PlayerData from "../../data/players.json"
+// import ScoreRow from "../components/ScoreRow";
+import PlayerData from "../../data/players/players.json"
 import ScoreData from "../../data/scores.json"
 
 export class Leaderboard extends React.Component {
@@ -17,9 +17,9 @@ export class Leaderboard extends React.Component {
 
     sumScores() {
         let sorted = []
-        this.state.players.map( player => {
+        this.state.players.forEach( player => {
             let sum = 0
-            let scoreArray = ScoreData.scores.filter(record => record.player === player.twitter)
+            let scoreArray = ScoreData.scores.filter(record => record.player === player.id)
             scoreArray.forEach( (elem) =>
                 sum = sum + elem.score
             );
@@ -31,7 +31,7 @@ export class Leaderboard extends React.Component {
 
     sortPlayers() {
         let sortedScores = this.sumScores();
-        console.log(sortedScores)
+        // console.log(sortedScores)
         this.setState({
             ...this.state,
             isLoaded: true,
@@ -69,8 +69,8 @@ export class Leaderboard extends React.Component {
                 </tr>
                 </thead>
                 <tbody>
-                {data.map(player1 =>
-                        <tr>
+                {data.map((player1, key) =>
+                        <tr key={key}>
                             <td>{player1.player.name}</td>
                             <td>{player1.scores}</td>
                         </tr>

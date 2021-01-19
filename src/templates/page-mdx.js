@@ -2,8 +2,10 @@ import React from "react";
 import {MDXRenderer} from "gatsby-plugin-mdx";
 import {Helmet} from "react-helmet";
 import {safePrefix} from "../utils";
-import MDXHeader from "../components/MDXHeader";
-import MDXFooter from "../components/MDXFooter";
+// import MDXHeader from "../components/MDXHeader";
+// import MDXFooter from "../components/MDXFooter";
+import FooterNM from "../components/FooterNM";
+import HeaderNM from "../components/HeaderNM";
 import {StaticQuery, graphql} from "gatsby";
 
 export default function PageMdx() {
@@ -70,7 +72,7 @@ export default function PageMdx() {
                                  <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                              </Helmet>
                              <div id="page" className='site palette-blue'>
-                                 <MDXHeader {...data} />
+                                 <HeaderNM {...data.site.siteMetadata} />
                                  <main id="content" className="site-content">
                                      <div className="outer">
                                          <div className="inner-medium">
@@ -97,7 +99,7 @@ export default function PageMdx() {
                                          </div>
                                      </div>
                                  </main>
-                                 <MDXFooter {...data} />
+                                 <FooterNM {...data.site.siteMetadata} />
                              </div>
                          </React.Fragment>
                      )}

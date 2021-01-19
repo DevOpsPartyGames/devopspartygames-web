@@ -1,324 +1,452 @@
 {
   "scores": [
     {
-      "player": "quintessenceanx",
+      "player": "quintessence.anx",
       "score": 21,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "petecheslock",
+      "player": "pete.cheslock",
       "score": 28,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "Dixie3Flatline",
+      "player": "kat.cosgrove",
       "score": 32,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "wiredferret",
+      "player": "heidi.waterhouse",
       "score": 25,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "quinnypig",
+      "player": "corey.quinn",
       "score": 34,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "gitbisect",
+      "player": "jason.yee",
       "score": 30,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "MissAmyTobey",
+      "player": "amy.tobey",
       "score": 24,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "DarkAndNerdy",
+      "player": "jeff.smith",
       "score": 25,
-      "episode": 1
+      "season": 1,
+      "episode": 1,
+      "region": "NA"
     },
     {
-      "player": "TheJewberwocky",
+      "player": "josh.zimmerman",
       "score": 19,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "julian_dunn",
+      "player": "julian.dunn",
       "score": 15,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "Dixie3Flatline",
+      "player": "kat.cosgrove",
       "score": 15,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "nimbinatus",
+      "player": "laura.santamaria",
       "score": 9,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "pczarkowski",
+      "player": "paul.czarkowski",
       "score": 24,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "taylor_atx",
+      "player": "taylor.barnett",
       "score": 9,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "gwaldo",
+      "player": "waldo.g",
       "score": 13,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "wesley83",
+      "player": "wesley.faulkner",
       "score": 8,
-      "episode": 2
+      "season": 1,
+      "episode": 2,
+      "region": "NA"
     },
     {
-      "player": "crayzeigh",
+      "player": "aaron.aldrich",
       "score": 14,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "ana_m_medina",
+      "player": "ana.medina",
       "score": 19,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "austinlparker",
+      "player": "austin.parker",
       "score": 9,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "jessalyn",
+      "player": "jessica.brown",
       "score": 8,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "jessitron",
+      "player": "jessica.kerr",
       "score": 9,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "petecheslock",
+      "player": "pete.cheslock",
       "score": 17,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "aspleenic",
+      "player": "pj.hagerty",
       "score": 11,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "thelongshanx",
+      "player": "tiffany.longworth",
       "score": 22,
-      "episode": 3
+      "season": 1,
+      "episode": 3,
+      "region": "NA"
     },
     {
-      "player": "nathenharvey",
+      "player": "nathen.harvey",
       "score": 6,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "lizthegrey",
+      "player": "liz.fong.jones",
       "score": 12,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "elchefe",
+      "player": "tim.banks",
       "score": 23,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "chloecondon",
+      "player": "chloe.condon",
       "score": 13,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "shelbyspees",
+      "player": "shelby.spees",
       "score": 11,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "bonniea",
+      "player": "bonnie.aumann",
       "score": 11,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "iancoldwater",
+      "player": "ian.coldwater",
       "score": 16,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "nimbinatus",
+      "player": "laura.santamaria",
       "score": 16,
-      "episode": 4
+      "season": 1,
+      "episode": 4,
+      "region": "NA"
     },
     {
-      "player": "nimbinatus",
+      "player": "laura.santamaria",
       "score": 10,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "petecheslock",
+      "player": "pete.cheslock",
       "score": 13,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "iancoldwater",
+      "player": "ian.coldwater",
       "score": 8,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "pczarkowski",
+      "player": "paul.czarkowski",
       "score": 3,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "wiredferret",
+      "player": "heidi.waterhouse",
       "score": 10,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "elchefe",
+      "player": "tim.banks",
       "score": 1,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "quintessenceanx",
+      "player": "quintessence.anx",
       "score": 5,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "gitbisect",
+      "player": "jason.yee",
       "score": 8,
-      "episode": 5
+      "season": 1,
+      "episode": 5,
+      "region": "NA"
     },
     {
-      "player": "jpaulreed",
+      "player": "j.paul.reed",
       "score": 15,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "Dixie3Flatline",
+      "player": "kat.cosgrove",
       "score": 19,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "mbbroberg",
+      "player": "matt.broberg",
       "score": 16,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "divineops",
+      "player": "sasha.rosenbaum",
       "score": 11,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "mindseyeccf",
+      "player": "ashton.rodenhiser",
       "score": 12,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "darkandnerdy",
+      "player": "jeff.smith",
       "score": 14,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "jillwohlner",
+      "player": "jill.wohlner",
       "score": 7,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "joelaha",
+      "player": "joe.laha",
       "score": 15,
-      "episode": 6
+      "season": 1,
+      "episode": 6,
+      "region": "NA"
     },
     {
-      "player": "bffjossy",
+      "player": "jocelyn.matthews",
       "score": 8,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "mfdii",
+      "player": "michael.ducy",
       "score": 11,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "film_girl",
+      "player": "christina.warren",
       "score": 15,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "bryanl",
+      "player": "bryan.liles",
       "score": 7,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "jamfish728",
+      "player": "jam.leomi",
       "score": 15,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "devopsjacquie",
+      "player": "jacquie.grindrod",
       "score": 12,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "jasonhand",
+      "player": "jason.hand",
       "score": 19,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "glasnt",
+      "player": "katie.mclaughlin",
       "score": 24,
-      "episode": 7
+      "season": 1,
+      "episode": 7,
+      "region": "NA"
     },
     {
-      "player": "stormy_prime",
+      "player": "stormy",
       "score": 22,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "web_goddess",
+      "player": "kris.howard",
       "score": 10,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "srhtcn",
+      "player": "serhat.can",
       "score": 13,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "LucyDavinhart",
+      "player": "lucy.davinhart",
       "score": 15,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "pczarkowski",
+      "player": "paul.czarkowski",
       "score": 20,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "kaipmdh",
+      "player": "kai.hoffman",
       "score": 14,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "shar1z",
+      "player": "sharone.zitzman",
       "score": 6,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     },
     {
-      "player": "cobusbernard",
+      "player": "cobus.bernard",
       "score": 9,
-      "episode": 8
+      "season": 2,
+      "episode": 1,
+      "region": "EMEA"
     }
   ]
 }
