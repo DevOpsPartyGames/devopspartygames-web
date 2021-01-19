@@ -55,8 +55,11 @@
             {
                 "label": "Code of Conduct",
                 "url": "/code-of-conduct"
-            }
-            ,
+            },
+            {
+                "label": "Thought Leaderboard",
+                "url": "/scoreboard"
+            },
             {
                 "label": "Submit Prompt Ideas",
                 "url": "https://forms.gle/57mKCieY22UezbJi8",
