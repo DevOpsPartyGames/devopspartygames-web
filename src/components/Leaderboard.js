@@ -58,7 +58,11 @@ export class Leaderboard extends React.Component {
     render() {
         const {isLoaded, data} = this.state
         return (
-            <div>{ isLoaded &&
+            <div>
+                <noscript>
+                    <p>...unless you have Javascript disabled. Sorry, Laura's always at the top of the leaderboard then.</p>
+                </noscript>
+                { isLoaded &&
         <div style={{maxWidth: `960px`, margin: `1.45rem`}}>
             <h1>Scoreboard</h1>
             <table>
