@@ -4,7 +4,7 @@ subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fi
 excerpt: >-
   Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=Irreverent+DevOps+Party+Games+Episode+1&iso=20200630T20&p1=64&ah=2" target = "_blank">8 PM CT</a><br> on Tuesday, June 30
 date: '2020-06-30'
-thumb_image: images/episodes/episode1_thumb.png
+thumb_image: images/episodes/episode1_thumb.jpeg
 image: images/episodes/episode1.png
 template: post
 ogimage: /images/episodes/episode1-social.png

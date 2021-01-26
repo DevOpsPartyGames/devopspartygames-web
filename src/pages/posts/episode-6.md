@@ -4,7 +4,7 @@ subtitle: Broadcast live at <a href = "https://www.timeanddate.com/worldclock/fi
 excerpt: >-
   Streamed live at <a href = "https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games+Episode-6&iso=20201117T20&p1=64&ah=1" target = "_blank">8 PM CT</a><br> on Tuesday, November 17
 date: '2020-11-17'
-thumb_image: images/episodes/episode6_thumb.png
+thumb_image: images/episodes/episode6_thumb.jpeg
 image: images/episodes/episode6.png
 template: post
 ogimage: /images/episodes/episode6-social.png
