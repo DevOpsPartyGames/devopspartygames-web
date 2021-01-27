@@ -5,7 +5,8 @@
       "twitter": "quinnypig",
       "image": "corey.png",
       "episodes": [
-        1
+        1,
+        9
       ]
     },
     {
@@ -33,7 +34,8 @@
       "episodes": [
         1,
         2,
-        6
+        6,
+        9
       ]
     },
     {
@@ -176,7 +178,8 @@
       "twitter":"austinlparker",
       "image":"austin.png",
       "episodes": [
-        3
+        3,
+        9
       ]
     },
     {
@@ -193,7 +196,8 @@
       "image": "tim-banks.png",
       "episodes": [
         4,
-        5
+        5,
+        9
         ]
     },
     {
@@ -226,7 +230,8 @@
       "image":"team-coldwater.png",
       "episodes":[
         4,
-        5
+        5,
+        9
         ]
     },
     {
@@ -412,6 +417,30 @@
       "episodes": [
         8
         ]
+    },
+    {
+      "name":"Cassidy Williams",
+      "twitter":"cassidoo",
+      "image":"cassidy-williams.png",
+      "episodes": [
+        9
+      ]
+    },
+    {
+      "name":"Jessica West",
+      "twitter":"jessicaewest",
+      "image":"jessica-west.png",
+      "episodes": [
+        9
+      ]
+    },
+    {
+      "name":"Simpsons Against DevOps",
+      "twitter":"simpsonsops",
+      "image":"simpsons-ops.png",
+      "episodes": [
+        9
+      ]
     }
   ]
 }
