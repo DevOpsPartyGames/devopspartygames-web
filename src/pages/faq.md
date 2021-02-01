@@ -17,13 +17,13 @@ We stream episodes once a month, usually on the last Tuesday of the month, at 8 
 Please use the hashtag [#devopspartygames](https://twitter.com/search?q=%23devopspartygames) for any tweets, before, or during, a show!
 
 ***How can I be a contestant in future episodes?***<br/>
-We maintain a curated list of players to help keep things balanced, but if you are interested in being a contestant on a future episode, [fill out this form](https://forms.gle/qztDdzxd3XdU66ka6)!
+We maintain a curated list of players to help keep things balanced, but if you are interested in being a contestant on a future episode, [fill out this form](https://devopspartygames.com/suggest-player)!
 
 ***Can I nominate someone to be a contestant?***<br/>
-Definitely! [Fill out this form](https://forms.gle/qztDdzxd3XdU66ka6) and let us know who you think would be amazing to have on the show!
+Definitely! [Fill out this form](https://devopspartygames.com/suggest-player) and let us know who you think would be amazing to have on the show!
 
 ***I have a great idea for a Drawful or Quiplash prompt!***<br/>
-Fantastic! We love your suggestions - and we even have [a handy form](https://forms.gle/57mKCieY22UezbJi8) for you to submit them!
+Fantastic! We love your suggestions - and we even have [a handy form](https://devopspartygames.com/suggest-prompt) for you to submit them!
 
 ***Will the games be "family friendly?"***<br />
 While we do have a [Code of Conduct](/code-of-conduct), the show is rated M for Mature. Plan accordingly.

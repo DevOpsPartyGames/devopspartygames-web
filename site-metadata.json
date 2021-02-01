@@ -62,12 +62,12 @@
             },
             {
                 "label": "Submit Prompt Ideas",
-                "url": "https://forms.gle/57mKCieY22UezbJi8",
+                "url": "/suggest-prompt",
                 "new_window": true
             },
             {
                 "label": "Suggest a Player",
-                "url": "https://forms.gle/qztDdzxd3XdU66ka6",
+                "url": "/suggest-player",
                 "new_window": true
             },
             {
