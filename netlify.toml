@@ -52,25 +52,25 @@ status = 301
 force = true
 
 [[redirects]]
-from = "suggest-player"
+from = "/suggest-player"
 to = "https://airtable.com/shrdoxisE5VQpsnGs"
 status = 301
 force = true
 
 [[redirects]]
-from = "suggestplayer"
+from = "/suggestplayer"
 to = "https://airtable.com/shrdoxisE5VQpsnGs"
 status = 301
 force = true
 
 [[redirects]]
-from = "suggest-prompt"
+from = "/suggest-prompt"
 to = "https://airtable.com/shrPE2retwrKcgk62"
 status = 301
 force = true
 
 [[redirects]]
-from = "suggestprompt"
+from = "/suggestprompt"
 to = "https://airtable.com/shrPE2retwrKcgk62"
 status = 301
 force = true
