@@ -50,10 +50,10 @@ You will receive a calendar invite for the game, which is the time you should jo
 
 We will also provide the ability for a “practice” session (optional) which will be “classic” Drawful and Quiplash, which could be helpful for players who are new to these games. You will get a calendar invite for this practice game; it’s totally optional, but join if you want! It should be fun.
 
-Here is a rough schedule (all times are the time zone of the game)
+Here's the rough schedule:
 
-19:30: Players join Discord and do audio checks/tech checks, etc<br />
-19:50: Stream on twitch.tv/mattstratton starts with countdown to show timer<br />
+19:30: Players join Discord and do audio checks/tech checks, etc.<br />
+19:50: Stream on twitch.tv/mattstratton starts with “countdown to show” timer<br />
 20:00: Show starts streaming live, audio from players is “hot”, etc. Hosts introduce the game and introduce the players<br />
 20:05: Start playing first game<br />
 20:30: Start playing second game<br />
