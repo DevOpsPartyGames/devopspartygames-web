@@ -21,7 +21,7 @@ We will be using “custom episodes” of Drawful and Quiplash, where all the pr
 So for example, a prompt you might get in Drawful is that you need to draw a picture of “full stack engineer” and the other players have to try to guess that!
 
 ## Code of Conduct
-All players will need to abide by a [Code of Conduct](https://devopspartygames.com/code-of-conduct). Remember that this will be broadcast live via Twitch, and also will be recorded to be viewed later, so keep that in mind!
+All players must abide by a [Code of Conduct](https://devopspartygames.com/code-of-conduct). Remember that this will be both broadcast live via Twitch and recorded for Youtube—so keep that in mind!
 
 Unofficially, our ESRB rating is “M” (Mature, 17+).
 
