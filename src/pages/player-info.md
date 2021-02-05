@@ -36,7 +36,7 @@ The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/ma
 
 The audience can join the game on their personal devices. While they don't play the games directly, they can vote on answers, and this can have a big impact on scoring. (Yes, pandering to the audience is absolutely a valid strategy.)
 
-There will be 6-8 players, who will play both rounds. The hosts (Matty, Jeremy, Dan) will not be playing (it would be slightly unfair since we wrote the prompts!)
+There will be 6–8 players, who will play both rounds. The hosts don't play (it would be slightly unfair since we know the prompts ahead of time).
 
 ## Discord
 If you are not already in our Discord server, please join with the invite link at [https://devopspartygames.com/discord](https://devopspartygames.com/discord). You will need to accept the Code of Conduct to get access to the server. **Please let an admin know when you have joined, and we will grant you the “Players” role that gives you more access in Discord.** We will use Discord for coordination and chatting amongst each other prior to the game, etc.
