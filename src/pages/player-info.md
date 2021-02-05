@@ -44,9 +44,9 @@ If you are not already in our Discord server, please join with the invite link a
 Note that the Discord is public for members of the community; there are private channels just for players and moderators though!
 
 ## Schedule
-Episodes are streamed at **20:00 CET / Paris** (EMEA league) or **20:00 CT / Chicago** (Americas league) on a **Tuesday**!  The game itself (all rounds) will likely take about an hour, but we will schedule an extra 30 minutes prior for “green room” time to make sure everything is working as expected. Please join the Discord voice channel (“Game”) **30 minutes before show time on game night** so we can do tech checks, etc.
+Episodes are generally streamed at **20:00 CET / Paris** (EMEA league) or **20:00 CT / Chicago** (Americas league) on a **Tuesday**. The game itself (all rounds) takes about an hour, but we schedule an extra 30 minutes prior for “green room” time to make sure everything is working as expected. Please join the Zoom call **30 minutes before show time on game night** so we can do tech checks, etc.
 
-You will receive a calendar invite for the game, which is the time you should join the "Game" channel in Discord and be ready to go.
+You will receive a calendar invite for the game, which will have all the salient details you'll need to connect.
 
 We will also provide the ability for a “practice” session (optional) which will be “classic” Drawful and Quiplash, which could be helpful for players who are new to these games. You will get a calendar invite for this practice game; it’s totally optional, but join if you want! It should be fun.
 
