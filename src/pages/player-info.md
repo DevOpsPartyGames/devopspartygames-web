@@ -34,7 +34,7 @@ Players will see the “screen” of the game via Zoom screen sharing. They will
 
 The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the audience watches and participates (more on that later). The Twitch channel displays the main screen of the game, plus the cameras of all players and hosts. All audio from the game (plus the Zoom call) is also streamed to Twitch, and audience interaction is encouraged!
 
-People watching the game can join the “audience” of the game on their personal devices; this lets them vote/participate in the rankings for the game as well! The audience doesn’t “play the game” but they vote on the players’ responses and can potentially influence the winners!
+The audience can join the game on their personal devices. While they don't play the games directly, they can vote on answers, and this can have a big impact on scoring. (Yes, pandering to the audience is absolutely a valid strategy.)
 
 There will be 6-8 players, who will play both rounds. The hosts (Matty, Jeremy, Dan) will not be playing (it would be slightly unfair since we wrote the prompts!)
 
