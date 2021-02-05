@@ -23,7 +23,7 @@ So for example, a prompt you might get in Drawful is that you need to draw a pic
 ## Code of Conduct
 All players will need to abide by a [Code of Conduct](https://devopspartygames.com/code-of-conduct). Remember that this will be broadcast live via Twitch, and also will be recorded to be viewed later, so keep that in mind!
 
-Unofficially, the ESRB rating for this will be “M” (Mature, 17+)
+Unofficially, our ESRB rating is “M” (Mature, 17+).
 
 That said, please refrain from sexualized jokes/content in gameplay.
 
