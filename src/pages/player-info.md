@@ -41,8 +41,6 @@ There will be 6-8 players, who will play both rounds. The hosts (Matty, Jeremy, 
 ## Discord
 If you are not already in our Discord server, please join with the invite link at [https://devopspartygames.com/discord](https://devopspartygames.com/discord). You will need to accept the Code of Conduct to get access to the server. **Please let an admin know when you have joined, and we will grant you the “Players” role that gives you more access in Discord.** We will use Discord for coordination and chatting amongst each other prior to the game, etc.
 
-Once you join Discord, send a note anyone listed under Admins in the Discord (Matty, Jeremy, or Dan) and let us know you are in; we will grant you the proper role to give you access to the Players role in Discord. 
-
 Note that the Discord is public for members of the community; there are private channels just for players and moderators though!
 
 ## Schedule
