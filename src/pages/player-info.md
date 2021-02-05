@@ -51,7 +51,7 @@ You also should set your “nickname” on our Discord server to your actual nam
 Note that the Discord is public for members of the community; there are private channels just for players and moderators though!
 
 ## Schedule
-Episodes are streamed at **20:00 UTC+1** (EMEA league) or **20:00 UTC-6** (Americas league) on a **Tuesday**!  The game itself (all rounds) will likely take about an hour, but we will schedule an extra 30 minutes prior for “green room” time to make sure everything is working as expected. Please join the Discord voice channel (“Game”) **30 minutes before show time on game night** so we can do tech checks, etc.
+Episodes are streamed at **20:00 CET / Paris** (EMEA league) or **20:00 CT / Chicago** (Americas league) on a **Tuesday**!  The game itself (all rounds) will likely take about an hour, but we will schedule an extra 30 minutes prior for “green room” time to make sure everything is working as expected. Please join the Discord voice channel (“Game”) **30 minutes before show time on game night** so we can do tech checks, etc.
 
 You will receive a calendar invite for the game, which is the time you should join the "Game" channel in Discord and be ready to go.
 
