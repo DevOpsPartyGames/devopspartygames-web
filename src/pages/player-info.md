@@ -71,9 +71,10 @@ Note that these times are estimated; we aren’t 100% sure how long each round w
 
 ## FAQ
 *When will this happen?*<br />
-**EMEA League** - 
-Episodes stream at 20:00 UTC+1 on the second Tuesday of each month.<br />
-**Americas League** Episodes stream at 20:00 UTC-6 on the last Tuesday of each month.
+**EMEA League** Episodes usually start at 20:00 CET / Paris on the second Tuesday of each month.<br />
+**Americas League** Episodes usually start at 20:00 CT / Chicago on the last Tuesday of each month.
+
+Also, see the **Schedule** section directly above.
 
 *Do I need to install anything?*<br>
 You do not need to install anything to play the games. However, you need to have Discord installed on a computer, and also a mobile device with a web browser (tablet or smartphone).
