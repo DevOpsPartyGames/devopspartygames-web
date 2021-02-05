@@ -69,11 +69,7 @@ Note that these times are estimated; we aren’t 100% sure how long each round w
 Also, see the **Schedule** section directly above.
 
 *Do I need to install anything?*<br>
-You do not need to install anything to play the games. However, you need to have Zoom installed on a computer, and also a mobile device with a web browser (tablet or smartphone).
-
-You can install Discord via [https://discord.com/download](https://discord.com/download) or if you use [Homebrew](https://brew.sh), just
-<br>
-`brew cask install discord`
+You need to have a functional Zoom client (capable of both audio and video) to join the stream, and a relatively modern web browser to play the games.
 
 *Do I need a Twitch account or anything?*<br>
 No.
