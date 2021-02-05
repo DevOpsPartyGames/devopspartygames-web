@@ -28,7 +28,7 @@ Unofficially, the ESRB rating for this will be “M” (Mature, 17+)
 That said, please refrain from sexualized jokes/content in gameplay.
 
 ## Logistics
-All contestants will connect to a private voice room in Discord (your video will be part of the stream; if you would prefer to be “camera off” please just let us know) - please note that you will need to use the Discord app, not just the web interface, for this. The invite to Discord is included in the calendar invitation you should have received. If you need a new one, email games@devopspartygames.com.
+All contestants and hosts will connect to a private voice room in Discord. Your video will be part of the stream—if you would prefer to be “camera off” please just let us know. Note that you will need to use the Discord app (not just the web interface) for this, as A/V in the web interface is wonky. You can join the Discord with the invite link at [devopspartygames.com/discord](https://devopspartygames.com/discord).
 
 Players will see the “screen” of the game via Discord screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc).
 
