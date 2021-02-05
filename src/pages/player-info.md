@@ -34,7 +34,6 @@ Players will see the “screen” of the game via Discord screen sharing. They w
 
 The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the “audience” can watch. The Twitch channel will display the main screen of the game, plus indicators of who is in the Discord room and when they are speaking. All audio from the game (plus the Discord call) will also be streamed to Twitch, so that contestants will be able to be heard.
 
-Please note: your camera **will** be on for the stream, so be “camera ready” (whatever that means to you!). If you would prefer to NOT have your camera show in the stream, please let Matty know.
 
 People watching the game can join the “audience” of the game on their personal devices; this lets them vote/participate in the rankings for the game as well! The audience doesn’t “play the game” but they vote on the players’ responses and can potentially influence the winners!
 
