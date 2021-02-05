@@ -12,7 +12,7 @@ DevOps Party Games takes this idea and tilts it on its head by adding DevOps-ins
 If you’d like to see an example, previous episodes can be viewed at [http://matty.wtf/devops-party-games](http://matty.wtf/devops-party-games).
 
 # The Format
-There will be two rounds - one round of Quiplash, and one round of Drawful.
+There are three rounds: one each of Quiplash, Thriplash (a variant of Quiplash), and Drawful.
 
 There will be a maximum of 8 contestants, who will play both rounds.
 
