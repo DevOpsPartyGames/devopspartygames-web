@@ -32,7 +32,7 @@ All contestants and hosts will connect to Zoom video call (the Zoom link will be
 
 Players will see the “screen” of the game via Zoom screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc).
 
-The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the “audience” can watch. The Twitch channel will display the main screen of the game, plus the cameras of all players and hosts. All audio from the game (plus the Zoom call) will also be streamed to Twitch, so that contestants will be able to be heard.
+The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the audience watches and participates (more on that later). The Twitch channel displays the main screen of the game, plus the cameras of all players and hosts. All audio from the game (plus the Zoom call) is also streamed to Twitch, and audience interaction is encouraged!
 
 People watching the game can join the “audience” of the game on their personal devices; this lets them vote/participate in the rankings for the game as well! The audience doesn’t “play the game” but they vote on the players’ responses and can potentially influence the winners!
 
