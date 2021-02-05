@@ -30,7 +30,7 @@ That said, please refrain from sexualized jokes/content in gameplay.
 ## Logistics
 All contestants and hosts will connect to Zoom video call (the Zoom link will be in your calendar invite). Your video will be part of the stream—if you would prefer to be “camera off” please just let us know.
 
-Players will see the “screen” of the game via Zoom screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc).
+Players will see the “screen” of the game via Zoom screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc). Players with multiple displays (or one _really big_ one) can use the same device for both. Keep in mind that games that require drawing (i.e., Drawful) can be a little more challenging when using a mouse or trackpad!
 
 The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the audience watches and participates (more on that later). The Twitch channel displays the main screen of the game, plus the cameras of all players and hosts. All audio from the game (plus the Zoom call) is also streamed to Twitch, and audience interaction is encouraged!
 
