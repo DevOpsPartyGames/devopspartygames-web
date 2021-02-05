@@ -28,25 +28,20 @@ Unofficially, the ESRB rating for this will be “M” (Mature, 17+)
 That said, please refrain from sexualized jokes/content in gameplay.
 
 ## Logistics
-All contestants and hosts will connect to a private voice room in Discord. Your video will be part of the stream—if you would prefer to be “camera off” please just let us know. Note that you will need to use the Discord app (not just the web interface) for this, as A/V in the web interface is wonky. You can join the Discord with the invite link at [devopspartygames.com/discord](https://devopspartygames.com/discord).
+All contestants and hosts will connect to Zoom video call (the Zoom link will be in your calendar invite). Your video will be part of the stream—if you would prefer to be “camera off” please just let us know.
 
-Players will see the “screen” of the game via Discord screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc).
+Players will see the “screen” of the game via Zoom screen sharing. They will use a second device (tablet, smartphone, etc) as the “controller” for the game (the place where they provide input/draw pictures, etc).
 
-The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the “audience” can watch. The Twitch channel will display the main screen of the game, plus indicators of who is in the Discord room and when they are speaking. All audio from the game (plus the Discord call) will also be streamed to Twitch, so that contestants will be able to be heard.
-
+The game will be streamed to [Matty’s Twitch channel](https://www.twitch.tv/mattstratton/), which is how the “audience” can watch. The Twitch channel will display the main screen of the game, plus the cameras of all players and hosts. All audio from the game (plus the Zoom call) will also be streamed to Twitch, so that contestants will be able to be heard.
 
 People watching the game can join the “audience” of the game on their personal devices; this lets them vote/participate in the rankings for the game as well! The audience doesn’t “play the game” but they vote on the players’ responses and can potentially influence the winners!
 
 There will be 6-8 players, who will play both rounds. The hosts (Matty, Jeremy, Dan) will not be playing (it would be slightly unfair since we wrote the prompts!)
 
 ## Discord
-If you are not already in our Discord server, please join with the invite link at [https://devopspartygames.com/discord](https://devopspartygames.com/discord). You will need to accept the Code of Conduct to get access to the server. **Please let an admin know when you have joined, and we will grant you the “Players” role that gives you more access in Discord.** We will be capturing/streaming the audio from the Discord chat to the livestream. Also, bear in mind that your Discord username and avatar will be displayed on the stream (it will “light up” when you are speaking; see the screenshot below for an example)
+If you are not already in our Discord server, please join with the invite link at [https://devopspartygames.com/discord](https://devopspartygames.com/discord). You will need to accept the Code of Conduct to get access to the server. **Please let an admin know when you have joined, and we will grant you the “Players” role that gives you more access in Discord.** We will use Discord for coordination and chatting amongst each other prior to the game, etc.
 
-![](/images/discord-overlay-example.jpg)
-
-Once you join Discord, send a note anyone listed under Admins in the Discord (Matty, Jeremy, or Dan) and let us know you are in; we will grant you the proper role to give you access to the “Game” voice channel (and the “players” text channel). The “Game” voice channel is what you will need to join/connect audio to during the actual stream/event. The text channel is just in case we want it. 
-
-You also should set your “nickname” on our Discord server to your actual name - that is what will display in the overlay instead of your Discord username. It will just look nicer :)
+Once you join Discord, send a note anyone listed under Admins in the Discord (Matty, Jeremy, or Dan) and let us know you are in; we will grant you the proper role to give you access to the Players role in Discord. 
 
 Note that the Discord is public for members of the community; there are private channels just for players and moderators though!
 
@@ -76,7 +71,7 @@ Note that these times are estimated; we aren’t 100% sure how long each round w
 Also, see the **Schedule** section directly above.
 
 *Do I need to install anything?*<br>
-You do not need to install anything to play the games. However, you need to have Discord installed on a computer, and also a mobile device with a web browser (tablet or smartphone).
+You do not need to install anything to play the games. However, you need to have Zoom installed on a computer, and also a mobile device with a web browser (tablet or smartphone).
 
 You can install Discord via [https://discord.com/download](https://discord.com/download) or if you use [Homebrew](https://brew.sh), just
 <br>
