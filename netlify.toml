@@ -23,7 +23,7 @@ force = true
 
 [[redirects]]
 from = "/players"
-to = "https://bit.ly/IDPGPlayers"
+to = "/player-info/"
 status = 301
 force = true
 
