@@ -407,7 +407,7 @@
       "twitter":"shar1z",
       "image":"sharone-zitzman.png",
       "episodes": [
-        8
+        8,10
         ]
     },
     {
@@ -440,6 +440,62 @@
       "image":"simpsons-ops.png",
       "episodes": [
         9
+      ]
+    },
+    {
+      "name":"Yvo van Doorn",
+      "twitter":"yvov",
+      "image":"yvo-vandoorn.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"Danielle Lancashire",
+      "twitter":"endocrimes",
+      "image":"danielle-lancashire.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"Darko Mesaroš",
+      "twitter":"darkosubotica",
+      "image":"darko-mesaros.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"Julia Shub",
+      "twitter":"juliavolvo",
+      "image":"julia-shub.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"Matt Williams",
+      "twitter":"technovangelist",
+      "image":"matt-williams.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"Jessica Ulyate",
+      "twitter":"JulyAte",
+      "image":"jessica-ulyate.png",
+      "episodes": [
+        10
+      ]
+    },
+    {
+      "name":"James Seconde",
+      "twitter":"SecondeJ",
+      "image":"james-seconde.png",
+      "episodes": [
+        10
       ]
     }
   ]
