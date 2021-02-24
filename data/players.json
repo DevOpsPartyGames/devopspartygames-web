@@ -96,7 +96,7 @@
       "twitter": "julian_dunn",
       "image": "julian.png",
       "episodes": [
-        2
+        2,11
       ]
     },
     {
@@ -146,7 +146,7 @@
       "twitter":"thelongshanx",
       "image": "tiffany.png",
       "episodes": [
-        3
+        3,11
       ]
     },
     {
@@ -496,6 +496,54 @@
       "image":"james-seconde.png",
       "episodes": [
         10
+      ]
+    },
+    {
+      "name":"Ali Finkelstein",
+      "twitter":"endingwithali",
+      "image":"ali-finkelstein.png",
+      "episodes": [
+        11
+      ]
+    },
+    {
+      "name":"Gareth Greenaway",
+      "twitter":"garethgreenaway",
+      "image":"gareth-greenaway.png",
+      "episodes": [
+        11
+      ]
+    },
+    {
+      "name":"Nick Rycar",
+      "twitter":"rycar",
+      "image":"Nick-Rycar.png",
+      "episodes": [
+        11
+      ]
+    },
+    {
+      "name":"Nell Shamrell-Harrington",
+      "twitter":"nellshamrell",
+      "image":"nell-shamrell-harrington.png",
+      "episodes": [
+        11
+      ]
+    },
+    {
+      "name":"Tracy Holmes",
+      "twitter":"tracypholmes",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        11
+      ]
+    },
+    {
+      "name":"Alex Hidalgo",
+      "twitter":"ahidalgosre",
+      "image":"alex-hidalgo.png",
+      "episodes": [
+        11
       ]
     }
   ]
