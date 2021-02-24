@@ -62,12 +62,12 @@
             },
             {
                 "label": "Submit Prompt Ideas",
-                "url": "/suggest-prompt",
+                "url": "https://devopspartygames.com/suggest-prompt",
                 "new_window": true
             },
             {
                 "label": "Suggest a Player",
-                "url": "/suggest-player",
+                "url": "https://devopspartygames.com/suggest-player",
                 "new_window": true
             },
             {
