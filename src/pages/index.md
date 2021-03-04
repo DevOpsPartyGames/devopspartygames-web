@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/game-logo-with-stroke.png
     content: >-
-      DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then <a href = "https://twitch.tv/mattstratton">streams it live via Twitch</a> for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a>, <a href = "https://twitter.com/IAmJerdog">Jeremy Meiss</a>, and <a href = "https://twitter.com/phrawzty">Dan Maher</a>) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from <i>Dodgeball</i>). 
+      DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then <a href = "https://twitch.tv/devopspartygames">streams it live via Twitch</a> for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a>, <a href = "https://twitter.com/IAmJerdog">Jeremy Meiss</a>, and <a href = "https://twitter.com/phrawzty">Dan Maher</a>) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from <i>Dodgeball</i>). 
       <br/>
       <br/>
       The goal here is to have fun and not take things too seriously.
@@ -14,7 +14,7 @@ sections:
     #   - label: Episodes
     #     url: /#episodes
     #   - label: Live Stream
-    #     url: https://twitch.tv/mattstratton
+    #     url: https://twitch.tv/devopspartygames
   - section_id: episodes
     type: section_posts
     background: gray
