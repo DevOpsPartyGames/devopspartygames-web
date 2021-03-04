@@ -13,7 +13,7 @@ Major shout-out to [Kat Cosgrove](https://twitter.com/Dixie3Flatline) for all of
 Thanks to [Laura Santamaria](https://twitter.com/nimbinatus) for all her work with Gatsby coding for the website, and being a great moderator and all-around member of the DPG community.
 
 ### Moderators
-The following folks are helpful moderators of our [Twitch stream](https://twitch.tv/mattstratton):
+The following folks are helpful moderators of our [Twitch stream](https://twitch.tv/devopspartygames):
 
 - [Kat Cosgrove](https://twitter.com/Dixie3Flatline)
 - [Katy Farmer](https://twitter.com/thekatertot)
