@@ -41,7 +41,7 @@ force = true
 
 [[redirects]]
 from = "/calendar"
-to = "https://calendar.google.com/calendar/u/0?cid=cG12aHNpb3N1amE0aTJsbW1jN2U4Zm5xOGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+to = "https://calendar.google.com/calendar/u/0?cid=Y181ajAxY3ZjNnA5YWwyaHVmdDFkdnNsYWF1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
 status = 301
 force = true
 
