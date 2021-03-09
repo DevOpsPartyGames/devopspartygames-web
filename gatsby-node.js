@@ -36,6 +36,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               region
               title
               slug
+              calendar
+              date(formatString: "MMMM DD")
+              time: date(formatString: "HH:mmZ")
             }
           }
         }

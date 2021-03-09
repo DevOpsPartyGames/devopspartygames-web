@@ -2,9 +2,11 @@
   "episodes": [
     {
       "id": "1.1.na",
+      "date": "2020-06-30T20:00:00-06:00",
       "title": "Season 1 Episode 1",
       "slug": "s01e01",
       "region": "North America",
+      "calendar": "https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4dDZjM3FjcXR1anM5ZmRjaWU2ajFwamUgbWF0dEBkZXZvcHNwYXJ0eWdhbWVzLmNvbQ&tmsrc=matt%40devopspartygames.com",
       "players": [
         "heidi.waterhouse",
         "corey.quinn",
