@@ -38,7 +38,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               slug
               calendar
               date(formatString: "MMMM DD")
-              time: date(formatString: "HH:mmZ")
+              time: date(formatString: "HH:mm")
             }
           }
         }
