@@ -39,6 +39,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               calendar
               date(formatString: "MMMM DD")
               time: date(formatString: "HH:mm")
+              video
             }
           }
         }
