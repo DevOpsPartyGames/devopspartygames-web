@@ -4,6 +4,7 @@ import safePrefix from "../utils/safePrefix";
 import Video from "../components/Video";
 import CalendarButton from "../components/CalendarButton";
 import EpisodeSubtitle from "../components/EpisodeSubtitle";
+import DateBookCalendarButton from "../components/DateBook";
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -35,6 +36,12 @@ export default function Episode({ pageContext }) {
                                 calendarURL={episode.calendar}
                             />
                         }
+                        <div>
+                            calendar button:
+                            <DateBookCalendarButton 
+                                eventDate={episode.date}    
+                            />
+                        </div>
                             <h3>Region</h3>
                             <p>{episode.region}</p>
                             <h3>Games</h3>
