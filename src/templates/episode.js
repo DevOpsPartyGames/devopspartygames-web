@@ -11,7 +11,6 @@ export default function Episode({ pageContext }) {
     const episodeImage = ( episode.image || defaultEpisodeImage )
     const moment = require("moment-timezone")
     const myTest = moment(episode.date).tz("America/Chicago")
-    const ChicagoDate = myTest.format("HH:MM")
 
     return(
         <LayoutNM>
@@ -31,8 +30,6 @@ export default function Episode({ pageContext }) {
                             eventDate={episode.date}
                             timeZone={episode.region}
                         />
-                        <p>date is {episode.date} at {episode.time}</p>
-                        <p> chicago is {ChicagoDate}</p>
                         { episode.calendar && 
                             <CalendarButton
                                 calendarURL={episode.calendar}
@@ -50,6 +47,24 @@ export default function Episode({ pageContext }) {
                             <Video
                                 videoSrcURL={`https://www.youtube.com/embed/${episode.video}`}
                             />
+                            }
+                            { episode.quiplashlink &&
+                                <div>
+                                    <a
+                                        href = {episode.quiplashlink}
+                                    >
+                                        quiplash results
+                                    </a>
+                                </div>
+                            }
+                            { episode.drawfullink &&
+                                <div>
+                                    <a
+                                        href = {episode.drawfullink}
+                                    >
+                                        drawful results
+                                    </a>
+                                </div>
                             }
                     </article>
                 </div>

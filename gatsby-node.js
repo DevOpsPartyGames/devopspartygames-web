@@ -41,6 +41,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               time: date(formatString: "HH:mm")
               video
               image
+              quiplashlink
+              drawfullink
             }
           }
         }

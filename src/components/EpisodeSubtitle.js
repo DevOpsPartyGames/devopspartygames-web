@@ -17,7 +17,7 @@ export default function EpisodeSubtitle({ eventDate, timeZone, ...props}) {
     href = {`https://www.timeanddate.com/worldclock/fixedtime.html?msg=DevOps+Party+Games&iso=${moment(eventDate).tz(localTz).format("YYYY")}${moment(eventDate).tz(localTz).format("MM")}${moment(eventDate).tz(localTz).format("DD")}T${moment(eventDate).tz(localTz).format("HH")}&p1=${tzCode}`} 
     target = "_blank"
     >
-        {moment(eventDate).tz(localTz).format("DD MMMM, YYYY")} at {moment(eventDate).tz(localTz).format("HH:mm")}
+        {moment(eventDate).tz(localTz).format("DD MMMM, YYYY")} at {moment(eventDate).tz(localTz).format("HH:mm")} {localTz}
     </a> 
   </div>
 
