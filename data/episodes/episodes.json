@@ -2,12 +2,13 @@
   "episodes": [
     {
       "id": "1.1.na",
-      "date": "2020-06-30T20:00:00-06:00",
+      "date": "2020-06-30T20:00:00-05:00",
       "title": "Season 1 Episode 1",
       "slug": "s01e01",
       "region": "North America",
       "calendar": "https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4dDZjM3FjcXR1anM5ZmRjaWU2ajFwamUgbWF0dEBkZXZvcHNwYXJ0eWdhbWVzLmNvbQ&tmsrc=matt%40devopspartygames.com",
       "video": "ilWOLddZTBc",
+      "image": "episode1.png",
       "players": [
         "heidi.waterhouse",
         "corey.quinn",
@@ -72,7 +73,9 @@
     },
     {
       "id": "2.1.emea",
-      "title": "Season 2 Episode 1",
+      "title": "DevOps Party Games A New Challenger Appears (EMEA)",
+      "date": "2021-01-14T20:00:00+01:00",
+      "region": "EMEA",
       "slug": "s02e01",
       "players": [],
       "games": []
@@ -81,6 +84,7 @@
       "id": "2.2.na",
       "title": "Season 2 Episode 2",
       "slug": "s02e02",
+      "region": "North America",
       "players": [],
       "games": []
     }

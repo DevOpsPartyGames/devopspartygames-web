@@ -37,9 +37,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               title
               slug
               calendar
-              date(formatString: "MMMM DD")
+              date
               time: date(formatString: "HH:mm")
               video
+              image
             }
           }
         }
