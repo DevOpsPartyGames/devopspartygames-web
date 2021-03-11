@@ -3,7 +3,7 @@ import LayoutNM from "../components/LayoutNM";
 import safePrefix from "../utils/safePrefix";
 import Video from "../components/Video";
 import CalendarButton from "../components/CalendarButton";
-import EpisodeSubtitle from "../components/EpisodeSubtitle2";
+import EpisodeSubtitle from "../components/EpisodeSubtitle";
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
