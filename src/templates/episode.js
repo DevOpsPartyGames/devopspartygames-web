@@ -2,7 +2,6 @@ import React from "react";
 import LayoutNM from "../components/LayoutNM";
 import safePrefix from "../utils/safePrefix";
 import Video from "../components/Video";
-import CalendarButton from "../components/CalendarButton";
 import EpisodeSubtitle from "../components/EpisodeSubtitle";
 import DateBookCalendarButton from "../components/DateBook";
 
@@ -31,13 +30,7 @@ export default function Episode({ pageContext }) {
                             eventDate={episode.date}
                             timeZone={episode.region}
                         />
-                        { episode.calendar && 
-                            <CalendarButton
-                                calendarURL={episode.calendar}
-                            />
-                        }
                         <div>
-                            calendar button:
                             <DateBookCalendarButton 
                                 eventDate={episode.date}    
                             />

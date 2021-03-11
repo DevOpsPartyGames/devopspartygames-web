@@ -1,6 +1,7 @@
 import React from 'react';
 import { GoogleCalendar, ICalendar } from 'datebook'
 import moment from 'moment';
+import safePrefix from "../utils/safePrefix";
 
 export default function DateBookCalendarButton({ eventDate, ...props}){
 
@@ -28,9 +29,13 @@ return (
     href = {googleCalendar.render()}
     target = "_blank"
   >
-    add to google calendar
+  <img 
+    border="0" 
+    src={safePrefix('/images/add-to-calendar.png')} 
+    class = "player-episode-page" 
+  />
   </a>
-
+  <br clear = "all"></br>
   {/* <a 
   href = {icalendar.download()}
   >

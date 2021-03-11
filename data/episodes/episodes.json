@@ -6,7 +6,6 @@
       "title": "Season 1 Episode 1",
       "slug": "s01e01",
       "region": "North America",
-      "calendar": "https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4dDZjM3FjcXR1anM5ZmRjaWU2ajFwamUgbWF0dEBkZXZvcHNwYXJ0eWdhbWVzLmNvbQ&tmsrc=matt%40devopspartygames.com",
       "video": "ilWOLddZTBc",
       "image": "episode1.png",
       "players": [
@@ -28,7 +27,6 @@
       "id": "1.2.na",
       "title": "Season 1 Episode 2",
       "slug": "s01e02",
-      "calendar": "https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4dDZjM3FjcXR1anM5ZmRjaWU2ajFwamUgbWF0dEBkZXZvcHNwYXJ0eWdhbWVzLmNvbQ&tmsrc=matt%40devopspartygames.com",
       "region": "North America",
       "players": [],
       "games": []
