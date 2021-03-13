@@ -4,6 +4,7 @@ import safePrefix from "../utils/safePrefix";
 import Video from "../components/Video";
 import EpisodeSubtitle from "../components/EpisodeSubtitle";
 import DateBookCalendarButton from "../components/DateBook";
+import PersonDisplay from "../components/PersonDisplay";
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -65,6 +66,14 @@ export default function Episode({ pageContext }) {
                                         drawful results
                                     </a>
                                 </div>
+                            }
+                            { episode.players &&
+                            <div><h2>players</h2>
+                                <PersonDisplay
+                                    personID="corey.quinn"
+                               />
+                               </div>
+
                             }
                     </article>
                 </div>
