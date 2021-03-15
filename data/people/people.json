@@ -12,7 +12,7 @@
       "id": "quintessence.anx",
       "name": "Quintessence Anx",
       "twitter": "quintessenceanx",
-      "image": "quinn.png",
+      "image": "quinntessence-anx.jpg",
       "episodes": [
         "s01e01"
       ]
@@ -21,7 +21,7 @@
       "id": "pete.cheslock",
       "name": "Pete Cheslock",
       "twitter": "petecheslock",
-      "image": "cheslock.png",
+      "image": "pete-cheslock.jpg",
       "episodes": [
         "s01e01",
         "s01e03",
@@ -32,7 +32,7 @@
       "id": "kat.cosgrove",
       "name": "Kat Cosgrove",
       "twitter": "Dixie3Flatline",
-      "image": "kat.png",
+      "image": "kat-cosgrove.jpg",
       "episodes": [
         "s01e01",
         "s01e02",
@@ -43,7 +43,7 @@
       "id": "jason.yee",
       "name": "Jason Yee",
       "twitter": "gitbisect",
-      "image": "jason.png",
+      "image": "jason-yee.jpg",
       "episodes": [
         "s01e01",
         "s01e05"
@@ -53,7 +53,7 @@
       "id": "amy.tobey",
       "name": "Amy Tobey",
       "twitter": "MissAmyTobey",
-      "image": "amytobey.png",
+      "image": "amy-tobey.jpg",
       "episodes": [
         "s01e01"
       ]
@@ -62,7 +62,7 @@
       "id": "jeff.smith",
       "name": "Jeff Smith",
       "twitter": "DarkAndNerdy",
-      "image": "jeffsmith.png",
+      "image": "jeff-smith.jpg",
       "episodes": [
         "s01e01",
         "s01e06"

@@ -37,6 +37,8 @@ export default function PersonDisplay( {personID, ...props}) {
                   />
                 </a>
                 <h2>{person.name}</h2>
+                <h2>{`@${person.twitter}`}</h2>
+
                 </div>
               )
             } 
