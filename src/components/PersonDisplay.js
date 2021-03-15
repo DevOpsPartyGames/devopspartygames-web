@@ -28,16 +28,23 @@ export default function PersonDisplay( {personID, ...props}) {
               return (
                 <div class = "player-item">
                 <a 
-                  href = {`https://twitter.com/${person.twitter}`}
+                  href = {safePrefix(`person/${person.id}`)}
                   class = "player-episode-page"
                 >
                   <img 
-                    src = {safePrefix(`/images/players/${person.image}`)}
+                    src = {safePrefix(`/images/people/${person.image}`)}
                     class = "player-episode-page"
                   />
                 </a>
                 <div class="player-name">{person.name}</div>
-                <div class="player-name">{`@${person.twitter}`}</div>
+                <div class="player-name">
+                  <a 
+                    href = {`https://twitter.com/${person.twitter}`}
+                    class = "player-episode-page"
+                  >
+                  {`@${person.twitter}`}
+                </a>
+                </div>
 
                 </div>
               )

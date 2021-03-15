@@ -25,24 +25,35 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       }
     `)
 
+    const peopleResult = await graphql(`
+    {
+      allPeopleJson {
+        nodes {
+            id
+            image
+            name
+            twitter
+        }
+      }
+    }
+  `)
+
     const result2 = await graphql(`
       {
         allEpisodesJson {
           nodes {
-            episodes {
-              id
-              games
-              players
-              hosts
-              region
-              title
-              slug
-              date
-              video
-              image
-              quiplashlink
-              drawfullink
-            }
+            id
+            games
+            players
+            hosts
+            region
+            title
+            slug
+            date
+            video
+            image
+            quiplashlink
+            drawfullink
           }
         }
       }
@@ -53,6 +64,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         return
     }
 
+    if (peopleResult.errors) {
+      reporter.panicOnBuild(`Error while running GraphQL query.`)
+      return
+  }
+
     if (result2.errors) {
         reporter.panicOnBuild(`Error while running second GraphQL query.`)
         return
@@ -60,10 +76,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
     // Create people pages.
     const personTemplate = path.resolve(`src/templates/person.js`)
-    result.data.allPlayersJson.nodes.forEach(node => {
-        node.players.forEach(player => {
+    peopleResult.data.allPeopleJson.nodes.forEach(player => {
             createPage({
-                path: `/players/${player.id}`,
+                path: `/person/${player.id}`,
                 component: personTemplate,
                 context: {
                     person: player,
@@ -72,23 +87,35 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
                     }
                 },
             })
-        })
     })
 
     // Create episode pages.
+    // const episodeTemplate = path.resolve(`src/templates/episode.js`)
+    // result2.data.allEpisodesJson.nodes.forEach(node => {
+    //     node.episodes.forEach(episode => {
+    //         createPage({
+    //             path: `/episodes/${episode.slug}`,
+    //             component: episodeTemplate,
+    //             context: {
+    //                 episode: episode,
+    //                 frontmatter: {
+    //                     title: episode.title
+    //                 }
+    //             },
+    //         })
+    //     })
+    // })
     const episodeTemplate = path.resolve(`src/templates/episode.js`)
-    result2.data.allEpisodesJson.nodes.forEach(node => {
-        node.episodes.forEach(episode => {
-            createPage({
-                path: `/episodes/${episode.slug}`,
-                component: episodeTemplate,
-                context: {
-                    episode: episode,
-                    frontmatter: {
-                        title: episode.title
-                    }
-                },
-            })
-        })
+    result2.data.allEpisodesJson.nodes.forEach(episode => {
+      createPage({
+        path: `/episodes/${episode.slug}`,
+        component: episodeTemplate,
+        context: {
+          episode: episode,
+          frontmatter: {
+            title: episode.title
+          }
+        }
+      })
     })
 }
