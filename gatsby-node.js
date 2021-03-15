@@ -33,6 +33,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               id
               games
               players
+              hosts
               region
               title
               slug

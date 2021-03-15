@@ -80,6 +80,19 @@ export default function Episode({ pageContext }) {
                                </div>
 
                             }
+                        { episode.hosts &&
+                            <div><h2>Hosts</h2>
+                                <div>
+                                    {episode.hosts.map((host, key) => 
+                                    <PersonDisplay
+                                        personID={host}
+                                    />
+                                    )}
+                                </div>
+                                
+                               </div>
+
+                            }
                     </article>
                 </div>
             </div>
