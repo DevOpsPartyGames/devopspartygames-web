@@ -68,10 +68,15 @@ export default function Episode({ pageContext }) {
                                 </div>
                             }
                             { episode.players &&
-                            <div><h2>players</h2>
-                                <PersonDisplay
-                                    personID="corey.quinn"
-                               />
+                            <div><h2>Players</h2>
+                                <div>
+                                    {episode.players.map((player, key) => 
+                                    <PersonDisplay
+                                        personID={player}
+                                    />
+                                    )}
+                                </div>
+                                
                                </div>
 
                             }
