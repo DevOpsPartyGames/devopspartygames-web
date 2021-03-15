@@ -25,3 +25,20 @@ h2 {
   font-family: 'PartyCrush-Regular', _font(primary);
   color: _palette(partygames-orange);
 }
+
+.player-name {
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
+}
+
+.player-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: -0.5rem;
+}
+.player-item {
+  margin: 0.5rem;
+  width: 10rem;
+  flex: 0 0 auto;
+}

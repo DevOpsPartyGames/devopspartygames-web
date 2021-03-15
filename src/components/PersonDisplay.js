@@ -21,12 +21,12 @@ export default function PersonDisplay( {personID, ...props}) {
         }
       `}
       render={data => (
-        <div>
+        <div class = "player-container">
           {data.allPeopleJson.nodes.map(person => 
           {
             if (person.id===personID){
               return (
-                <div>
+                <div class = "player-item">
                 <a 
                   href = {`https://twitter.com/${person.twitter}`}
                   class = "player-episode-page"
@@ -36,8 +36,8 @@ export default function PersonDisplay( {personID, ...props}) {
                     class = "player-episode-page"
                   />
                 </a>
-                <h2>{person.name}</h2>
-                <h2>{`@${person.twitter}`}</h2>
+                <div class="player-name">{person.name}</div>
+                <div class="player-name">{`@${person.twitter}`}</div>
 
                 </div>
               )
