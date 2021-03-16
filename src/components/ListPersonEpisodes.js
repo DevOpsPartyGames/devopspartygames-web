@@ -28,7 +28,7 @@ export default function ListPersonEpisodes( {personID, ...props}) {
               return (
                 <li>
                   <a
-                    href = {safePrefix(`/episodes/$episode.slug`)}
+                    href = {safePrefix(`/episodes/${episode.slug}`)}
                   >
                     {episode.title}
                   </a>

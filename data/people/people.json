@@ -12,7 +12,7 @@
       "id": "quintessence.anx",
       "name": "Quintessence Anx",
       "twitter": "quintessenceanx",
-      "image": "quinntessence-anx.jpg",
+      "image": "quintessence-anx.jpg",
       "episodes": [
         "s01e01"
       ]
@@ -82,7 +82,7 @@
       "id": "laura.santamaria",
       "name": "Laura Santamaria",
       "twitter": "nimbinatus",
-      "image": "laura-santamaris.jpg",
+      "image": "laura-santamaria.jpg",
       "episodes": [
         "s01e02",
         "s01e04",
@@ -461,5 +461,173 @@
       "episodes": [
         "s02e01"
         ]
+    },
+    {
+      "id": "simpsons.ops",
+      "name": "Simpsons Against DevOps",
+      "twitter": "simpsonsops",
+      "image": "simpsons-ops.jpg"
+    },
+    {
+      "id": "cassidy.williams",
+      "name": "Cassidy Williams",
+      "twitter": "cassidoo",
+      "image": "cassidy-williams.jpg"
+    },
+    {
+      "id": "jessica.west",
+      "name": "Jessica West",
+      "twitter": "jessicaewest",
+      "image": "jessica-west.jpg"
+    },
+    {
+      "id": "yvo.vandroon",
+      "name": "Yvo van Doorn",
+      "twitter": "yvov",
+      "image": "yvo-vandoorn.jpg"
+    },
+    {
+      "id": "danielle.lancashire",
+      "name": "Danielle Lancashire",
+      "twitter": "endocrimes",
+      "image": "danielle-lancashire.jpg"
+    },
+    {
+      "id": "darko.mesaros",
+      "name": "Darko Mesaroš",
+      "twitter": "darkosubotica",
+      "image": "darko-mesaros.jpg"
+    },
+    {
+      "id": "julia.shub",
+      "name": "Julia Shub",
+      "twitter": "juliavolvo",
+      "image": "julia-shub.jpg"
+    },
+    {
+      "id": "matt.williams",
+      "name": "Matt Williams",
+      "twitter": "technovangelist",
+      "image": "matt-williams.jpg"
+    },
+    {
+      "id": "jessica.ulyate",
+      "name": "Jessica Ulyate",
+      "twitter": "JulyAte",
+      "image": "jessica-ulyate.jpg"
+    },
+    {
+      "id": "james.seconde",
+      "name": "James Seconde",
+      "twitter": "SecondeJ",
+      "image": "james-seconde.jpg"
+    },
+    {
+      "id": "ali.finkelstein",
+      "name": "Ali Finkelstein",
+      "twitter": "endingwithali",
+      "image": "ali-finkelstein.jpg"
+    },
+    {
+      "id": "gareth.greenaway",
+      "name": "Gareth Greenaway",
+      "twitter": "garethgreenaway",
+      "image": "gareth-greenaway.jpg"
+    },
+    {
+      "id": "nell.shamrell.harrington",
+      "name": "Nell Shamrell-Harrington",
+      "twitter": "nellshamrell",
+      "image": "nell-shamrell-harrington.jpg"
+    },
+    {
+      "id": "tracy.holmes",
+      "name": "Tracy Holmes",
+      "twitter": "tracypholmes",
+      "image": "tracy-holmes.jpg"
+    },
+    {
+      "id": "nick.rycar",
+      "name": "Nick Rycar",
+      "twitter": "rycar",
+      "image": "nick-rycar.jpg"
+    },
+    {
+      "id": "alex.hidalgo",
+      "name": "Alex Hidalgo",
+      "twitter": "ahidalgosre",
+      "image": "alex-hidalgo.jpg"
+    },
+    {
+      "id": "ryn.daniels",
+      "name": "Ryn Daniels",
+      "twitter": "rynchantress",
+      "image": "ryn-daniels.jpg"
+    },
+    {
+      "id": "kerim.satirli",
+      "name": "Kerim Satirli",
+      "twitter": "ksatirli",
+      "image": "kerim-satirli.jpg"
+    },
+    {
+      "id": "jen.underscore",
+      "name": "Jen Underscore",
+      "twitter": "jenUnderscore_",
+      "image": "jen-underscore.jpg"
+    },
+    {
+      "id": "adam.surak",
+      "name": "Adam Suràk",
+      "twitter": "adamsurak",
+      "image": "adam-surak.jpg"
+    },
+    {
+      "id": "sheela.nistala",
+      "name": "Sheela Nistala",
+      "twitter": "sheelanistala",
+      "image": "sheela-nistala.jpg"
+    },
+    {
+      "id": "jeremy.meiss",
+      "name": "Jeremy Meiss",
+      "twitter": "IAmJerdog",
+      "image": "jeremy-meiss.jpg"
+    },
+    {
+      "id": "farrah.campbell",
+      "name": "Farrah Campbell",
+      "twitter": "FarrahC32",
+      "image": "farrah-campbell.jpg"
+    },
+    {
+      "id": "lauren.cooney",
+      "name": "Lauren Cooney",
+      "twitter": "lcooney",
+      "image": "lauren-cooney.jpg"
+    },
+    {
+      "id": "rich.burroughs", 
+      "name": "Rich Burroughs",
+      "twitter": "richburroughs",
+      "image": "rich-burroughs.jpg"
+    },
+    {
+      "id": "sarai.rosenberg",
+      "name": "Sarai Rosenberg",
+      "twitter": "saraislet",
+      "image": "sarai-rosenberg.jpg"
+    },
+    {
+      "id": "nicole.sumrall",
+      "name": "Nicole Sumrall",
+      "twitter": "nsumrall05",
+      "image": "nicole-sumrall.jpg"
+    },
+    {
+      "id": "kelli.prichard",
+      "name": "Kelli Prichard",
+      "twitter": "allaboutkelli",
+      "image": "kelli-prichard.jpg"
     }
   ]

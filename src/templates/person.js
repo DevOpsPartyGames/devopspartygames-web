@@ -27,7 +27,7 @@ export default function Person({ pageContext }) {
                                 personID={player.id}
                             />
                         </div>
-                        <img src={safePrefix(`/images/players/${player.image}`)} alt={`${player.name}`} width="200" height="100" />
+                        <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} width="200" height="100" />
                     </div>
                 </div>
             </div>

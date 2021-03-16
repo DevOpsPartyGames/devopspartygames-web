@@ -1,7 +1,7 @@
 [
     {
       "id": "1.1.na",
-      "date": "2020-06-30T20:00:00-05:00",
+      "date": "2020-06-30T20:00:00-06:00",
       "title": "Season 1 Episode 1",
       "slug": "s01e01",
       "region": "North America",
@@ -28,67 +28,228 @@
     },
     {
       "id": "1.2.na",
+      "date": "2020-07-25T20:00:00-06:00",
       "title": "Season 1 Episode 2",
       "slug": "s01e02",
       "region": "North America",
-      "players": [],
-      "games": []
+      "players": [
+        "josh.zimmerman",
+        "laura.santamaria",
+        "kat.cosgrove",
+        "julian.dunn",
+        "taylor.barnett",
+        "wesley.faulkner",
+        "paul.czarkowski",
+        "waldo.g"
+      ],
+      "games": [
+        "drawful",
+        "quiplash"
+      ]
     },
     {
       "id": "1.3.na",
+      "date": "2020-08-25T20:00:00-06:00",
       "title": "Season 1 Episode 3",
       "slug": "s01e03",
       "region": "North America",
-      "players": [],
+      "players": [
+        "jessica.kerr",
+        "tiffany.longworth",
+        "ana.medina",
+        "aaron.aldrich",
+        "jessica.brown",
+        "pete.cheslock",
+        "austin.parker",
+        "pj.hagerty"
+      ],
       "games": []
     },
     {
       "id": "1.4.na",
+      "date": "2020-09-29T20:00:00-06:00",
       "title": "Season 1 Episode 4",
       "slug": "s01e04",
-      "players": [],
+      "region": "North America",
+      "players": [
+        "nathen.harvey",
+        "tim.banks",
+        "chloe.condon",
+        "bonnie.aumann",
+        "shelby.spees",
+        "liz.fong.jones",
+        "laura.santamaria",
+        "ian.coldwater"
+      ],
       "games": []
 
     },
     {
       "id": "1.5.na",
-      "title": "Season 1 Episode 5",
+      "date": "2020-10-27T20:00:00-06:00",
+      "title": "DevOps Party Games All-Stars Edition",
       "slug": "s01e05",
-      "players": [],
-      "games": []
+      "region": "North America",
+      "players": [
+        "quintessence.anx",
+        "tim.banks",
+        "heidi.waterhouse",
+        "ian.coldwater",
+        "paul.czarkowski",
+        "pete.cheslock",
+        "laura.santamaria",
+        "jason.yee"
+      ],
+      "games": [
+        "Patently Stupid",
+        "T.K.O."
+      ]
 
     },
     {
       "id": "1.6.na",
+      "date": "2020-11-17T20:00:00-06:00",
       "title": "Season 1 Episode 6",
       "slug": "s01e06",
-      "players": [],
+      "region": "North America",
+      "players": [
+        "j.paul.reed",
+        "kat.cosgrove",
+        "matt.broberg",
+        "sasha.rosenbaum",
+        "ashton.rodenheiser",
+        "jeff.smith",
+        "jill.wohlner",
+        "joe.laha"
+      ],
       "games": []
     },
     {
       "id": "1.7.na",
-      "title": "Season 1 Episode 7",
+      "date": "2020-12-15T20:00:00-06:00",
+      "title": "DevOps Party Games Holiday Edition",
       "slug": "s01e07",
-      "players": [],
+      "region": "North America",
+      "players": [
+        "jocelyn.matthews",
+        "michael.ducy",
+        "christina.warren",
+        "jam.leomi",
+        "jason.hand",
+        "jacquie.grindrod",
+        "bryan.liles",
+        "katie.mclaughlin"
+      ],
       "games": []
     },
     {
       "id": "2.1.emea",
-      "title": "DevOps Party Games A New Challenger Appears (EMEA)",
+      "title": "DevOps Party Games -  A New Challenger Appears (EMEA)",
       "date": "2021-01-14T20:00:00+01:00",
       "region": "EMEA",
       "slug": "s02e01",
       "quiplashlink": "http://games.jackbox.tv/artifact/quiplash3Game/bd28cd79e28512d08999670b478aed85/",
       "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/984d654d16227504704741d5d5db60a4/",
-      "players": [],
+      "players": [
+        "stormy",
+        "serhat.can",
+        "lucy.davinhart",
+        "paul.czarkowski",
+        "kris.howard",
+        "kai.hoffman",
+        "sharone.zitzman",
+        "cobus.bernard"
+      ],
       "games": []
     },
     {
       "id": "2.2.na",
+      "date": "2021-01-26T20:00:00-06:00",
       "title": "Season 2 Episode 2",
       "slug": "s02e02",
       "region": "North America",
-      "players": [],
+      "players": [
+        "tim.banks",
+        "kat.cosgrove",
+        "corey.quinn",
+        "simpsons.ops",
+        "cassidy.williams",
+        "austin.parker",
+        "ian.coldwater",
+        "jessica.west"
+      ],
+      "games": []
+    },
+    {
+      "id": "2.3.emea",
+      "title": "DevOps Party Games - Don't Call It A Comeback (EMEA)",
+      "date": "2021-02-09T20:00:00+01:00",
+      "region": "EMEA",
+      "slug": "s02e03",
+      "players": [
+        "yvo.vandoorn",
+        "danielle.lancashire",
+        "darko.mesaros",
+        "julia.shub",
+        "sharone.zitzman",
+        "matt.williams",
+        "jessica.ulyate",
+        "james.seconde"
+      ],
+      "games": []
+    },
+    {
+      "id": "2.4.na",
+      "date": "2021-02-23T20:00:00-06:00",
+      "title": "DevOps Party Games - Now We're Cooking (Americas)",
+      "slug": "s02e04",
+      "region": "North America",
+      "players": [
+        "julian.dunn",
+        "ali.finkelstein",
+        "gareth.greenaway",
+        "nell.shamrell.harrington",
+        "tracy.holmes",
+        "nick.rycar",
+        "tiffany.longworth",
+        "alex.hidalgo"
+      ],
+      "games": []
+    },
+    {
+      "id": "2.5.emea",
+      "title": "DevOps Party Games - The Empire Strikes Back (EMEA)",
+      "date": "2021-03-16T20:00:00+01:00",
+      "region": "EMEA",
+      "slug": "s02e05",
+      "players": [
+        "ryn.daniels",
+        "kerim.satirli",
+        "jen.underscore",
+        "jill.wohlner",
+        "adam.surak",
+        "stormy",
+        "sheela.nistala",
+        "jeremy.meiss"
+      ],
+      "games": []
+    },
+    {
+      "id": "2.6.na",
+      "date": "2021-03-30T20:00:00-06:00",
+      "title": "Season 2 Episode 6",
+      "slug": "s02e06",
+      "region": "North America",
+      "players": [
+        "farrah.campbell",
+        "jason.yee",
+        "lauren.cooney",
+        "rich.burroughs",
+        "sarai.rosenberg",
+        "wesley.faulkner",
+        "nicole.sumrall",
+        "kelli.prichard"
+      ],
       "games": []
     }
 ]
