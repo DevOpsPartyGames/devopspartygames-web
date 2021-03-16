@@ -44,29 +44,38 @@ export default function Episode({ pageContext }) {
                                     return (<li key={key}>{game}</li>)
                                 })}
                             </ul>
+                            { (episode.quiplashlink || episode.drawfullink ) &&
+                            <div>
+                            <>Results of the games (order t-shirts or share on social media)</>
+                                <ul>
+
+                                { episode.quiplashlink &&
+                                    <li>
+                                        <a
+                                            href = {episode.quiplashlink}
+                                        >
+                                            Quiplash
+                                        </a>
+                                    </li>
+                                }
+                                { episode.drawfullink &&
+                                    <li>
+                                        <a
+                                            href = {episode.drawfullink}
+                                        >
+                                            Drawful
+                                        </a>
+                                    </li>
+                                }
+                            </ul>
+                            </div>
+                            }
                             { episode.video && 
                             <Video
                                 videoSrcURL={`https://www.youtube.com/embed/${episode.video}`}
                             />
                             }
-                            { episode.quiplashlink &&
-                                <div>
-                                    <a
-                                        href = {episode.quiplashlink}
-                                    >
-                                        quiplash results
-                                    </a>
-                                </div>
-                            }
-                            { episode.drawfullink &&
-                                <div>
-                                    <a
-                                        href = {episode.drawfullink}
-                                    >
-                                        drawful results
-                                    </a>
-                                </div>
-                            }
+
                             { episode.players &&
                             <div><h2>Players</h2>
                                 <div class = "cards">

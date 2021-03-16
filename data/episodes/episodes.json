@@ -161,7 +161,9 @@
       "games": [
         "drawful",
         "quiplash"
-      ]
+      ],
+      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/3221f02c7effe1a17efce40fed259ee9/",
+      "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/975b181560a38ba698c379f9ac3868a8/"
     },
     {
       "id": "1.7.na",
@@ -188,7 +190,9 @@
       "games": [
         "drawful",
         "quiplash"
-      ]
+      ],
+      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/567393a7b15547eae368055d9ee3ccc7/",
+      "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/2a0bbf830f34e83403a16ee0bb010a76/"
     },
     {
       "id": "2.1.emea",
@@ -243,7 +247,9 @@
       "games": [
         "drawful",
         "quiplash"
-      ]
+      ],
+      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/bb222ece5384a7c3ab81a8d230244213/",
+      "drawfullink": "https://games.jackbox.tv/artifact/DrawfulGame/7dbae23bf85c20d7baf207081ea33a2a/"
     },
     {
       "id": "2.3.emea",
@@ -295,7 +301,9 @@
       "games": [
         "drawful",
         "quiplash"
-      ]
+      ],
+      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/fc99cc90de69f07491333cf839d82b79/",
+      "drawfullink": "https://games.jackbox.tv/artifact/DrawfulGame/d0e96f910c4a2f1e7e3ec67d1fb90eae/"
     },
     {
       "id": "2.5.emea",
