@@ -6,6 +6,7 @@ import EpisodeSubtitle from "../components/EpisodeSubtitle";
 import DateBookCalendarButton from "../components/DateBook";
 import PersonDisplay from "../components/PersonDisplay";
 import GameLink from "../components/GameLink";
+import SEO from "../components/seo";
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -16,7 +17,12 @@ export default function Episode({ pageContext }) {
 
     return(
         <LayoutNM>
-            <div className="outer">
+            <SEO
+              title={episode.title}
+              description={episode.title}
+              image={`/images/episodes/${episode.ogimage}`}
+            />
+             <div className="outer">
                 <div className="inner-medium">
                     <article className="post post-full">
                         <header className="post-header">

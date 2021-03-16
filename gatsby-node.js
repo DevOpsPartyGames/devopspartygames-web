@@ -51,6 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             date
             video
             image
+            ogimage
             games {
               name
               result
