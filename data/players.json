@@ -287,7 +287,7 @@
       "twitter":"jillwohlner",
       "image":"jill-wohlner.png",
       "episodes": [
-        6
+        6,12
         ]
     },
     {
@@ -367,7 +367,7 @@
       "twitter":"stormy_prime",
       "image":"stormy.png",
       "episodes": [
-        8
+        8,12
         ]
     },
     {
@@ -544,6 +544,54 @@
       "image":"alex-hidalgo.png",
       "episodes": [
         11
+      ]
+    },
+    {
+      "name":"Ryn Daniels",
+      "twitter":"rynchantress",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
+      ]
+    },
+    {
+      "name":"Kerim Satirli",
+      "twitter":"ksatirli",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
+      ]
+    },
+    {
+      "name":"Jen Underscore",
+      "twitter":"jenUnderscore_",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
+      ]
+    },
+    {
+      "name":"Adam Surak",
+      "twitter":"adamsurak",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
+      ]
+    },
+    {
+      "name":"Sheela Nistala",
+      "twitter":"sheelanistala",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
+      ]
+    },
+    {
+      "name":"Jeremy Meiss",
+      "twitter":"IAmJerdog",
+      "image":"tracy-holmes.png",
+      "episodes": [
+        12
       ]
     }
   ]
