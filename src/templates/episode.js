@@ -5,6 +5,7 @@ import Video from "../components/Video";
 import EpisodeSubtitle from "../components/EpisodeSubtitle";
 import DateBookCalendarButton from "../components/DateBook";
 import PersonDisplay from "../components/PersonDisplay";
+import GameLink from "../components/GameLink";
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -39,23 +40,15 @@ export default function Episode({ pageContext }) {
                             <h3>Region</h3>
                             <p>{episode.region}</p>
                             <h3>Games</h3>
+                            {episode.games &&
                             <ul>
                                 {episode.games.map((game, key) => {
-                                    return (<li key={key}>{game}</li>)
-                                })}
-                            </ul>
-                            <h3>my games</h3>
-                            {console.log(episode.mygames)}
-                            {episode.mygames &&
-                            <ul>
-                                {episode.mygames.map((game, key) => {
                                     return (
                                     <li key={key}>
-                                        <a
-                                            href={game.link}
-                                        >
-                                            {game.name}
-                                        </a>
+                                        <GameLink
+                                            gameID={game.name}
+                                        />
+
                                         { game.result &&
                                             <>
                                             &nbsp;-&nbsp;
@@ -63,8 +56,9 @@ export default function Episode({ pageContext }) {
                                             <a 
                                                 href = {game.result}
                                             >
-                                                result
+                                                results
                                             </a>
+                                            &nbsp;(order t-shirts or share on social media)
                                             </> 
                                         }
                                     </li>
@@ -72,32 +66,6 @@ export default function Episode({ pageContext }) {
 
                                 })}
                             </ul>
-                            }
-                            { (episode.quiplashlink || episode.drawfullink ) &&
-                            <div>
-                            <>Results of the games (order t-shirts or share on social media)</>
-                                <ul>
-
-                                { episode.quiplashlink &&
-                                    <li>
-                                        <a
-                                            href = {episode.quiplashlink}
-                                        >
-                                            Quiplash
-                                        </a>
-                                    </li>
-                                }
-                                { episode.drawfullink &&
-                                    <li>
-                                        <a
-                                            href = {episode.drawfullink}
-                                        >
-                                            Drawful
-                                        </a>
-                                    </li>
-                                }
-                            </ul>
-                            </div>
                             }
                             { episode.video && 
                             <Video

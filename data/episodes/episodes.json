@@ -22,18 +22,11 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "mygames": [
         {
-          "name": "Quiplash",
-          "link": "https://www.jackboxgames.com/quiplash-three/"
+          "name": "quiplash"
         },
         {
-          "name": "Drawful",
-          "link": "https://www.jackboxgames.com/drawful-two/",
-          "result": "http://games.jackbox.tv/artifact/DrawfulGame/984d654d16227504704741d5d5db60a4/"
+          "name": "drawful"
         }
       ]
     },
@@ -60,17 +53,11 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "mygames": [
         {
-          "name": "Quiplash",
-          "link": "https://www.jackboxgames.com/quiplash-three/"
+          "name": "quiplash"
         },
         {
-          "name": "Drawful",
-          "link": "https://www.jackboxgames.com/drawful-two/"
+          "name": "drawful"
         }
       ]
     },
@@ -97,8 +84,12 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
       ]
     },
     {
@@ -124,10 +115,13 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
       ]
-
     },
     {
       "id": "1.5.na",
@@ -152,8 +146,14 @@
         "jeremy.meiss"
       ],
       "games": [
-        "Patently Stupid",
-        "T.K.O."
+        {
+          "name": "patently.stupid",
+          "result": "https://games.jackbox.tv/artifact/PatentlyStupidGame/cff21d3a2dc384e0f0f3d27c7f8513b5/"
+        },
+        {
+          "name": "tko",
+          "result": "http://games.jackbox.tv/artifact/TeeKOGame/4e67b6c01b046b56da7e4b2d8c91f79a/"
+        }
       ]
 
     },
@@ -170,7 +170,7 @@
         "kat.cosgrove",
         "matt.broberg",
         "sasha.rosenbaum",
-        "ashton.rodenheiser",
+        "ashton.rodenhiser",
         "jeff.smith",
         "jill.wohlner",
         "joe.laha"
@@ -179,12 +179,16 @@
         "matt.stratton",
         "jeremy.meiss"
       ],
-      "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/3221f02c7effe1a17efce40fed259ee9/",
-      "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/975b181560a38ba698c379f9ac3868a8/"
+       "games": [
+        {
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/3221f02c7effe1a17efce40fed259ee9/"
+        },
+        {
+          "name": "drawful",
+          "result": "http://games.jackbox.tv/artifact/drawfulGame/975b181560a38ba698c379f9ac3868a8/"
+        }
+      ]
     },
     {
       "id": "1.7.na",
@@ -209,11 +213,15 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/567393a7b15547eae368055d9ee3ccc7/",
-      "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/2a0bbf830f34e83403a16ee0bb010a76/"
+        {
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/567393a7b15547eae368055d9ee3ccc7/"
+        },
+        {
+          "name": "drawful",
+          "result": "http://games.jackbox.tv/artifact/drawfulGame/2a0bbf830f34e83403a16ee0bb010a76/"
+        }
+      ]
     },
     {
       "id": "2.1.emea",
@@ -223,9 +231,7 @@
       "video": "5IF0swpL3X8",
       "image": "s02e01.png",
       "slug": "s02e01",
-      "quiplashlink": "http://games.jackbox.tv/artifact/quiplash3Game/bd28cd79e28512d08999670b478aed85/",
-      "drawfullink": "http://games.jackbox.tv/artifact/DrawfulGame/984d654d16227504704741d5d5db60a4/",
-      "players": [
+       "players": [
         "stormy",
         "serhat.can",
         "lucy.davinhart",
@@ -240,8 +246,14 @@
         "dan.maher"
       ],
       "games": [
-        "drawful",
-        "quiplash"
+        {
+          "name": "quiplash",
+          "result": "http://games.jackbox.tv/artifact/quiplash3Game/bd28cd79e28512d08999670b478aed85/"
+        },
+        {
+          "name": "drawful",
+          "result": "http://games.jackbox.tv/artifact/drawfulGame/984d654d16227504704741d5d5db60a4/"
+        }
       ]
     },
     {
@@ -266,11 +278,15 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/bb222ece5384a7c3ab81a8d230244213/",
-      "drawfullink": "https://games.jackbox.tv/artifact/DrawfulGame/7dbae23bf85c20d7baf207081ea33a2a/"
+        {
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/bb222ece5384a7c3ab81a8d230244213/"
+        },
+        {
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/drawfulGame/7dbae23bf85c20d7baf207081ea33a2a/"
+        }
+      ]
     },
     {
       "id": "2.3.emea",
@@ -294,8 +310,12 @@
         "dan.maher"
       ],
       "games": [
-        "drawful",
-        "quiplash"
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
       ]
     },
     {
@@ -320,11 +340,15 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
-      ],
-      "quiplashlink": "https://games.jackbox.tv/artifact/quiplash3Game/fc99cc90de69f07491333cf839d82b79/",
-      "drawfullink": "https://games.jackbox.tv/artifact/DrawfulGame/d0e96f910c4a2f1e7e3ec67d1fb90eae/"
+        {
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/fc99cc90de69f07491333cf839d82b79/"
+        },
+        {
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/drawfulGame/d0e96f910c4a2f1e7e3ec67d1fb90eae/"
+        }
+      ]
     },
     {
       "id": "2.5.emea",
@@ -346,9 +370,13 @@
         "matt.stratton",
         "dan.maher"
       ],
-      "games": [
-        "drawful",
-        "quiplash"
+       "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
       ]
     },
     {
@@ -372,8 +400,12 @@
         "jeremy.meiss"
       ],
       "games": [
-        "drawful",
-        "quiplash"
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
       ]
     }
 ]

@@ -43,7 +43,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allEpisodesJson {
           nodes {
             id
-            games
             players
             hosts
             region
@@ -52,11 +51,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             date
             video
             image
-            quiplashlink
-            drawfullink
-            mygames {
+            games {
               name
-              link
               result
             }
           }
