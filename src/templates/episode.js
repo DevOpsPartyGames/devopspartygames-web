@@ -34,10 +34,13 @@ export default function Episode({ pageContext }) {
                             alt={episode.title}
                             />
                         </div>
-                        <EpisodeSubtitle
-                            eventDate={episode.date}
-                            timeZone={episode.region}
-                        />
+                        <div className="post-subtitle">
+                            <EpisodeSubtitle
+                                eventDate={episode.date}
+                                timeZone={episode.region}
+                            />
+                        </div>
+
                         <div>
                             <DateBookCalendarButton 
                                 eventDate={episode.date}    

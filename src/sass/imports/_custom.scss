@@ -67,6 +67,13 @@ img.player-thumbnail {
 	text-decoration: none;
 }
 
+.episode-list-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 /* Flexbox stuff */
 
 @media screen and (min-width: 40em) {
@@ -79,11 +86,24 @@ img.player-thumbnail {
   .card {
       flex: 0 1 calc(50% - 1em);
   }
+
+  .episode-list-item {
+    flex: 0 1 calc(50% - 1em);
+  }
+
+  .episode-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 }
 
 @media screen and (min-width: 60em) {
 
   .card {
       flex: 0 1 calc(33% - 1em);
+  }
+  .episode-list-item {
+    flex: 0 1 calc(33% - 1em);
   }
 }

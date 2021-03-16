@@ -58,31 +58,4 @@ export default function PersonDisplay( {personID, ...props}) {
     />
   )
 
-  // const data = useStaticQuery(graphql`
-  //   query MyQuery {
-  //     allPeopleJson(filter: {id: {eq: "corey.quinn"}}) {
-  //       nodes {
-  //         name
-  //         twitter
-  //       }
-  //     }
-  //   }
-  // `)
-
-//   const data = useStaticQuery(graphql`
-//   query MyQuery {
-//     allPeopleJson {
-//       nodes {
-//         name
-//         twitter
-//       }
-//     }
-//   }
-  
-// `)
-
-//   return (
-//     <h1>{data.allPeopleJson.nodes.name}</h1>
-//   )
-
 }
