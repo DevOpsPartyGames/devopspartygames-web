@@ -1,14 +1,15 @@
 import React from "react"
 import _ from "lodash";
 // import ScoreRow from "../components/ScoreRow";
-import PlayerData from "../../data/players/players.json"
+import PlayerData from "../../data/people/people.json"
 import ScoreData from "../../data/scores.json"
+import { safePrefix } from '../utils'
 
 export class Leaderboard extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            players: PlayerData.players,
+            players: PlayerData,
             scores: ScoreData.scores,
             data: null,
             isLoaded: false
@@ -70,10 +71,22 @@ export class Leaderboard extends React.Component {
                 </thead>
                 <tbody>
                 {data.map((player1, key) =>
-                        <tr key={key}>
-                            <td>{player1.player.name}</td>
-                            <td>{player1.scores}</td>
-                        </tr>
+                    {
+                        if (player1.scores > 0 ){
+                            return (
+                            <tr key={key}>
+                                <td>
+                                    <a
+                                        href = {safePrefix(`/person/${player1.player.id}`)}
+                                    >
+                                        {player1.player.name}
+                                    </a>
+                                </td>
+                                <td>{player1.scores}</td>
+                            </tr>
+                            )
+                        }
+                    }
                 )}
                 </tbody>
             </table>
