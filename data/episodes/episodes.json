@@ -62,6 +62,16 @@
       "games": [
         "drawful",
         "quiplash"
+      ],
+      "mygames": [
+        {
+          "name": "Quiplash",
+          "link": "https://www.jackboxgames.com/quiplash-three/"
+        },
+        {
+          "name": "Drawful",
+          "link": "https://www.jackboxgames.com/drawful-two/"
+        }
       ]
     },
     {
