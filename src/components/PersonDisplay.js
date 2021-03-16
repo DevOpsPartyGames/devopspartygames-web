@@ -21,26 +21,26 @@ export default function PersonDisplay( {personID, ...props}) {
         }
       `}
       render={data => (
-        <div class = "player-container">
+        <article class = "card">
           {data.allPeopleJson.nodes.map(person => 
           {
             if (person.id===personID){
               return (
-                <div class = "player-item">
+                <div>
                 <a 
                   href = {safePrefix(`person/${person.id}`)}
-                  class = "player-episode-page"
                 >
                   <img 
                     src = {safePrefix(`/images/people/${person.image}`)}
-                    class = "player-episode-page"
+                    alt = {person.name}
+                    class = "player-thumbnail"
                   />
                 </a>
-                <div class="player-name">{person.name}</div>
-                <div class="player-name">
+                <div class = "card-content player-name">
+                  {person.name}<br />
                   <a 
                     href = {`https://twitter.com/${person.twitter}`}
-                    class = "player-episode-page"
+                    class = "card-content"
                   >
                   {`@${person.twitter}`}
                 </a>
@@ -51,7 +51,7 @@ export default function PersonDisplay( {personID, ...props}) {
             } 
           }
           )}
-        </div>
+        </article>
       )}
 
 

@@ -29,16 +29,61 @@ h2 {
 .player-name {
   font-family: 'PartyCrush-Regular', _font(primary);
   color: _palette(partygames-orange);
+  font-size: xx-large;
 }
 
 .player-container {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
+  flex-flow: row wrap;
   margin: -0.5rem;
+  list-style: none;
 }
 .player-item {
   margin: 0.5rem;
-  width: 10rem;
   flex: 0 0 auto;
+  height: 40vh;
+  flex-grow: 1;
+}
+
+img.player-thumbnail {
+	display: block;
+	border: 0;
+	width: 100%;
+	height: auto;
+}
+
+.card {
+	// background: white;
+	margin-bottom: 2em;	
+}
+
+.card-content {
+	// padding: .5em;
+  text-decoration: none;
+}
+
+.card-content a {
+	color: _palette(partygames-orange);
+	text-decoration: none;
+}
+
+/* Flexbox stuff */
+
+@media screen and (min-width: 40em) {
+  .cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+
+  .card {
+      flex: 0 1 calc(50% - 1em);
+  }
+}
+
+@media screen and (min-width: 60em) {
+
+  .card {
+      flex: 0 1 calc(33% - 1em);
+  }
 }

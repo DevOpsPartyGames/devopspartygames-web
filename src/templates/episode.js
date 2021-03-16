@@ -10,8 +10,8 @@ export default function Episode({ pageContext }) {
     const episode = pageContext.episode
     const defaultEpisodeImage = 'episode-template.png'
     const episodeImage = ( episode.image || defaultEpisodeImage )
-    const moment = require("moment-timezone")
-    const myTest = moment(episode.date).tz("America/Chicago")
+    // const moment = require("moment-timezone")
+    // const myTest = moment(episode.date).tz("America/Chicago")
 
     return(
         <LayoutNM>
@@ -69,7 +69,7 @@ export default function Episode({ pageContext }) {
                             }
                             { episode.players &&
                             <div><h2>Players</h2>
-                                <div>
+                                <div class = "cards">
                                     {episode.players.map((player, key) => 
                                     <PersonDisplay
                                         personID={player}
@@ -82,13 +82,13 @@ export default function Episode({ pageContext }) {
                             }
                         { episode.hosts &&
                             <div><h2>Hosts</h2>
-                                <div>
+                            <div class = "cards">
                                     {episode.hosts.map((host, key) => 
                                     <PersonDisplay
                                         personID={host}
                                     />
                                     )}
-                                </div>
+                         </div>
                                 
                                </div>
 
