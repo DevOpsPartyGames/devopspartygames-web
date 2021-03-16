@@ -356,7 +356,9 @@
       "title": "DevOps Party Games - The Empire Strikes Back (EMEA)",
       "date": "2021-03-16T20:00:00+01:00",
       "region": "EMEA",
+      "image": "s02e05.png",
       "slug": "s02e05",
+      "video": "W23uO9N_n6g",
       "players": [
         "ryn.daniels",
         "kerim.satirli",
@@ -373,17 +375,19 @@
       ],
        "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/1dffc3a791a649b9a41d8562dbea1027/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/a7fbf4a7558a700ec8cffb821d0d306c/"
         }
       ]
     },
     {
       "id": "2.6.na",
       "date": "2021-03-30T20:00:00-05:00",
-      "title": "Season 2 Episode 6",
+      "title": "DevOps Party Games - Eventual Inconsistency (Americas)",
       "slug": "s02e06",
       "region": "North America",
       "players": [
