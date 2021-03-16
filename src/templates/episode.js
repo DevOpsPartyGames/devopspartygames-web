@@ -44,6 +44,33 @@ export default function Episode({ pageContext }) {
                                     return (<li key={key}>{game}</li>)
                                 })}
                             </ul>
+                            <h3>my games</h3>
+                            {console.log(episode.mygames)}
+                            <ul>
+                                {episode.mygames.map((game, key) => {
+                                    return (
+                                    <li key={key}>
+                                        <a
+                                            href={game.link}
+                                        >
+                                            {game.name}
+                                        </a>
+                                        { game.result &&
+                                            <>
+                                            &nbsp;-&nbsp;
+
+                                            <a 
+                                                href = {game.result}
+                                            >
+                                                result
+                                            </a>
+                                            </> 
+                                        }
+                                    </li>
+                                    )
+
+                                })}
+                            </ul>
                             { (episode.quiplashlink || episode.drawfullink ) &&
                             <div>
                             <>Results of the games (order t-shirts or share on social media)</>

@@ -54,6 +54,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             image
             quiplashlink
             drawfullink
+            mygames {
+              name
+              link
+              result
+            }
           }
         }
       }

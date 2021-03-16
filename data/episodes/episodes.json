@@ -24,6 +24,17 @@
       "games": [
         "drawful",
         "quiplash"
+      ],
+      "mygames": [
+        {
+          "name": "Quiplash",
+          "link": "https://www.jackboxgames.com/quiplash-three/"
+        },
+        {
+          "name": "Drawful",
+          "link": "https://www.jackboxgames.com/drawful-two/",
+          "result": "http://games.jackbox.tv/artifact/DrawfulGame/984d654d16227504704741d5d5db60a4/"
+        }
       ]
     },
     {
