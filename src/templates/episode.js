@@ -46,6 +46,7 @@ export default function Episode({ pageContext }) {
                             </ul>
                             <h3>my games</h3>
                             {console.log(episode.mygames)}
+                            {episode.mygames &&
                             <ul>
                                 {episode.mygames.map((game, key) => {
                                     return (
@@ -71,6 +72,7 @@ export default function Episode({ pageContext }) {
 
                                 })}
                             </ul>
+                            }
                             { (episode.quiplashlink || episode.drawfullink ) &&
                             <div>
                             <>Results of the games (order t-shirts or share on social media)</>
