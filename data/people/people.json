@@ -629,5 +629,17 @@
       "name": "Kelli Prichard",
       "twitter": "allaboutkelli",
       "image": "kelli-prichard.jpg"
+    },
+    {
+      "id": "matt.stratton",
+      "name": "Matt Stratton",
+      "twitter": "mattstratton",
+      "image": "matt-stratton.jpg"
+    },
+    {
+      "id": "dan.maher",
+      "name": "Dan Maher",
+      "twitter": "phrawzty",
+      "image": "dan-maher.jpg"
     }
   ]
