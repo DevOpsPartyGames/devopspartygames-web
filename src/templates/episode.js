@@ -19,7 +19,7 @@ export default function Episode({ pageContext }) {
           "@type": "Event",
           name: `DevOps Party Games - ${episode.title}`,
           startDate: episode.date,
-          "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+          "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
           "eventStatus": "https://schema.org/EventScheduled",
           "location": {
             "@type": "VirtualLocation",
