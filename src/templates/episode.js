@@ -84,7 +84,7 @@ export default function Episode({ pageContext }) {
 
                             { episode.players &&
                             <div><h2>Players</h2>
-                                <div class = "cards">
+                                <div class = "post-feed">
                                     {episode.players.map((player, key) => 
                                     <PersonDisplay
                                         personID={player}
@@ -97,7 +97,7 @@ export default function Episode({ pageContext }) {
                             }
                         { episode.hosts &&
                             <div><h2>Hosts</h2>
-                            <div class = "cards">
+                            <div class = "post-feed">
                                     {episode.hosts.map((host, key) => 
                                     <PersonDisplay
                                         personID={host}

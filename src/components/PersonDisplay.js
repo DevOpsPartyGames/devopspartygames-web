@@ -21,29 +21,40 @@ export default function PersonDisplay( {personID, ...props}) {
         }
       `}
       render={data => (
-        <article class = "card">
+        <article class = "post post-card">
           {data.allPeopleJson.nodes.map(person => 
           {
             if (person.id===personID){
               return (
-                <div>
+                <div class = "post-card-inside">
                 <a 
                   href = {safePrefix(`person/${person.id}`)}
+                  class = "post-card-thumbnail"
                 >
                   <img 
                     src = {safePrefix(`/images/people/${person.image}`)}
                     alt = {person.name}
-                    class = "player-thumbnail"
+                    class = "thumbnail"
                   />
                 </a>
-                <div class = "card-content player-name">
-                  {person.name}<br />
-                  <a 
-                    href = {`https://twitter.com/${person.twitter}`}
-                    class = "card-content"
-                  >
-                  {`@${person.twitter}`}
-                </a>
+                <div class = "post-card-content">
+                  <header class = "post-header">
+                    <h3 class = "post-title">
+                      <a 
+                        href = {safePrefix(`person/${person.id}`)}
+                        rel = "bookmark"
+                      >
+                        {person.name}
+                      </a>
+                      <br />
+                      <a 
+                        href = {`https://twitter.com/${person.twitter}`}
+                      >
+                        {`@${person.twitter}`}
+                      </a>
+                    </h3>
+                  </header>
+
                 </div>
 
                 </div>
