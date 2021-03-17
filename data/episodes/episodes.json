@@ -127,7 +127,7 @@
     {
       "id": "1.5.na",
       "date": "2020-10-27T20:00:00-05:00",
-      "title": "DevOps Party Games All-Stars Edition",
+      "title": "All-Stars Edition",
       "slug": "s01e05",
       "region": "North America",
       "video": "E5j2kioZves",
@@ -194,7 +194,7 @@
     {
       "id": "1.7.na",
       "date": "2020-12-15T20:00:00-05:00",
-      "title": "DevOps Party Games Holiday Edition",
+      "title": "Holiday Edition",
       "slug": "s01e07",
       "region": "North America",
       "video": "Zr7K8DuwlFU",
@@ -226,7 +226,7 @@
     },
     {
       "id": "2.1.emea",
-      "title": "DevOps Party Games -  A New Challenger Appears (EMEA)",
+      "title": "A New Challenger Appears (EMEA)",
       "date": "2021-01-14T20:00:00+01:00",
       "region": "EMEA",
       "video": "5IF0swpL3X8",
@@ -260,7 +260,7 @@
     {
       "id": "2.2.na",
       "date": "2021-01-26T20:00:00-05:00",
-      "title": "Season 2 Episode 2",
+      "title": "Season 2 Episode 2 (Americas)",
       "slug": "s02e02",
       "region": "North America",
       "image": "s02e02.png",
@@ -291,7 +291,7 @@
     },
     {
       "id": "2.3.emea",
-      "title": "DevOps Party Games - Don't Call It A Comeback (EMEA)",
+      "title": "Don't Call It A Comeback (EMEA)",
       "date": "2021-02-09T20:00:00+01:00",
       "region": "EMEA",
       "slug": "s02e03",
@@ -322,7 +322,7 @@
     {
       "id": "2.4.na",
       "date": "2021-02-23T20:00:00-05:00",
-      "title": "DevOps Party Games - Now We're Cooking (Americas)",
+      "title": "Now We're Cooking (Americas)",
       "slug": "s02e04",
       "region": "North America",
       "image": "s02e04.png",
@@ -353,7 +353,7 @@
     },
     {
       "id": "2.5.emea",
-      "title": "DevOps Party Games - The Empire Strikes Back (EMEA)",
+      "title": "The Empire Strikes Back (EMEA)",
       "date": "2021-03-16T20:00:00+01:00",
       "region": "EMEA",
       "image": "s02e05.png",
@@ -387,7 +387,7 @@
     {
       "id": "2.6.na",
       "date": "2021-03-30T20:00:00-05:00",
-      "title": "DevOps Party Games - Eventual Inconsistency (Americas)",
+      "title": "Eventual Inconsistency (Americas)",
       "slug": "s02e06",
       "region": "North America",
       "players": [
