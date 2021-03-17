@@ -56,7 +56,6 @@ export default function Episode({ pageContext }) {
                     <article className="post post-full">
                         <header className="post-header">
                             <h1 className="post-title">{`DevOps Party Games - ${episode.title}`}</h1>
-                            <p>{JSON.stringify(schemaEvent)}</p>
                         </header>
                         <div className="post-thumbnail">
                             <img
