@@ -33,6 +33,7 @@ return (
     border="0" 
     src={safePrefix('/images/add-to-calendar.png')} 
     class = "player-episode-page" 
+    alt="Add to Google Calendar"
   />
   </a>
   <br clear = "all"></br>

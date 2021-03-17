@@ -1,9 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
-import components, {Layout} from '../components/index';
+import {Layout} from '../components/index';
 import SEO from "../components/seo";
 import ListPeople from '../components/ListPeople';
-import { safePrefix } from '../utils';
 
 
 export default class Landing extends React.Component {

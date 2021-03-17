@@ -1,11 +1,8 @@
 import React from 'react'
 import { StaticQuery, graphql } from "gatsby"
-import { safePrefix } from '../utils'
 
 export default function GameLink( {gameID, ...props}) {
 
-
-  
   return (
     <StaticQuery
       query={graphql`

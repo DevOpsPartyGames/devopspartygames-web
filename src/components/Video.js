@@ -11,6 +11,7 @@ const Video = ({ videoSrcURL, ...props }) => (
       webkitallowfullscreen="true"
       mozallowfullscreen="true"
       allowFullScreen
+      title="DevOps Party Games episode video"
     />
   </div>
 

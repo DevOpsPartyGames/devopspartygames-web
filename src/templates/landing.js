@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import components, {Layout} from '../components/index';
+import {Layout} from '../components/index';
 import SEO from "../components/seo";
 import ListEpisodes from '../components/ListEpisodes';
 import { safePrefix } from '../utils';
@@ -22,6 +22,7 @@ export default class Landing extends React.Component {
                   <div class = "cell block-preview">
                     <img 
                       src = {safePrefix(`images/game-logo-with-stroke.png`)}
+                      alt = "DevOps Party Games logo"
                     />
                   </div>
                   <div class = "cell block-content">
