@@ -9,14 +9,38 @@
       "image": "episode1.png",
       "ogimage": "episode1-social.png",
       "players": [
-        "heidi.waterhouse",
-        "corey.quinn",
-        "kat.cosgrove",
-        "jeff.smith",
-        "jason.yee",
-        "quintessence.anx",
-        "amy.tobey",
-        "pete.cheslock"
+        {
+          "id": "heidi.waterhouse",
+          "score": 25
+        },
+        {
+          "id": "corey.quinn",
+          "score": 34
+        },
+        {
+          "id": "kat.cosgrove",
+          "score": 32
+        },
+        {
+          "id": "jeff.smith",
+          "score": 25
+        },
+        {
+          "id": "jason.yee",
+          "score": 30
+        },
+        {
+          "id": "quintessence.anx",
+          "score": 21
+        },
+        {
+          "id": "amy.tobey",
+          "score": 24
+        },
+        {
+          "id": "pete.cheslock",
+          "score": 28
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -41,14 +65,38 @@
       "image": "episode2.png",
       "ogimage": "episode2-social.png",
       "players": [
-        "josh.zimmerman",
-        "laura.santamaria",
-        "kat.cosgrove",
-        "julian.dunn",
-        "taylor.barnett",
-        "wesley.faulkner",
-        "paul.czarkowski",
-        "waldo.g"
+        {
+          "id": "josh.zimmerman",
+          "score": 19
+        },
+        {
+          "id": "laura.santamaria",
+          "score": 9
+        },
+        {
+          "id": "kat.cosgrove",
+          "score": 15
+        },
+        {
+          "id": "julian.dunn",
+          "score": 15
+        },
+        {
+          "id": "taylor.barnett",
+          "score": 9
+        },
+        {
+          "id": "wesley.faulkner",
+          "score": 8
+        },
+        {
+          "id": "paul.czarkowski",
+          "score": 24
+        },
+        {
+          "id": "waldo.g",
+          "score": 13
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -73,14 +121,38 @@
       "image": "episode3.png",
       "ogimage": "episode3-social.png",
       "players": [
-        "jessica.kerr",
-        "tiffany.longworth",
-        "ana.medina",
-        "aaron.aldrich",
-        "jessica.brown",
-        "pete.cheslock",
-        "austin.parker",
-        "pj.hagerty"
+        {
+          "id": "jessica.kerr",
+          "score": 9
+        },
+        {
+          "id": "tiffany.longworth",
+          "score": 22
+        },
+        {
+          "id": "ana.medina",
+          "score": 19
+        },
+        {
+          "id": "aaron.aldrich",
+          "score": 14
+        },
+        {
+          "id": "jessica.brown",
+          "score": 8
+        },
+        {
+          "id": "pete.cheslock",
+          "score": 17
+        },
+        {
+          "id": "austin.parker",
+          "score": 9
+        },
+        {
+          "id": "pj.hagerty",
+          "score": 11
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -105,14 +177,38 @@
       "image": "episode4.png",
       "ogimage": "episode4-social.png",
       "players": [
-        "nathen.harvey",
-        "tim.banks",
-        "chloe.condon",
-        "bonnie.aumann",
-        "shelby.spees",
-        "liz.fong.jones",
-        "laura.santamaria",
-        "ian.coldwater"
+        {
+          "id": "nathen.harvey",
+          "score": 6
+        },
+        {
+          "id": "tim.banks",
+          "score": 23
+        },
+        {
+          "id": "chloe.condon",
+          "score": 13
+        },
+        {
+          "id": "bonnie.aumann",
+          "score": 11
+        },
+        {
+          "id": "shelby.spees",
+          "score": 1
+        },
+        {
+          "id": "liz.fong.jones",
+          "score": 12
+        },
+        {
+          "id": "laura.santamaria",
+          "score": 16
+        },
+        {
+          "id": "ian.coldwater",
+          "score": 16
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -137,14 +233,38 @@
       "image": "episode5.png",
       "ogimage": "episode5-social.png",
       "players": [
-        "quintessence.anx",
-        "tim.banks",
-        "heidi.waterhouse",
-        "ian.coldwater",
-        "paul.czarkowski",
-        "pete.cheslock",
-        "laura.santamaria",
-        "jason.yee"
+        {
+          "id": "quintessence.anx",
+          "score": 5
+        },
+        {
+          "id": "tim.banks",
+          "score": 1
+        },
+        {
+          "id": "heidi.waterhouse",
+          "score": 10
+        },
+        {
+          "id": "ian.coldwater",
+          "score": 8
+        },
+        {
+          "id": "paul.czarkowski",
+          "score": 3
+        },
+        {
+          "id": "pete.cheslock",
+          "score": 13
+        },
+        {
+          "id": "laura.santamaria",
+          "score": 10
+        },
+        {
+          "id": "jason.yee",
+          "score": 8
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -172,14 +292,38 @@
       "image": "episode6.png",
       "ogimage": "episode6-social.png",
       "players": [
-        "j.paul.reed",
-        "kat.cosgrove",
-        "matt.broberg",
-        "sasha.rosenbaum",
-        "ashton.rodenhiser",
-        "jeff.smith",
-        "jill.wohlner",
-        "joe.laha"
+        {
+          "id": "j.paul.reed",
+          "score": 15
+        },
+        {
+          "id": "kat.cosgrove",
+          "score": 19
+        },
+        {
+          "id": "matt.broberg",
+          "score": 16
+        },
+        {
+          "id": "sasha.rosenbaum",
+          "score": 11
+        },
+        {
+          "id": "ashton.rodenhiser",
+          "score": 12
+        },
+        {
+          "id": "jeff.smith",
+          "score": 14
+        },
+        {
+          "id": "jill.wohlner",
+          "score": 7
+        },
+        {
+          "id": "joe.laha",
+          "score": 15
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -206,14 +350,38 @@
       "image": "episode7.png",
       "ogimage": "episode7-social.png",
       "players": [
-        "jocelyn.matthews",
-        "michael.ducy",
-        "christina.warren",
-        "jam.leomi",
-        "jason.hand",
-        "jacquie.grindrod",
-        "bryan.liles",
-        "katie.mclaughlin"
+        {
+          "id": "jocelyn.matthews",
+          "score": 8
+        },
+        {
+          "id": "michael.ducy",
+          "score": 11
+        },
+        {
+          "id": "christina.warren",
+          "score": 15
+        },
+        {
+          "id": "jam.leomi",
+          "score": 15
+        },
+        {
+          "id": "jason.hand",
+          "score": 19
+        },
+        {
+          "id": "jacquie.grindrod",
+          "score": 12
+        },
+        {
+          "id": "bryan.liles",
+          "score": 7
+        },
+        {
+          "id": "katie.mclaughlin",
+          "score": 24
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -240,14 +408,38 @@
       "ogimage": "s02e01-twittercard.png",
       "slug": "s02e01",
        "players": [
-        "stormy",
-        "serhat.can",
-        "lucy.davinhart",
-        "paul.czarkowski",
-        "kris.howard",
-        "kai.hoffman",
-        "sharone.zitzman",
-        "cobus.bernard"
+        {
+          "id": "stormy",
+          "score": 22
+        },
+        {
+          "id": "serhat.can",
+          "score": 13
+        },
+        {
+          "id": "lucy.davinhart",
+          "score": 15
+        },
+        {
+          "id": "paul.czarkowski",
+          "score": 20
+        },
+        {
+          "id": "kris.howard",
+          "score": 10
+        },
+        {
+          "id": "kai.hoffman",
+          "score": 14
+        },
+        {
+          "id": "sharone.zitzman",
+          "score": 6
+        },
+        {
+          "id": "cobus.bernard",
+          "score": 9
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -273,14 +465,38 @@
       "image": "s02e02.png",
       "ogimage": "s02e02-twittercard.png",
       "players": [
-        "tim.banks",
-        "kat.cosgrove",
-        "corey.quinn",
-        "simpsons.ops",
-        "cassidy.williams",
-        "austin.parker",
-        "ian.coldwater",
-        "jessica.west"
+        {
+          "id": "tim.banks",
+          "score": 20
+        },
+        {
+          "id": "kat.cosgrove",
+          "score": 15
+        },
+        {
+          "id": "corey.quinn",
+          "score": 14
+        },
+        {
+          "id": "simpsons.ops",
+          "score": 17
+        },
+        {
+          "id": "cassidy.williams",
+          "score": 9
+        },
+        {
+          "id": "austin.parker",
+          "score": 15
+        },
+        {
+          "id": "ian.coldwater",
+          "score": 13
+        },
+        {
+          "id": "jessica.west",
+          "score": 6
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -306,14 +522,38 @@
       "image": "s02e03.png",
       "ogimage": "s02e03-twittercard.png",
       "players": [
-        "yvo.vandoorn",
-        "danielle.lancashire",
-        "darko.mesaros",
-        "julia.shub",
-        "sharone.zitzman",
-        "matt.williams",
-        "jessica.ulyate",
-        "james.seconde"
+        {
+          "id": "yvo.vandoorn",
+          "score": 19
+        },
+        {
+          "id": "danielle.lancashire",
+          "score": 18
+        },
+        {
+          "id": "darko.mesaros",
+          "score": 17
+        },
+        {
+          "id": "julia.shub",
+          "score": 19
+        },
+        {
+          "id": "sharone.zitzman",
+          "score": 13
+        },
+        {
+          "id": "matt.williams",
+          "score": 19
+        },
+        {
+          "id": "jessica.ulyate",
+          "score": 13
+        },
+        {
+          "id": "james.seconde",
+          "score": 22
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -337,14 +577,38 @@
       "image": "s02e04.png",
       "ogimage": "s02e04-twittercard.png",
       "players": [
-        "julian.dunn",
-        "ali.finkelstein",
-        "gareth.greenaway",
-        "nell.shamrell.harrington",
-        "tracy.holmes",
-        "nick.rycar",
-        "tiffany.longworth",
-        "alex.hidalgo"
+        {
+          "id": "julian.dunn",
+          "score": 12
+        },
+        {
+          "id": "ali.finkelstein",
+          "score": 11
+        },
+        {
+          "id": "gareth.greenaway",
+          "score": 20
+        },
+        {
+          "id": "nell.shamrell.harrington",
+          "score": 16
+        },
+        {
+          "id": "tracy.holmes",
+          "score": 14
+        },
+        {
+          "id": "nick.rycar",
+          "score": 12
+        },
+        {
+          "id": "tiffany.longworth",
+          "score": 14
+        },
+        {
+          "id": "alex.hidalgo",
+          "score": 9
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -371,14 +635,38 @@
       "slug": "s02e05",
       "video": "W23uO9N_n6g",
       "players": [
-        "ryn.daniels",
-        "kerim.satirli",
-        "jen.underscore",
-        "jill.wohlner",
-        "adam.surak",
-        "stormy",
-        "sheela.nistala",
-        "jeremy.meiss"
+        {
+          "id": "ryn.daniels",
+          "score": 11
+        },
+        {
+          "id": "kerim.satirli",
+          "score": 16
+        },
+        {
+          "id": "jen.underscore",
+          "score": 5
+        },
+        {
+          "id": "jill.wohlner",
+          "score": 14
+        },
+        {
+          "id": "adam.surak",
+          "score": 18
+        },
+        {
+          "id": "stormy",
+          "score": 14
+        },
+        {
+          "id": "sheela.nistala",
+          "score": 8
+        },
+        {
+          "id": "jeremy.meiss",
+          "score": 22
+        }
       ],
       "hosts": [
         "matt.stratton",
@@ -403,14 +691,30 @@
       "region": "North America",
       "ogimage": "s02e06-twittercard.png",
       "players": [
-        "farrah.campbell",
-        "jason.yee",
-        "lauren.cooney",
-        "rich.burroughs",
-        "sarai.rosenberg",
-        "wesley.faulkner",
-        "nicole.sumrall",
-        "kelli.prichard"
+        {
+          "id": "farrah.campbell"
+        },
+        {
+          "id": "jason.yee"
+        },
+        {
+          "id": "lauren.cooney"
+        },
+        {
+          "id": "rich.burroughs"
+        },
+        {
+          "id": "sarai.rosenberg"
+        },
+        {
+          "id": "wesley.faulkner"
+        },
+        {
+          "id": "nicole.sumrall"
+        },
+        {
+          "id": "kelli.prichard"
+        }
       ],
       "hosts": [
         "matt.stratton",

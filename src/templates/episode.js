@@ -116,7 +116,7 @@ export default function Episode({ pageContext }) {
                                 <div class = "post-feed">
                                     {episode.players.map((player, key) => 
                                     <PersonDisplay
-                                        personID={player}
+                                        personID={player.id}
                                     />
                                     )}
                                 </div>

@@ -15,7 +15,9 @@ export default function ListPersonEpisodes( {personID, ...props}) {
                 id
                 slug
                 title
-                players
+                players {
+                  id
+                }
               }
           }
         }
@@ -24,17 +26,25 @@ export default function ListPersonEpisodes( {personID, ...props}) {
         <ul>
           {data.allEpisodesJson.nodes.map(episode => 
           {
-            if (episode.players.includes(personID)){
-              return (
-                <li>
-                  <a
-                    href = {safePrefix(`/episodes/${episode.slug}`)}
-                  >
-                    {episode.title}
-                  </a>
-                </li>
-              )
-            }
+            return (
+            episode.players.map(player =>
+              {
+                if (player.id === personID){
+                  // return (console.log(episode.slug))
+                  return (
+
+                    <li>
+                      <a
+                        href = {safePrefix(`/episodes/${episode.slug}`)}
+                      >
+                        {episode.title}
+                      </a>
+                    </li>
+                  )
+                }
+              }
+            )
+            )
           }
           )}
           </ul>

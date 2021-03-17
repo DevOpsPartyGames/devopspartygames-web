@@ -43,7 +43,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allEpisodesJson {
           nodes {
             id
-            players
+            players {
+              id
+              score
+            }
             hosts
             region
             title
