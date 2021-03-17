@@ -6,6 +6,7 @@ module.exports = {
         `gatsby-source-data`,
         `gatsby-transformer-json`,
         `gatsby-plugin-antd`,
+        `gatsby-plugin-advanced-sitemap`,
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
