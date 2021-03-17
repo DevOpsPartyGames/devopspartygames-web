@@ -8,23 +8,17 @@ import PersonDisplay from "../components/PersonDisplay";
 import GameLink from "../components/GameLink";
 import SEO from "../components/seo";
 import Helmet from "react-helmet";
-import moment from 'moment';
-
-
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
     const defaultEpisodeImage = 'episode-template.png'
     const episodeImage = ( episode.image || defaultEpisodeImage )
-    const endTime = new moment(episode.date).add(1, 'h').toDate();
-    const realEndTime = moment(endTime).format()
     const schemaEvent = [
         {
           "@context": "https://schema.org",
           "@type": "Event",
-          name: episode.title,
+          name: `DevOps Party Games - ${episode.title}`,
           startDate: episode.date,
-          endDate: realEndTime,
           "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
           "eventStatus": "https://schema.org/EventScheduled",
           "location": {
@@ -34,7 +28,7 @@ export default function Episode({ pageContext }) {
           image: [ 
             `https://devopspartygames.com/images/episodes/${episode.ogimage}`,
           ],
-          description: " DevOps Party Games takes the idea of online party games and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained.",
+          description: "DevOps Party Games takes the idea of online party games and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained.",
           "organizer": {
             "@type": "Organization",
             "name": "DevOps Party Games",
@@ -61,7 +55,8 @@ export default function Episode({ pageContext }) {
                 <div className="inner-medium">
                     <article className="post post-full">
                         <header className="post-header">
-                            <h1 className="post-title">{episode.title}</h1>
+                            <h1 className="post-title">{`DevOps Party Games - ${episode.title}`}</h1>
+                            <p>{JSON.stringify(schemaEvent)}</p>
                         </header>
                         <div className="post-thumbnail">
                             <img
