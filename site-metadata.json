@@ -14,6 +14,10 @@
                 "url": "/#episodes"
             },
             {
+                "label": "People",
+                "url": "/people"
+            },
+            {
                 "label": "Thought Leaderboard",
                 "url": "/scoreboard"
             },
