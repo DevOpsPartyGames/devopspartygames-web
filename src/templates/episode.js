@@ -7,11 +7,41 @@ import DateBookCalendarButton from "../components/DateBook";
 import PersonDisplay from "../components/PersonDisplay";
 import GameLink from "../components/GameLink";
 import SEO from "../components/seo";
+import Helmet from "react-helmet";
+import moment from 'moment';
+
+
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
     const defaultEpisodeImage = 'episode-template.png'
     const episodeImage = ( episode.image || defaultEpisodeImage )
+    const endTime = new moment(episode.date).add(1, 'h').toDate();
+    const realEndTime = moment(endTime).format()
+    const schemaEvent = [
+        {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          name: episode.title,
+          startDate: episode.date,
+          endDate: realEndTime,
+          "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "location": {
+            "@type": "VirtualLocation",
+            "url": "https://twitch.tv/devopspartygames"
+          },
+          image: [ 
+            `https://devopspartygames.com/images/episodes/${episode.ogimage}`,
+          ],
+          description: " DevOps Party Games takes the idea of online party games and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained.",
+          "organizer": {
+            "@type": "Organization",
+            "name": "DevOps Party Games",
+            "url": "https://devopspartygames.com"
+          }
+        },
+      ]
     // const moment = require("moment-timezone")
     // const myTest = moment(episode.date).tz("America/Chicago")
 
@@ -22,6 +52,11 @@ export default function Episode({ pageContext }) {
               description={episode.title}
               image={`/images/episodes/${episode.ogimage}`}
             />
+            <Helmet>
+                <script type="application/ld+json">
+                    {JSON.stringify(schemaEvent)}
+                </script>
+            </Helmet>
              <div className="outer">
                 <div className="inner-medium">
                     <article className="post post-full">
