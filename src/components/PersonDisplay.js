@@ -39,7 +39,7 @@ export default function PersonDisplay( {personID, ...props}) {
                 </a>
                 <div class = "post-card-content">
                   <header class = "post-header">
-                    <h3 class = "post-title">
+                    <h3 class = "post-title player-name">
                       <a 
                         href = {safePrefix(`person/${person.id}`)}
                         rel = "bookmark"
@@ -49,6 +49,7 @@ export default function PersonDisplay( {personID, ...props}) {
                       <br />
                       <a 
                         href = {`https://twitter.com/${person.twitter}`}
+                        class = "player-twitter"
                       >
                         {`@${person.twitter}`}
                       </a>

@@ -29,7 +29,13 @@ h2 {
 .player-name {
   font-family: 'PartyCrush-Regular', _font(primary);
   color: _palette(partygames-orange);
-  font-size: xx-large;
+  font-size: xx-large !important;
+}
+
+.player-twitter {
+  font-family: 'PartyCrush-Regular', _font(primary);
+  color: _palette(partygames-orange);
+  font-size: x-large !important;
 }
 
 .player-container {
