@@ -39,6 +39,7 @@
       "region": "North America",
       "video": "u18gzX-URIE",
       "image": "episode2.png",
+      "ogimage": "episode2-social.png",
       "players": [
         "josh.zimmerman",
         "laura.santamaria",
@@ -70,6 +71,7 @@
       "region": "North America",
       "video": "BZ-nZgD7dfI",
       "image": "episode3.png",
+      "ogimage": "episode3-social.png",
       "players": [
         "jessica.kerr",
         "tiffany.longworth",
@@ -101,6 +103,7 @@
       "region": "North America",
       "video": "Cji-wxJjUoA",
       "image": "episode4.png",
+      "ogimage": "episode4-social.png",
       "players": [
         "nathen.harvey",
         "tim.banks",
@@ -132,6 +135,7 @@
       "region": "North America",
       "video": "E5j2kioZves",
       "image": "episode5.png",
+      "ogimage": "episode5-social.png",
       "players": [
         "quintessence.anx",
         "tim.banks",
@@ -166,6 +170,7 @@
       "region": "North America",
       "video": "XrWCakeCnZE",
       "image": "episode6.png",
+      "ogimage": "episode6-social.png",
       "players": [
         "j.paul.reed",
         "kat.cosgrove",
@@ -199,6 +204,7 @@
       "region": "North America",
       "video": "Zr7K8DuwlFU",
       "image": "episode7.png",
+      "ogimage": "episode7-social.png",
       "players": [
         "jocelyn.matthews",
         "michael.ducy",
@@ -231,6 +237,7 @@
       "region": "EMEA",
       "video": "5IF0swpL3X8",
       "image": "s02e01.png",
+      "ogimage": "s02e01-twittercard.png",
       "slug": "s02e01",
        "players": [
         "stormy",
@@ -264,6 +271,7 @@
       "slug": "s02e02",
       "region": "North America",
       "image": "s02e02.png",
+      "ogimage": "s02e02-twittercard.png",
       "players": [
         "tim.banks",
         "kat.cosgrove",
@@ -296,6 +304,7 @@
       "region": "EMEA",
       "slug": "s02e03",
       "image": "s02e03.png",
+      "ogimage": "s02e03-twittercard.png",
       "players": [
         "yvo.vandoorn",
         "danielle.lancashire",
@@ -326,6 +335,7 @@
       "slug": "s02e04",
       "region": "North America",
       "image": "s02e04.png",
+      "ogimage": "s02e04-twittercard.png",
       "players": [
         "julian.dunn",
         "ali.finkelstein",
@@ -357,6 +367,7 @@
       "date": "2021-03-16T20:00:00+01:00",
       "region": "EMEA",
       "image": "s02e05.png",
+      "ogimage": "s02e05-twittercard.png",
       "slug": "s02e05",
       "video": "W23uO9N_n6g",
       "players": [
@@ -390,6 +401,7 @@
       "title": "Eventual Inconsistency (Americas)",
       "slug": "s02e06",
       "region": "North America",
+      "ogimage": "s02e06-twittercard.png",
       "players": [
         "farrah.campbell",
         "jason.yee",
