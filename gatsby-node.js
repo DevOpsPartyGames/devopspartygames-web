@@ -49,6 +49,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             }
             hosts
             region
+            season
             title
             slug
             date

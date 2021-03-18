@@ -32,6 +32,7 @@ Example for an episode:
   "title": "Now We're Cooking (Americas)",
   "slug": "s02e04",
   "region": "North America",
+  "season": "2",
   "image": "s02e04.png",
   "ogimage": "s02e04-twittercard.png",
   "players": [
@@ -67,6 +68,7 @@ Example for an episode:
 * `title` Clever title for the episode. Do *not* prefix it with "DevOps Party Games -" as that gets added automatically
 * `slug` The path for `devopspartygames.com/episodes`. Example: `s02e04`
 * `region` The "league" for the episode. Valid entries are `North America` or `EMEA`
+* `season` The season for the episode. Currently, something like `"1"` or `"2"`, but can be any string (but should match the rest of the season)
 * `image`[optional] The thumbnail image for the episode. If not provided, the default image will be used. This is relative to `/static/images/episodes/` in the repo
 * `ogimage` The social media card for the episode. This is relative to `/static/images/episodes/` in the repo
 * `players[]` The players for the episode. Fields for each player:
