@@ -44,7 +44,8 @@
       "image": "jason.png",
       "episodes": [
         1,
-        5
+        5,
+        13
       ]
     },
     {
@@ -112,7 +113,8 @@
       "twitter":"wesley83",
       "image":"wesley.png",
       "episodes": [
-        2
+        2,
+        13
       ]
     },
     {
@@ -592,6 +594,54 @@
       "image":"tracy-holmes.png",
       "episodes": [
         12
+      ]
+    },
+    {
+      "name":"Farrah Campbell",
+      "twitter":"FarrahC32",
+      "image":"farrah-campbell.png",
+      "episodes": [
+        13
+      ]
+    },
+    {
+      "name":"Lauren Cooney",
+      "twitter":"lcooney",
+      "image":"lauren-cooney.png",
+      "episodes": [
+        13
+      ]
+    },
+    {
+      "name":"Rich burroughs",
+      "twitter":"richburroughs",
+      "image":"rich-burroughs.png",
+      "episodes": [
+        13
+      ]
+    },
+    {
+      "name":"Sarai Rosenberg",
+      "twitter":"saraislet",
+      "image":"sarai-rosenberg.png",
+      "episodes": [
+        13
+      ]
+    },
+    {
+      "name":"Nicole Sumrall",
+      "twitter":"nsumrall05",
+      "image":"nicole-sumrall.png",
+      "episodes": [
+        13
+      ]
+    },
+    {
+      "name":"Kelli Prichard",
+      "twitter":"allaboutkelli",
+      "image":"kelli-prichard.png",
+      "episodes": [
+        13
       ]
     }
   ]
