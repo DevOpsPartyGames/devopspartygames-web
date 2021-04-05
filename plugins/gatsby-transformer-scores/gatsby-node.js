@@ -1,50 +1,19 @@
 const rawJson = require('../../data/episodes/episodes.json');
 
-let i = 1
-
-async function onCreateNode({ node, actions, createNodeId, loadNodeContent, createContentDigest }) {
+async function onCreateNode({ node, actions }) {
     function transformObject(obj, id, type) {
-        const tlbscoresNode = {
-            ...obj,
-            id,
-            children: [],
-            parent: node.id,
-            internal: {
-                contentDigest: createContentDigest(obj),
-                type,
-            },
-            testRaw: addUpScores(rawJson, node.id),
-            testAvg: transformAverage(rawJson, addUpScores(rawJson, node.id), node.id),
-        }
-        createNode(tlbscoresNode);
-        // createParentChildLink({ parent: node, child: tlbscoresNode });
+        createNodeField({node, name: `testRaw`, value: addUpScores(rawJson, node.id)});
+        createNodeField({node, name: `testAvg`, value: transformAverage(rawJson, addUpScores(rawJson, node.id), node.id)});
     }
-    const { createNode, createParentChildLink } = actions;
-
+    const { createNodeField } = actions;
     if (node.internal.type !== `PeopleJson`) {
         return
     }
-
     transformObject(
         node,
         `${node.id}1`,
         upperFirst(dotReplace(`${node.id}Score`))
     )
-
-    i++
-
-    // const content = await node;
-    // Object.keys(content).forEach((obj, i) => {
-    //     console.log(obj)
-    //     const nameStr = Buffer.from(node.name, 'utf-8')
-        // if (obj === 'id') {
-        //     transformObject(
-        //         obj,
-        //         obj.id ? obj.id : createNodeId(`${node.id} [${i}] >>> SCORES`),
-        //         upperFirst(dotReplace(`${node.id}Score`))
-        //     );
-        // }
-    // })
 }
 
 function upperFirst(string) {
@@ -89,13 +58,5 @@ function transformAverage(file,scoreNum,player){
     }
     return avgScore;
 }
-
-// function transformMean(){
-//     return;
-// }
-//
-// function transformMode(){
-//     return
-// }
 
 exports.onCreateNode = onCreateNode
