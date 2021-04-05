@@ -5,6 +5,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-json`,
+        `gatsby-transformer-scores`,
         `gatsby-plugin-antd`,
         `gatsby-plugin-advanced-sitemap`,
         {
@@ -19,9 +20,9 @@ module.exports = {
             options: {
                 name: `data`,
                 path: `${__dirname}/data`,
-                plugins: [
-                    `gatsby-transformer-json`
-                ]
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
             }
         },
         {
@@ -29,9 +30,9 @@ module.exports = {
             options: {
                 name: `players`,
                 path: `${__dirname}/data/players`,
-                plugins: [
-                    `gatsby-transformer-json`
-                ]
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
             }
         },
         {
@@ -39,9 +40,9 @@ module.exports = {
             options: {
                 name: `episodes`,
                 path: `${__dirname}/data/episodes`,
-                plugins: [
-                    `gatsby-transformer-json`
-                ]
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
             }
         },
         {
