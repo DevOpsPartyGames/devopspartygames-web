@@ -1,4 +1,4 @@
-const sass = require('node-sass');
+const sass = require('sass');
 const sassUtils = require('node-sass-utils')(sass);
 const fse = require('fs-extra');
 
