@@ -2,6 +2,7 @@ import React from "react";
 import LayoutNM from "../components/LayoutNM";
 import safePrefix from "../utils/safePrefix";
 import ListPersonEpisodes from "../components/ListPersonEpisodes";
+import ShowLeaderboardRank from "../components/ShowLeaderboardRank";
 import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
 
 export default function Person({ pageContext }) {
@@ -24,6 +25,10 @@ export default function Person({ pageContext }) {
                                 {player.id == topPlayer && 
                                     <p>TOP OVERALL PLAYER</p>
                                 }
+                                Overall Ranking:
+                                <ShowLeaderboardRank 
+                                    personID={player.id}
+                                />
                             </div>
 
                             <div>
