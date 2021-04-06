@@ -40,7 +40,7 @@ function addUpScores(file,player){
         }
     }
     let totalScore = rawScore.reduce((a, b) => a + b, 0);
-    if (isNaN(totalScore)) {
+    if (isNaN(totalScore)) { // this is causing existing players who have no score on an episode to return a total of 0; this is an issue.
         totalScore = 0;
     }
     return totalScore;
