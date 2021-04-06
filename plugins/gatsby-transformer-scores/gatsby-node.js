@@ -35,7 +35,12 @@ function addUpScores(file,player){
         const spotSearch = file[j]['players'];
         for (let i=0 ; i < spotSearch.length ; i++) {
             if (spotSearch[i]['id'] === player) {
-                rawScore.push(spotSearch[i]['score']);
+                if(isNaN(spotSearch[i]['score'])) {
+                    rawScore.push(0);
+                } else {
+                    rawScore.push(spotSearch[i]['score']);
+                }
+                
             }
         }
     }
@@ -54,7 +59,11 @@ function addUpSeasonScores(file,player,season){
 
             for (let i=0 ; i < spotSearch.length ; i++) {
                 if (spotSearch[i]['id'] === player) {
-                    rawScore.push(spotSearch[i]['score']);
+                    if(isNaN(spotSearch[i]['score'])) {
+                        rawScore.push(0);
+                    } else {
+                        rawScore.push(spotSearch[i]['score']);
+                    }
                 }
             }
         }

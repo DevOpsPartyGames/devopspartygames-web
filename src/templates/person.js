@@ -3,6 +3,8 @@ import LayoutNM from "../components/LayoutNM";
 import safePrefix from "../utils/safePrefix";
 import ListPersonEpisodes from "../components/ListPersonEpisodes";
 import ShowLeaderboardRank from "../components/ShowLeaderboardRank";
+import ShowSeasonOneLeaderboardRank from "../components/ShowSeasonOneLeaderboardRank";
+import ShowSeasonTwoLeaderboardRank from "../components/ShowSeasonTwoLeaderboardRank";
 import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
 
 export default function Person({ pageContext }) {
@@ -27,6 +29,14 @@ export default function Person({ pageContext }) {
                                 }
                                 Overall Ranking:
                                 <ShowLeaderboardRank 
+                                    personID={player.id}
+                                />
+                               Season One Ranking:
+                                <ShowSeasonOneLeaderboardRank 
+                                    personID={player.id}
+                                />
+                                Season Two Ranking:
+                                <ShowSeasonTwoLeaderboardRank 
                                     personID={player.id}
                                 />
                             </div>

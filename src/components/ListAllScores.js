@@ -8,7 +8,10 @@ export default function ListAllScores () {
     <StaticQuery
       query={graphql`
         query PlayerQuery {
-          allPeopleJson(sort: {fields: fields___testRaw, order: DESC}) {
+          allPeopleJson(
+            sort: {fields: fields___testRaw, order: DESC}
+            filter: {fields: {testRaw: {gt: 0}}}
+            ) {
             nodes {
               fields {
                 testRaw

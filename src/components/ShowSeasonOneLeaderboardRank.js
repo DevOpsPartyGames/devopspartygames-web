@@ -2,26 +2,26 @@ import React from 'react'
 import { StaticQuery, graphql } from "gatsby"
 import { safePrefix } from '../utils'
 
-export default function ShowLeaderboardRank ({personID, ...props}) {
+export default function ShowSeasonOneLeaderboardRank ({personID, ...props}) {
 
   return (
     <StaticQuery
       query={graphql`
-        query RankQuery {
-          allPeopleJson(
-            sort: {fields: fields___testRaw, order: DESC}
-            filter: {fields: {testRaw: {gt: 0}}}
-            ) {
-            nodes {
-              fields {
-                testRaw
-              }
-              name
-              id
+      query SeasonOneRankQuery {
+        allPeopleJson(
+          sort: {fields: fields___Season_One, order: DESC}
+          filter: {fields: {Season_One: {gt: 0}}}
+        ) {
+          nodes {
+            fields {
+              Season_One
             }
+            name
+            id
           }
         }
-    `}
+      }
+  `}
     render={data => (
       <>
       
@@ -31,7 +31,7 @@ export default function ShowLeaderboardRank ({personID, ...props}) {
                 // return (
                 //   <>
                 //   Player.id = {player.id} <br />
-                //   personID = {personID}
+                //   total players = {data.allPeopleJson.nodes.length}
                 //   </>
                 // )
                 if (player.id == personID){
