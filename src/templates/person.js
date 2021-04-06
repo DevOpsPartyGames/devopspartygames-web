@@ -6,11 +6,15 @@ import ShowLeaderboardRank from "../components/ShowLeaderboardRank";
 import ShowSeasonOneLeaderboardRank from "../components/ShowSeasonOneLeaderboardRank";
 import ShowSeasonTwoLeaderboardRank from "../components/ShowSeasonTwoLeaderboardRank";
 import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
+import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
+import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
 
 export default function Person({ pageContext }) {
     const player = pageContext.person
     const topPlayer = useTopOverallPlayer()
-    console.log(topPlayer)
+    const topSeasonOnePlayer = useSeasonOneTopPlayer()
+    const topSeasonTwoPlayer = useSeasonTwoTopPlayer()
+    // console.log(topPlayer)
     return(
         <LayoutNM>
             <div className="outer">
@@ -27,15 +31,18 @@ export default function Person({ pageContext }) {
                                 {player.id == topPlayer && 
                                     <p>TOP OVERALL PLAYER</p>
                                 }
-                                Overall Ranking:
+                                {player.id == topSeasonOnePlayer && 
+                                    <p>TOP SEASON ONE PLAYER</p>
+                                }
+                                {player.id == topSeasonTwoPlayer && 
+                                    <p>TOP SEASON TWO PLAYER</p>
+                                }
                                 <ShowLeaderboardRank 
                                     personID={player.id}
                                 />
-                               Season One Ranking:
                                 <ShowSeasonOneLeaderboardRank 
                                     personID={player.id}
                                 />
-                                Season Two Ranking:
                                 <ShowSeasonTwoLeaderboardRank 
                                     personID={player.id}
                                 />

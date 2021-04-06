@@ -37,7 +37,7 @@ export default function ShowLeaderboardRank ({personID, ...props}) {
                 if (player.id == personID){
                   return (
                     <div>
-                      {i +1} / {data.allPeopleJson.nodes.length}
+                      <b>Overall Ranking:</b> {i +1} / {data.allPeopleJson.nodes.length}
                     </div>
                   )
 

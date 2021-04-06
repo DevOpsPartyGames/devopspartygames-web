@@ -37,7 +37,7 @@ export default function ShowSeasonTwoLeaderboardRank ({personID, ...props}) {
                 if (player.id == personID){
                   return (
                     <div>
-                      {i +1} / {data.allPeopleJson.nodes.length}
+                      <b>Season Two Ranking:</b> {i +1} / {data.allPeopleJson.nodes.length}
                     </div>
                   )
 
