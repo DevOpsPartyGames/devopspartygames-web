@@ -66,8 +66,10 @@ export default function Person({ pageContext }) {
                                 personID={player.id}
                             />
                         </div>
-
-                        <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} width="200" height="100" />
+                        <div>
+                            <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} class = "player-page" />
+                        </div>
+                        
                     </div>
                 </div>
             </div>
