@@ -11,13 +11,15 @@ This is the website for [DevOps Party Games](https://devopspartygames.com) built
 ## Creating/updating episodes and people
 
 There are a few steps to go about when creating a new episode. You will need to do the following:
+
 1. Add an entry to `/data/episodes/episodes.json` for the episodes
 1. Add entries to `/data/people/people.json` for any new players/hosts
 1. Add the episode social card image
 1. Add the players' headshot images
 
 ### Data files
-There are two main data files that need to be updated when there are new episodes; one for the episode and one for the players.
+
+There are two main data files that need to be updated when there are new episodes; one for the episode and one for the players. There are also a few supporting configuration files as well, for games and seasons.
 
 #### `episodes.json`
 
@@ -68,7 +70,7 @@ Example for an episode:
 * `title` Clever title for the episode. Do *not* prefix it with "DevOps Party Games -" as that gets added automatically
 * `slug` The path for `devopspartygames.com/episodes`. Example: `s02e04`
 * `region` The "league" for the episode. Valid entries are `North America` or `EMEA`
-* `season` The season for the episode. Currently, something like `"1"` or `"2"`, but can be any string (but should match the rest of the season)
+* `season` The season for the episode. This must match an ID in `seasons/seasons.json`
 * `image`[optional] The thumbnail image for the episode. If not provided, the default image will be used. This is relative to `/static/images/episodes/` in the repo
 * `ogimage` The social media card for the episode. This is relative to `/static/images/episodes/` in the repo
 * `players[]` The players for the episode. Fields for each player:
@@ -103,6 +105,15 @@ Example for a player:
 * `name` Full name of the person
 * `twitter` Twitter handle with the `@`
 * `image` The filename for the person's photo. This should be 500px square. This path is relative to `/static/images/people/` in the repo
+
+#### `seasons.json`
+
+*location: /data/seasons/seasons.json*
+
+There must be an element for each season.
+
+* `id` The ID number for the season, as used in `episodes.json`
+* `name` The descriptive name for the season (i.e., "Season One")
 
 ### Images
 

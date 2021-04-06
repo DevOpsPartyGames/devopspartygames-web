@@ -26,7 +26,17 @@ export default function Person({ pageContext }) {
                             <ListPersonEpisodes 
                                 personID={player.id}
                             />
+                            <h3>Scores</h3>
+                            <ul>
+                                { player.fields.Season_One > 0 &&
+                                <li>Season One Score: {player.fields.Season_One}</li>
+                                }
+                                { player.fields.Season_Two > 0 &&
+                                <li>Season Two Score: {player.fields.Season_Two}</li>
+                                }
+                            </ul>
                         </div>
+
                         <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} width="200" height="100" />
                     </div>
                 </div>

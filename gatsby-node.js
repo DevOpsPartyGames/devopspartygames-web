@@ -29,6 +29,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     {
       allPeopleJson {
         nodes {
+          fields {
+            Season_One
+            Season_Two
+          }
             id
             image
             name
