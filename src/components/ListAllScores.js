@@ -12,6 +12,8 @@ export default function ListAllScores () {
             nodes {
               fields {
                 testRaw
+                Season_One
+                Season_Two
               }
               name
               id
@@ -20,12 +22,16 @@ export default function ListAllScores () {
         }
     `}
     render={data => (
+      <div>
       <div style={{maxWidth: `960px`, margin: `1.45rem`}}>
         <h1>Scoreboard</h1>
         <table>
           <thead>
             <tr>
               <th>Name</th>
+              <th>Total Score</th>
+              <th>Season One Score</th>
+              <th>Season Two Score</th>
             </tr>
           </thead>
 
@@ -44,6 +50,12 @@ export default function ListAllScores () {
                     <td>
                       {player.fields.testRaw}
                     </td>
+                    <td>
+                      {player.fields.Season_One}
+                    </td>
+                    <td>
+                      {player.fields.Season_Two}
+                    </td>
                   </tr>
                 )
 
@@ -52,6 +64,7 @@ export default function ListAllScores () {
           </tbody>
         </table>
 
+      </div>
       </div>
 
     )}
