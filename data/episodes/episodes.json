@@ -472,6 +472,7 @@
       "region": "North America",
       "season": "2",
       "image": "s02e02.png",
+      "video": "flTWH0xX0HY",
       "ogimage": "s02e02-twittercard.png",
       "players": [
         {
@@ -530,6 +531,7 @@
       "season": "2",
       "slug": "s02e03",
       "image": "s02e03.png",
+      "video": "VazZczAMPPk",
       "ogimage": "s02e03-twittercard.png",
       "players": [
         {
@@ -586,6 +588,7 @@
       "region": "North America",
       "season": "2",
       "image": "s02e04.png",
+      "video": "TNO3tvxQJJ0",
       "ogimage": "s02e04-twittercard.png",
       "players": [
         {
@@ -703,6 +706,8 @@
       "region": "North America",
       "season": "2",
       "ogimage": "s02e06-twittercard.png",
+      "video": "dlvFG-ikMPY",
+      "image": "s02e06.png",
       "players": [
         {
           "id": "farrah.campbell",
