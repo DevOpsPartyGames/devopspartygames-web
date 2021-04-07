@@ -8,6 +8,8 @@ import PersonDisplay from "../components/PersonDisplay";
 import GameLink from "../components/GameLink";
 import SEO from "../components/seo";
 import Helmet from "react-helmet";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTwitch } from '@fortawesome/free-brands-svg-icons'; 
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -74,6 +76,9 @@ export default function Episode({ pageContext }) {
                             <DateBookCalendarButton 
                                 eventDate={episode.date}    
                             />
+                        </div>
+                        <div>
+                        Join the livestream at <a href = "twitch.tv/devopspartygames">twitch.tv/devopspartygames</a><FontAwesomeIcon icon={faTwitch} size="2x" />
                         </div>
                             <h3>Region</h3>
                             <p>{episode.region}</p>
