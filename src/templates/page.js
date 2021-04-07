@@ -3,7 +3,6 @@ import _ from 'lodash';
 
 import {Layout} from '../components/index';
 import {safePrefix, htmlToReact} from '../utils';
-import Subscribe from '../components/MailingList';
 export default class Page extends React.Component {
     render() {
         return (
@@ -26,7 +25,6 @@ export default class Page extends React.Component {
                   }
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
-                    <Subscribe />
                   </div>
                 </article>
               </div>

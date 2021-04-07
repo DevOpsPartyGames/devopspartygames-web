@@ -4,7 +4,6 @@ import {Layout} from '../components/index';
 import SEO from "../components/seo";
 import ListAllScores from '../components/ListAllScores';
 import {safePrefix, htmlToReact} from '../utils';
-import Subscribe from '../components/MailingList';
 
 
 export default class Landing extends React.Component {
@@ -34,7 +33,6 @@ export default class Landing extends React.Component {
                   }
                   <div className="post-content">
                   <ListAllScores />
-                    <Subscribe />
                   </div>
                 </article>
               </div>
