@@ -19,7 +19,7 @@
             },
             {
                 "label": "Thought Leaderboard",
-                "url": "/scoreboard"
+                "url": "/thought-leaderboard"
             },
             {
                 "label": "Livestream",
@@ -62,7 +62,7 @@
             },
             {
                 "label": "Thought Leaderboard",
-                "url": "/scoreboard"
+                "url": "/thought-leaderboard"
             },
             {
                 "label": "Submit Prompt Ideas",
