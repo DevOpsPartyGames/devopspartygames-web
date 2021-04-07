@@ -705,28 +705,36 @@
       "ogimage": "s02e06-twittercard.png",
       "players": [
         {
-          "id": "farrah.campbell"
+          "id": "farrah.campbell",
+          "score": 4
         },
         {
-          "id": "jason.yee"
+          "id": "jason.yee",
+          "score": 20
         },
         {
-          "id": "lauren.cooney"
+          "id": "lauren.cooney",
+          "score": 9
         },
         {
-          "id": "rich.burroughs"
+          "id": "rich.burroughs",
+          "score": 16
         },
         {
-          "id": "sarai.rosenberg"
+          "id": "sarai.rosenberg",
+          "score": 20
         },
         {
-          "id": "wesley.faulkner"
+          "id": "wesley.faulkner",
+          "score": 17
         },
         {
-          "id": "nicole.sumrall"
+          "id": "nicole.sumrall",
+          "score": 10
         },
         {
-          "id": "kelli.prichard"
+          "id": "kelli.prichard",
+          "score": 12
         }
       ],
       "hosts": [
@@ -735,10 +743,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/38d568f4f3fd29db2a4dd920672b80f8/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/4249c5d0d704ca4951dc681f84d6ad75/"
         }
       ]
     }
