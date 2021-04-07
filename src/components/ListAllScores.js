@@ -27,7 +27,6 @@ export default function ListAllScores () {
     render={data => (
       <div>
       <div style={{maxWidth: `960px`, margin: `1.45rem`}}>
-        <h1>Scoreboard</h1>
         <table>
           <thead>
             <tr>
