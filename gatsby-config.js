@@ -9,6 +9,36 @@ module.exports = {
         `gatsby-plugin-antd`,
         `gatsby-plugin-advanced-sitemap`,
         {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+                name: "DevOps Party Games",
+                short_name: "DevOps Party Games",
+                start_url: "/",
+                background_color: "#f7f9fb",
+                theme_color: "#4c5269",
+                display: "standalone",
+                icons: [
+                    {
+                        src: "/images/icons/favicon.svg",
+                        type: "image/svg",
+                        sizes: "192x192"
+                    },
+                    {
+                        src: "/images/icons/icon_512.png",
+                        type: "image/png",
+                        sizes: "512x512"
+                    },
+                    {
+                        src: "/images/icons/maskable_icon.png",
+                        sizes: "196x196",
+                        type: "image/png",
+                        purpose: "any maskable"
+                    }
+                ]
+            }
+        },
+        `gatsby-plugin-offline`,
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
