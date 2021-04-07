@@ -37,11 +37,12 @@ h3,
 h4,
 h5,
 h6 {
-  color: _palette(secondary);
+  color: _palette(partygames-orange);
   font-weight: bold;
   line-height: 1.2;
   margin: 2.5rem 0 0.83333rem;
   text-rendering: optimizeLegibility;
+  font-family: 'PartyCrush-Regular', _font(primary);
 
   &:first-child {
     margin-top: 0;
