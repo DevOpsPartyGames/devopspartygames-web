@@ -8,6 +8,8 @@ import ShowSeasonTwoLeaderboardRank from "../components/ShowSeasonTwoLeaderboard
 import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
 import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
 import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'; 
 
 export default function Person({ pageContext }) {
     const player = pageContext.person
@@ -22,10 +24,6 @@ export default function Person({ pageContext }) {
                     <h1>{player.name}</h1>
                     <div className="container-flexbox">
                         <div className="main-block">
-                            <img src = "/images/twitter-icon.png" />
-                            <a href={`https://twitter.com/${player.twitter}`}>
-                                {player.twitter}
-                                </a>
                             <div>
                                 <h4>Ranking</h4>
                                 {player.id == topPlayer && 
@@ -68,6 +66,14 @@ export default function Person({ pageContext }) {
                         </div>
                         <div>
                             <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} class = "player-page" />
+                            <br />
+                            <a 
+                                href={`https://twitter.com/${player.twitter}`}
+                                class="player-social"
+                            >
+                                <FontAwesomeIcon icon={faTwitterSquare} size="2x" />
+                                {player.twitter}
+                            </a>
                         </div>
                         
                     </div>
