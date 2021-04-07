@@ -29,8 +29,8 @@ export default function Person({ pageContext }) {
             <div className="outer">
                 <div className="inner-medium">
                     <h1>{player.name}</h1>
-                    <div className="container-flexbox">
-                        <div className="main-block">
+                    <div className="player-page-container">
+                        <div className="player-page-item ">
                             <div>
                                 <h4>Ranking</h4>
                                 <ShowLeaderboardRank 
@@ -63,7 +63,7 @@ export default function Person({ pageContext }) {
                         </div>
                         </div>
 
-                        <div>
+                        <div className="player-page-item ">
                             <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} class = "player-page" />
                             <br />
                             <div class="tooltip">

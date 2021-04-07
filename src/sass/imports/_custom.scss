@@ -90,6 +90,13 @@ a.player-social {
   align-items: flex-start;
 }
 
+.player-page-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 .tooltip {
   position: relative;
   display: inline-block;
@@ -141,6 +148,15 @@ a.player-social {
     flex-wrap: wrap;
     justify-content: space-between;
   }
+
+  .player-page-item {
+    flex: 0 1 calc(50% - 1em);
+  }
+  .player-page-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 }
 
 @media screen and (min-width: 60em) {
@@ -150,5 +166,8 @@ a.player-social {
   }
   .episode-list-item {
     flex: 0 1 calc(33% - 1em);
+  }
+  .player-page-item {
+    flex: 0 1 calc(50% - 1em);
   }
 }
