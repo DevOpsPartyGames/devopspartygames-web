@@ -1,8 +1,17 @@
 import React from 'react'
 import { StaticQuery, graphql } from "gatsby"
 import { safePrefix } from '../utils'
+import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
+import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
+import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'; 
+import { faMedal } from '@fortawesome/free-solid-svg-icons';
 
 export default function ListPeople( {props}) {
+  const topPlayer = useTopOverallPlayer()
+  const topSeasonOnePlayer = useSeasonOneTopPlayer()
+  const topSeasonTwoPlayer = useSeasonTwoTopPlayer()
 
 
   
@@ -46,6 +55,24 @@ export default function ListPeople( {props}) {
                           >
                             {person.name}
                           </a>
+                          {person.id == topPlayer &&
+                                <div class="tooltip">
+                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                    <span class="tooltiptext">Top Overall Player</span>
+                                </div>
+                            }
+                            {person.id == topSeasonOnePlayer &&
+                                <div class="tooltip">
+                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                    <span class="tooltiptext">Top Season One Player</span>
+                                </div>
+                            }
+                            {person.id == topSeasonTwoPlayer &&
+                                <div class="tooltip">
+                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                    <span class="tooltiptext">Top Season Two Player</span>
+                                </div>
+                            }
                         </h3>
                       </header>
                       {/* <div class = "post-excerpt">
