@@ -10,6 +10,8 @@ import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
 import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'; 
+import SEO from "../components/seo";
+
 
 export default function Person({ pageContext }) {
     const player = pageContext.person
@@ -19,6 +21,10 @@ export default function Person({ pageContext }) {
     // console.log(topPlayer)
     return(
         <LayoutNM>
+           <SEO
+              title={player.name}
+              description={player.name}
+            />
             <div className="outer">
                 <div className="inner-medium">
                     <h1>{player.name}</h1>
