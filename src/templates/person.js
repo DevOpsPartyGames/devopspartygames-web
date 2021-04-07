@@ -28,9 +28,11 @@ export default function Person({ pageContext }) {
             />
             <div className="outer">
                 <div className="inner-medium">
-                    <h1>{player.name}</h1>
                     <div className="player-page-container">
                         <div className="player-page-item ">
+                            <div>
+                            <h1>{player.name}</h1>
+                            </div>
                             <div>
                                 <h4>Ranking</h4>
                                 <ShowLeaderboardRank 
