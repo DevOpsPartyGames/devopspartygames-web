@@ -48,7 +48,7 @@ export default function ListPeople( {props}) {
                     </a>
                     <div class = "post-card-content">
                       <header class = "post-header">
-                        <h3 class = "post-title">
+                        <h3 class = "post-title dpg-title">
                           <a 
                             href = {safePrefix(`person/${person.id}`)}
                             rel = "bookmark"

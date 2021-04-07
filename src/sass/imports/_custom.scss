@@ -21,7 +21,17 @@ h1 {
   color: _palette(partygames-orange) !important;
 }
 
-h2 {
+h1.dpg-title {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+}
+
+h2.dpg-title {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+}
+
+h3.dpg-title {
   font-family: 'PartyCrush-Regular', _font(primary) !important;
   color: _palette(partygames-orange) !important;
 }

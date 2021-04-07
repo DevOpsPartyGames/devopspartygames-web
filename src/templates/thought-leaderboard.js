@@ -20,7 +20,7 @@ export default class Landing extends React.Component {
               <div className="inner-medium">
                 <article className="post post-full">
                   <header className="post-header">
-                    <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+                    <h1 className="post-title dpg-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                   </header>
                   {_.get(this.props, 'pageContext.frontmatter.image') && 
                   <div className="post-thumbnail">

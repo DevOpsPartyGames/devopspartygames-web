@@ -16,7 +16,7 @@ export default class Landing extends React.Component {
             />
             <section id="episodes" class="block posts-block bg-gray outer">
               <div class = "block-header inner-small">
-                <h2 class="block-title">Players and Hosts of DevOps Party Games</h2>
+                <h2 class="block-title dpg-title">Players and Hosts of DevOps Party Games</h2>
               </div>
               
               <div class = "inner">

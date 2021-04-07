@@ -31,7 +31,7 @@ export default function Person({ pageContext }) {
                     <div className="player-page-container">
                         <div className="player-page-item ">
                             <div>
-                            <h1>{player.name}</h1>
+                            <h1 class="dpg-title">{player.name}</h1>
                             </div>
                             <div>
                                 <h4>Ranking</h4>
