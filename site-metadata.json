@@ -53,22 +53,25 @@
             },
             {
                 "label": "Livestream",
-                "url": "https://twitch.tv/mattstratton",
+                "url": "https://twitch.tv/devopspartygames",
                 "new_window": true
             },
             {
                 "label": "Code of Conduct",
                 "url": "/code-of-conduct"
-            }
-            ,
+            },
+            {
+                "label": "Thought Leaderboard",
+                "url": "/scoreboard"
+            },
             {
                 "label": "Submit Prompt Ideas",
-                "url": "https://forms.gle/57mKCieY22UezbJi8",
+                "url": "https://devopspartygames.com/suggest-prompt",
                 "new_window": true
             },
             {
                 "label": "Suggest a Player",
-                "url": "https://forms.gle/qztDdzxd3XdU66ka6",
+                "url": "https://devopspartygames.com/suggest-player",
                 "new_window": true
             },
             {
@@ -109,8 +112,8 @@
        "content": "&copy; DevOps Party Games. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "label": "Source code on GitHub",
+                "url": "https://github.com/devopspartygames/devopspartygames-web",
                 "new_window": true
             }
         ]
