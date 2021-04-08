@@ -16,12 +16,6 @@ command = "gatsby clean && gatsby build"
   compress = true
 
 [[redirects]]
-from = "/1"
-to = "/posts/Episode-1/"
-status = 301
-force = true
-
-[[redirects]]
 from = "/players"
 to = "https://bit.ly/IDPGPlayers"
 status = 301
