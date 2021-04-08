@@ -77,7 +77,7 @@ export default function Episode({ pageContext }) {
                             />
                         </div>
                         <div>
-                            { (episodeDate > currentDate) &&
+                            { (episodeDate >= currentDate) &&
                                 <DateBookCalendarButton 
                                     eventDate={episode.date}    
                                 />

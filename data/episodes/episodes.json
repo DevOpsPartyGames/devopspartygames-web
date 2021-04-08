@@ -764,6 +764,11 @@
       "region": "EMEA",
       "season": "2",
       "slug": "s02e07",
+      "players": [
+        {
+          "id": "jacquie.grindrod"
+        }
+      ],
       "hosts": [
         "matt.stratton",
         "dan.maher"
