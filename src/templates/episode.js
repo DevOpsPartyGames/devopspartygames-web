@@ -10,6 +10,7 @@ import SEO from "../components/seo";
 import Helmet from "react-helmet";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitch } from '@fortawesome/free-brands-svg-icons'; 
+import moment from 'moment';
 
 export default function Episode({ pageContext }) {
     const episode = pageContext.episode
@@ -40,6 +41,10 @@ export default function Episode({ pageContext }) {
       ]
     // const moment = require("moment-timezone")
     // const myTest = moment(episode.date).tz("America/Chicago")
+    const episodeDate = moment(episode.date).format()
+    const currentDateObj = new Date(Date.now())
+    const currentDate = moment(currentDateObj).format()
+    
 
     return(
         <LayoutNM>
@@ -71,15 +76,13 @@ export default function Episode({ pageContext }) {
                                 timeZone={episode.region}
                             />
                         </div>
-                        <div class = "episode-buttons-container">
-                        <div class = "episode-buttons-item">
-                            <DateBookCalendarButton 
-                                eventDate={episode.date}    
-                            />
-                        </div>
-                        <div class = "episode-buttons-twitch">
+                        <div>
+                            { (episodeDate > currentDate) &&
+                                <DateBookCalendarButton 
+                                    eventDate={episode.date}    
+                                />
+                            }
                         <FontAwesomeIcon icon={faTwitch} size="2x" />&nbsp;Join the livestream at <a href = "twitch.tv/devopspartygames">twitch.tv/devopspartygames</a>
-                        </div>
                         </div>
                             <h3>Games</h3>
                             {episode.games &&

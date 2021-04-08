@@ -2,6 +2,8 @@ import React from 'react';
 import { GoogleCalendar, ICalendar } from 'datebook'
 import moment from 'moment';
 import safePrefix from "../utils/safePrefix";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCalendarPlus } from '@fortawesome/free-solid-svg-icons';
 
 export default function DateBookCalendarButton({ eventDate, ...props}){
 
@@ -19,7 +21,7 @@ const config = {
 const googleCalendar = new GoogleCalendar(config) 
 
 // TODO: in the current code, the ical file just downloads on page load. Need some javascript magic I think
-// const icalendar = new ICalendar(config)
+const icalendar = new ICalendar(config)
 
 
 
@@ -28,20 +30,28 @@ return (
   <a 
     href = {googleCalendar.render()}
     target = "_blank"
+    rel="noreferrer"
+    class = "no-underline"
   >
-  <img 
+  {/* <img 
     border="0" 
     src={safePrefix('/images/add-to-calendar.png')} 
     class = "player-episode-page" 
     alt="Add to Google Calendar"
-  />
+  /> */}
+  <button class="calendar-button">
+    <FontAwesomeIcon icon={faCalendarPlus} size="1x"/> &nbsp;
+    Add to Google Calendar
+  </button>
   </a>
-  <br clear = "all"></br>
-  {/* <a 
-  href = {icalendar.download()}
+
+  <button 
+    onClick={() => icalendar.download()}
+    class="calendar-button"
   >
-    ical download
-  </a> */}
+    <FontAwesomeIcon icon={faCalendarPlus} size="1x"/> &nbsp;
+    Download iCal
+  </button>
   </div>
 )
 

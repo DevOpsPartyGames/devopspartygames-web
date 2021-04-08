@@ -149,6 +149,18 @@ a.player-social {
   visibility: visible;
 }
 
+.calendar-button {
+  padding: 0px 10px 0px 10px,;
+  background-color: _palette(primary);
+  border: 0;
+  margin: 5px 5px 20px 5px;
+  text-decoration: none;
+}
+
+a.no-underline {
+  text-decoration: none important;
+  border-bottom: none !important;
+}
 
 ul.player-episode-list {
   list-style-type: none; /* Remove bullets */
