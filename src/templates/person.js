@@ -33,7 +33,7 @@ export default function Person({ pageContext }) {
                             <div>
                             <h1 class="dpg-title">{player.name}</h1>
                             </div>
-                            <div>
+                            <div className="player-page-detail">
                                 <h4>Ranking</h4>
                                 <ShowLeaderboardRank 
                                     personID={player.id}
@@ -57,7 +57,7 @@ export default function Person({ pageContext }) {
                                     }
                                 </ul>
                             </div> */}
-                            <div>
+                            <div className="player-page-detail">
                             <h4>Episodes</h4>
                             <ListPersonEpisodes 
                                 personID={player.id}
