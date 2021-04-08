@@ -756,5 +756,26 @@
           "result": "https://games.jackbox.tv/artifact/DrawfulGame/4249c5d0d704ca4951dc681f84d6ad75/"
         }
       ]
+    },
+    {
+      "id": "2.7.emea",
+      "title": "Season 2 Episode 7 (EMEA)",
+      "date": "2021-04-13T20:00:00+01:00",
+      "region": "EMEA",
+      "season": "2",
+      "slug": "s02e07",
+      "hosts": [
+        "matt.stratton",
+        "dan.maher"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
+
     }
 ]
