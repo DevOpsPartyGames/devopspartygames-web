@@ -71,17 +71,16 @@ export default function Episode({ pageContext }) {
                                 timeZone={episode.region}
                             />
                         </div>
-
-                        <div>
+                        <div class = "episode-buttons-container">
+                        <div class = "episode-buttons-item">
                             <DateBookCalendarButton 
                                 eventDate={episode.date}    
                             />
                         </div>
-                        <div>
-                        Join the livestream at <a href = "twitch.tv/devopspartygames">twitch.tv/devopspartygames</a><FontAwesomeIcon icon={faTwitch} size="2x" />
+                        <div class = "episode-buttons-twitch">
+                        <FontAwesomeIcon icon={faTwitch} size="2x" />&nbsp;Join the livestream at <a href = "twitch.tv/devopspartygames">twitch.tv/devopspartygames</a>
                         </div>
-                            <h3>Region</h3>
-                            <p>{episode.region}</p>
+                        </div>
                             <h3>Games</h3>
                             {episode.games &&
                             <ul>

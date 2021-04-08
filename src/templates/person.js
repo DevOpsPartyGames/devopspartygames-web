@@ -46,7 +46,7 @@ export default function Person({ pageContext }) {
                                 />
                             </div>
 
-                            <div>
+                            {/* <div>
                                 <h4>Scores</h4>                            
                                 <ul>
                                     { player.fields.Season_One > 0 &&
@@ -56,7 +56,7 @@ export default function Person({ pageContext }) {
                                     <li>Season Two Score: {player.fields.Season_Two}</li>
                                     }
                                 </ul>
-                            </div>
+                            </div> */}
                             <div>
                             <h4>Episodes</h4>
                             <ListPersonEpisodes 
@@ -68,33 +68,35 @@ export default function Person({ pageContext }) {
                         <div className="player-page-item ">
                             <img src={safePrefix(`/images/people/${player.image}`)} alt={`${player.name}`} class = "player-page" />
                             <br />
-                            <div class="tooltip">
-                                <a 
-                                    href={`https://twitter.com/${player.twitter}`}
-                                    class="player-social"
-                                >
-                                    <FontAwesomeIcon icon={faTwitterSquare} size="2x" />
-                                </a>
-                                <span class="tooltiptext">@{player.twitter} on Twitter</span>
+                            <div class = "player-social-row">
+                                <div class="tooltip">
+                                    <a 
+                                        href={`https://twitter.com/${player.twitter}`}
+                                        class="player-social"
+                                    >
+                                        <FontAwesomeIcon icon={faTwitterSquare} size="2x" />
+                                    </a>
+                                    <span class="tooltiptext">@{player.twitter} on Twitter</span>
+                                </div>
+                                {player.id == topPlayer &&
+                                    <div class="tooltip">
+                                        <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                        <span class="tooltiptext">Top Overall Player</span>
+                                    </div>
+                                }
+                                {player.id == topSeasonOnePlayer &&
+                                    <div class="tooltip">
+                                        <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                        <span class="tooltiptext">Top Season One Player</span>
+                                    </div>
+                                }
+                                {player.id == topSeasonTwoPlayer &&
+                                    <div class="tooltip">
+                                        <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                        <span class="tooltiptext">Top Season Two Player</span>
+                                    </div>
+                                }
                             </div>
-                            {player.id == topPlayer &&
-                                <div class="tooltip">
-                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
-                                    <span class="tooltiptext">Top Overall Player</span>
-                                </div>
-                            }
-                            {player.id == topSeasonOnePlayer &&
-                                <div class="tooltip">
-                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
-                                    <span class="tooltiptext">Top Season One Player</span>
-                                </div>
-                            }
-                            {player.id == topSeasonTwoPlayer &&
-                                <div class="tooltip">
-                                    <FontAwesomeIcon icon={faMedal} size="2x"/>
-                                    <span class="tooltiptext">Top Season Two Player</span>
-                                </div>
-                            }
                         </div>
                         
                     </div>

@@ -80,6 +80,10 @@ a.player-social {
   border-bottom-style: none;
 }
 
+.player-social-row {
+  padding-left: 5px;
+}
+
 .card {
 	// background: white;
 	margin-bottom: 2em;	
@@ -107,6 +111,13 @@ a.player-social {
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: flex-start;
+}
+
+.episode-buttons-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:flex-start;
+  align-items: baseline;
 }
 
 .tooltip {
@@ -138,6 +149,19 @@ a.player-social {
   visibility: visible;
 }
 
+
+ul.player-episode-list {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+li.player-episode-list {
+  border: 1px solid #ddd; /* Add a thin border to each list item */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Add a grey background color */
+  padding: 12px; /* Add some padding */
+}
 /* Flexbox stuff */
 
 @media screen and (min-width: 40em) {
@@ -155,20 +179,17 @@ a.player-social {
     flex: 0 1 calc(50% - 1em);
   }
 
-  .episode-list-container {
+  .episode-list-container, .player-page-container, .episode-buttons-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
 
-  .player-page-item {
+  .player-page-item, .episode-buttons-item {
     flex: 0 1 calc(50% - 1em);
   }
-  .player-page-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
+
+
 }
 
 @media screen and (min-width: 60em) {
@@ -179,7 +200,10 @@ a.player-social {
   .episode-list-item {
     flex: 0 1 calc(33% - 1em);
   }
-  .player-page-item {
+  .player-page-item, .episode-buttons-item {
     flex: 0 1 calc(50% - 1em);
+  }
+  .episode-buttons-twitch {
+    flex: 4 1 calc(50% - 1em);
   }
 }

@@ -23,7 +23,7 @@ export default function ListPersonEpisodes( {personID, ...props}) {
         }
       `}
       render={data => (
-        <ul>
+        <ul class="player-episode-list">
           {data.allEpisodesJson.nodes.map(episode => 
           {
             return (
@@ -33,7 +33,7 @@ export default function ListPersonEpisodes( {personID, ...props}) {
                   // return (console.log(episode.slug))
                   return (
 
-                    <li>
+                    <li class="player-episode-list">
                       <a
                         href = {safePrefix(`/episodes/${episode.slug}`)}
                       >
