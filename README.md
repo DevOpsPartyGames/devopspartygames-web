@@ -106,15 +106,6 @@ Example for a player:
 * `twitter` Twitter handle with the `@`
 * `image` The filename for the person's photo. This should be 500px square. This path is relative to `/static/images/people/` in the repo
 
-#### `seasons.json`
-
-*location: /data/seasons/seasons.json*
-
-There must be an element for each season.
-
-* `id` The ID number for the season, as used in `episodes.json`
-* `name` The descriptive name for the season (i.e., "Season One")
-
 ### Images
 
 These are the details on the various images that need to be created
