@@ -29,6 +29,7 @@ export default function GameLink( {gameID, ...props}) {
                 </a>
               )
             } 
+            return
           }
           )}
           </>

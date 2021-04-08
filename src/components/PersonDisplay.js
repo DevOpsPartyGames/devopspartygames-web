@@ -61,6 +61,7 @@ export default function PersonDisplay( {personID, ...props}) {
                 </div>
               )
             } 
+            return
           }
           )}
         </article>

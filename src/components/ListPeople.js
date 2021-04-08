@@ -5,7 +5,6 @@ import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
 import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
 import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'; 
 import { faMedal } from '@fortawesome/free-solid-svg-icons';
 
 export default function ListPeople( {props}) {
