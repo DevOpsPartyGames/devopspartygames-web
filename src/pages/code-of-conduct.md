@@ -23,6 +23,6 @@ If a participant engages in harassing behavior, the event organizers may take an
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
-Event staff can be contacted at [devopspartygames@mattstratton.com](mailto:devopspartygames@mattstratton.com). Event staff will be happy to help assist those experiencing harassment to feel safe for the duration of the event. We value your participation.
+Event staff can be contacted at [games@devopspartygames.com](mailto:games@devopspartygames.com). Event staff will be happy to help assist those experiencing harassment to feel safe for the duration of the event. We value your participation.
 
 _The DevOps Party Games Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._

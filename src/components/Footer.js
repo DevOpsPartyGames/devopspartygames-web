@@ -49,9 +49,7 @@ export default class Footer extends React.Component {
                         ) &&
                     <nav className="widget footer-navigation">
                       <div className="footer-nav-inside">
-                        {
-                            (
-                                _.get(
+                        {(_.get(
                                     this.props, 'pageContext.site.siteMetadata.footer.nav_links'
                                 ) &&
                                 _.get(

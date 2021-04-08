@@ -5,8 +5,8 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-json`,
-        `gatsby-plugin-antd`,
-        `gatsby-plugin-advanced-sitemap`,
+        `gatsby-transformer-scores`,
+        `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
@@ -16,6 +16,7 @@ module.exports = {
                 background_color: "#f7f9fb",
                 theme_color: "#4c5269",
                 display: "standalone",
+                icon: `static/images/icons/favicon.svg`,
                 icons: [
                     {
                         src: "/images/icons/favicon.svg",
@@ -48,13 +49,35 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `data`,
-                path: `${__dirname}/data`
+                path: `${__dirname}/data`,
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `players`,
+                path: `${__dirname}/data/players`,
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `episodes`,
+                path: `${__dirname}/data/episodes`,
+                // plugins: [
+                //     `gatsby-transformer-json`
+                // ]
             }
         },
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-              // replace "UA-XXXXXXXXX-X" with your own Tracking ID
               trackingId: "UA-167098414-1",
             },
         },

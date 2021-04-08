@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "gatsby build"
+command = "gatsby clean && gatsby build"
 
 [build.processing]
   skip_processing = false
@@ -14,12 +14,6 @@ command = "gatsby build"
   pretty_urls = false
 [build.processing.images]
   compress = true
-
-[[redirects]]
-from = "/1"
-to = "/posts/Episode-1/"
-status = 301
-force = true
 
 [[redirects]]
 from = "/players"

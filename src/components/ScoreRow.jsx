@@ -26,7 +26,7 @@ class ScoreRow extends React.Component {
     }
 
     calculateScores() {
-        let scoreArray = ScoreData.scores.filter( record => record.player === this.state.player.twitter);
+        let scoreArray = ScoreData.scores.filter( record => record.player === this.state.player.id);
         let sum = 0;
         scoreArray.forEach( (elem) =>
             sum = sum + elem.score
@@ -37,7 +37,7 @@ class ScoreRow extends React.Component {
     }
 
     calculateLikes() {
-        let likeArray = LikeData.likes.filter( record => record.player === this.state.player.twitter);
+        let likeArray = LikeData.likes.filter( record => record.player === this.state.player.id);
         let countLikes = 0;
         likeArray.forEach( (elem) =>
             countLikes = countLikes + elem.likes
