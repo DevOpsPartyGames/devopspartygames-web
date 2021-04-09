@@ -30,7 +30,7 @@ export default class Landing extends React.Component {
                       <p>
                         DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, 
                         and then <a href = "https://twitch.tv/devopspartygames">streams it live via Twitch</a> for a worldwide audience to watch, comment, 
-                        and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a>, 
+                        and hopefully be entertained. In addition, the hosts (<a href = "https://twitter.com/mattstratton">Matt Stratton</a>,&nbsp; 
                         <a href = "https://twitter.com/IAmJerdog">Jeremy Meiss</a>, and <a href = "https://twitter.com/phrawzty">Dan Maher</a>) 
                         will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from <i>Dodgeball</i>). 
                         <br/>
