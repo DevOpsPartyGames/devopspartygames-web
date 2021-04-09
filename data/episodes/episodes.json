@@ -760,14 +760,11 @@
     {
       "id": "2.7.emea",
       "title": "Season 2 Episode 7 (EMEA)",
-      "date": "2021-04-13T20:00:00+01:00",
+      "date": "2021-04-13T20:00:00+02:00",
       "region": "EMEA",
       "season": "2",
       "slug": "s02e07",
       "players": [
-        {
-          "id": "jacquie.grindrod"
-        }
       ],
       "hosts": [
         "matt.stratton",
