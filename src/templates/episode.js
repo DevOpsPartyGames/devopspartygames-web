@@ -53,7 +53,7 @@ export default function Episode({ pageContext }) {
             <SEO
               title={episode.title}
               description={episode.title}
-              image={`/images/episodes/${episode.ogimage}`}
+              image={`/images/episodes/${openGraphImage}`}
             />
             <Helmet>
                 <script type="application/ld+json">
