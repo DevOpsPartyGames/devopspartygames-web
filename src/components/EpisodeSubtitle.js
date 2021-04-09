@@ -8,7 +8,7 @@ export default function EpisodeSubtitle({ eventDate, timeZone, ...props}) {
     tzCode = "64"
     localTz = "America/Chicago"
   } else {
-    tzCode = "3903"
+    tzCode = "195"
     localTz = "Europe/Paris"
   }
   return (
