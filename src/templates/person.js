@@ -73,6 +73,8 @@ export default function Person({ pageContext }) {
                                     <a 
                                         href={`https://twitter.com/${player.twitter}`}
                                         class="player-social"
+                                        target = "_blank"
+                                        rel="noreferrer"
                                     >
                                         <FontAwesomeIcon icon={faTwitterSquare} size="2x" />
                                     </a>

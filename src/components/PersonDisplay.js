@@ -50,6 +50,8 @@ export default function PersonDisplay( {personID, ...props}) {
                       <a 
                         href = {`https://twitter.com/${person.twitter}`}
                         class = "player-twitter"
+                        target = "_blank"
+                        rel="noreferrer"
                       >
                         {`@${person.twitter}`}
                       </a>
