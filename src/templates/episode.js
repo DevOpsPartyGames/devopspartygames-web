@@ -118,31 +118,29 @@ export default function Episode({ pageContext }) {
                             />
                             }
 
-                            { episode.players &&
-                            <div><h2>Players</h2>
+                            { (episode.players.length > 0) &&
+                            <div>
+                                <h2>Players</h2>
                                 <div class = "post-feed">
                                     {episode.players.map((player, key) => 
                                     <PersonDisplay
                                         personID={player.id}
                                     />
                                     )}
-                                </div>
-                                
-                               </div>
-
+                                </div> 
+                            </div>
                             }
-                        { episode.hosts &&
-                            <div><h2>Hosts</h2>
-                            <div class = "post-feed">
+                        { (episode.hosts.length > 0) &&
+                            <div>
+                                <h2>Hosts</h2>
+                                <div class = "post-feed">
                                     {episode.hosts.map((host, key) => 
                                     <PersonDisplay
                                         personID={host}
                                     />
                                     )}
-                         </div>
-                                
-                               </div>
-
+                                </div>
+                            </div>
                             }
                     </article>
                 </div>
