@@ -16,6 +16,8 @@ export default function Episode({ pageContext }) {
     const episode = pageContext.episode
     const defaultEpisodeImage = 'episode-template.png'
     const episodeImage = ( episode.image || defaultEpisodeImage )
+    const defaultOpenGraphImage = 'twittercard-default.png'
+    const openGraphImage = ( episode.ogimage || defaultOpenGraphImage )
     const schemaEvent = [
         {
           "@context": "https://schema.org",
@@ -29,7 +31,7 @@ export default function Episode({ pageContext }) {
             "url": "https://twitch.tv/devopspartygames"
           },
           image: [ 
-            `https://devopspartygames.com/images/episodes/${episode.ogimage}`,
+            `https://devopspartygames.com/images/episodes/${openGraphImage}`,
           ],
           description: "DevOps Party Games takes the idea of online party games and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained.",
           "organizer": {
