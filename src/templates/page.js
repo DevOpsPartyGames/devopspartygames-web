@@ -3,7 +3,6 @@ import _ from 'lodash';
 
 import {Layout} from '../components/index';
 import {safePrefix, htmlToReact} from '../utils';
-import Subscribe from '../components/MailingList';
 export default class Page extends React.Component {
     render() {
         return (
@@ -12,7 +11,7 @@ export default class Page extends React.Component {
               <div className="inner-medium">
                 <article className="post post-full">
                   <header className="post-header">
-                    <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+                    <h1 className="post-title dpg-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                   </header>
                   {_.get(this.props, 'pageContext.frontmatter.image') && 
                   <div className="post-thumbnail">
@@ -26,7 +25,6 @@ export default class Page extends React.Component {
                   }
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
-                    <Subscribe />
                   </div>
                 </article>
               </div>

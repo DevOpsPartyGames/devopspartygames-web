@@ -1,0 +1,475 @@
+{
+  "players": [
+    {
+      "id": "corey.quinn",
+      "name": "Corey Quinn",
+      "twitter": "quinnypig",
+      "image": "corey.png",
+      "episodes": [
+        "s01e01"
+      ]
+    },
+    {
+      "id": "quintessence.anx",
+      "name": "Quintessence Anx",
+      "twitter": "quintessenceanx",
+      "image": "quinn.png",
+      "episodes": [
+        "s01e01"
+      ]
+    },
+    {
+      "id": "pete.cheslock",
+      "name": "Pete Cheslock",
+      "twitter": "petecheslock",
+      "image": "cheslock.png",
+      "episodes": [
+        "s01e01",
+        "s01e03",
+        "s01e05"
+      ]
+    },
+    {
+      "id": "kat.cosgrove",
+      "name": "Kat Cosgrove",
+      "twitter": "Dixie3Flatline",
+      "image": "kat.png",
+      "episodes": [
+        "s01e01",
+        "s01e02",
+        "s01e06"
+      ]
+    },
+    {
+      "id": "jason.yee",
+      "name": "Jason Yee",
+      "twitter": "gitbisect",
+      "image": "jason.png",
+      "episodes": [
+        "s01e01",
+        "s01e05"
+      ]
+    },
+    {
+      "id": "amy.tobey",
+      "name": "Amy Tobey",
+      "twitter": "MissAmyTobey",
+      "image": "amytobey.png",
+      "episodes": [
+        "s01e01"
+      ]
+    },
+    {
+      "id": "jeff.smith",
+      "name": "Jeff Smith",
+      "twitter": "DarkAndNerdy",
+      "image": "jeffsmith.png",
+      "episodes": [
+        "s01e01",
+        "s01e06"
+      ]
+    },
+    {
+      "id": "heidi.waterhouse",
+      "name": "Heidi Waterhouse",
+      "twitter": "wiredferret",
+      "image": "heidi.png",
+      "episodes": [
+        "s01e01",
+        "s01e05"
+      ]
+    },
+    {
+      "id": "laura.santamaria",
+      "name": "Laura Santamaria",
+      "twitter": "nimbinatus",
+      "image": "laura.png",
+      "episodes": [
+        "s01e02",
+        "s01e04",
+        "s01e05"
+      ]
+    },
+    {
+      "id": "josh.zimmerman",
+      "name": "Josh Zimmerman",
+      "twitter": "TheJewberwocky",
+      "image": "josh.png",
+      "episodes": [
+        "s01e02"
+      ]
+    },
+    {
+      "id": "julian.dunn",
+      "name": "Julian Dunn",
+      "twitter": "julian_dunn",
+      "image": "julian.png",
+      "episodes": [
+        "s01e02"
+      ]
+    },
+    {
+      "id": "taylor.barnett",
+      "name": "Taylor Barnett",
+      "twitter": "taylor_atx",
+      "image": "taylor.png",
+      "episodes": [
+        "s01e02"
+      ]
+    },
+    {
+      "id": "wesley.faulkner",
+      "name": "Wesley Faulkner",
+      "twitter":"wesley83",
+      "image":"wesley.png",
+      "episodes": [
+        "s01e02"
+      ]
+    },
+    {
+      "id": "paul.czarkowski",
+      "name": "Paul Czarkowski",
+      "twitter": "pczarkowski",
+      "image": "paul.png",
+      "episodes": [
+        "s01e02",
+        "s01e05",
+        "s02e01"
+      ]
+    },
+    {
+      "id": "waldo.g",
+      "name": "Waldo G",
+      "twitter": "gwaldo",
+      "image": "waldo.png",
+      "episodes": [
+        "s01e02"
+      ]
+    },
+    {
+      "id": "jessica.kerr",
+      "name": "Jessica Kerr",
+      "twitter": "jessitron",
+      "image": "jessica-kerr.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "tiffany.longworth",
+      "name": "Tiffany Longworth",
+      "twitter":"thelongshanx",
+      "image": "tiffany.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "ana.medina",
+      "name":"Ana Medina",
+      "twitter":"ana_m_medina",
+      "image":"ana.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "aaron.aldrich",
+      "name":"Aaron Aldrich",
+      "twitter":"crayzeigh",
+      "image":"aaron.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "jessica.brown",
+      "name":"Jessica Brown",
+      "twitter":"jessalyn",
+      "image":"jessica-brown.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "austin.parker",
+      "name":"Austin Parker",
+      "twitter":"austinlparker",
+      "image":"austin.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "pj.hagerty",
+      "name":"PJ Hagerty",
+      "twitter":"aspleenic",
+      "image":"pj.png",
+      "episodes": [
+        "s01e03"
+      ]
+    },
+    {
+      "id": "tim.banks",
+      "name":"Tim Banks",
+      "twitter":"elchefe",
+      "image": "tim-banks.png",
+      "episodes": [
+        "s01e04",
+        "s01e05"
+        ]
+    },
+    {
+      "id": "liz.fong.jones",
+      "name":"Liz Fong-Jones",
+      "twitter":"lizthegrey",
+      "image":"liz-fong-jones.png",
+      "episodes": [
+        "s01e04"
+        ]
+    },
+    {
+      "id": "bonnie.aumann",
+      "name":"Bonnie Aumann",
+      "twitter":"bonniea",
+      "image":"bonnie-aumann.png",
+      "episodes":[
+        "s01e04"
+        ]
+    },
+    {
+      "id": "nathen.harvey",
+      "name":"Nathen Harvey",
+      "twitter":"nathenharvey",
+      "image":"nathen-harvey.png",
+      "episodes":[
+        "s01e04"
+        ]
+    },
+    {
+      "id": "ian.coldwater",
+      "name":"Ian Coldwater",
+      "twitter":"iancoldwater",
+      "image":"team-coldwater.png",
+      "episodes":[
+        "s01e04",
+        "s01e05"
+        ]
+    },
+    {
+      "id": "chloe.condon",
+      "name":"Chloe Condon",
+      "twitter":"chloecondon",
+      "image":"chloe-condon.png",
+      "episodes":[
+        "s01e04"
+        ]
+    },
+    {
+      "id": "shelby.spees",
+      "name":"Shelby Spees",
+      "twitter":"shelbyspees",
+      "image":"shelby-spees.png",
+      "episodes": [
+        "s01e04"
+        ]
+    },
+    {
+      "id": "j.paul.reed",
+      "name":"J. Paul Reed",
+      "twitter":"jpaulreed",
+      "image":"paul-reed.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "matt.broberg",
+      "name":"Matt Broberg",
+      "twitter":"mbbroberg",
+      "image":"matt-broberg.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "sasha.rosenbaum",
+      "name":"Sasha Rosenbaum",
+      "twitter":"divineops",
+      "image":"sasha-rosenbaum.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "ashton.rodenhiser",
+      "name":"Ashton Rodenhiser",
+      "twitter":"mindseyeccf",
+      "image":"ashton-rodenhiser.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "jill.wohlner",
+      "name":"Jill Wohlner",
+      "twitter":"jillwohlner",
+      "image":"jill-wohlner.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "joe.laha",
+      "name":"Joe Laha",
+      "twitter":"joelaha",
+      "image":"joe-laha.png",
+      "episodes": [
+        "s01e06"
+        ]
+    },
+    {
+      "id": "jocelyn.matthews",
+      "name":"Jocelyn Matthews",
+      "twitter":"bffjossy",
+      "image":"jocelyn-matthews.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "michael.ducy",
+      "name":"Michael Ducy",
+      "twitter":"mfdii",
+      "image":"michael-ducy.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "christina.warren",
+      "name":"Christina Warren",
+      "twitter":"film_girl",
+      "image":"christina-warren.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "jacquie.grindrod",
+      "name": "Jacquie Grindrod",
+      "twitter": "devopsjacquie",
+      "image": "jacquie-grindrod.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "bryan.liles",
+      "name":"Bryan Liles",
+      "twitter":"bryanl",
+      "image":"bryan-liles.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "jason.hand",
+      "name":"Jason Hand",
+      "twitter":"jasonhand",
+      "image":"jason-hand.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "jam.leomi",
+      "name":"Jam Leomi",
+      "twitter":"jamfish728",
+      "image":"jam-leomi.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "katie.mclaughlin",
+      "name":"Katie McLaughlin",
+      "twitter":"glasnt",
+      "image":"katie-mclaughlin.png",
+      "episodes": [
+        "s01e07"
+        ]
+    },
+    {
+      "id": "stormy",
+      "name":"Stormy",
+      "twitter":"stormy_prime",
+      "image":"stormy.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "kris.howard",
+      "name":"Kris Howard",
+      "twitter":"web_goddess",
+      "image":"kris-howard.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "kai.hoffman",
+      "name":"Kai Hoffman",
+      "twitter":"kaipmdh",
+      "image":"kai-hoffman.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "serhat.can",
+      "name":"Serhat Can",
+      "twitter":"srhtcn",
+      "image":"serhat-can.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "lucy.davinhart",
+      "name":"Lucy Davinhart",
+      "twitter":"LucyDavinhart",
+      "image":"lucy-davinhart.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "sharone.zitzman",
+      "name":"Sharone Zitzman",
+      "twitter":"shar1z",
+      "image":"sharone-zitzman.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "cobus.bernard",
+      "name":"Cobus Bernard",
+      "twitter":"cobusbernard",
+      "image":"cobus-bernard.png",
+      "episodes": [
+        "s02e01"
+        ]
+    },
+    {
+      "id": "mystery.guest",
+      "name": "Mystery Guest",
+      "bio": "Stay tuned to find out who our mystery guest is!",
+      "twitter": null,
+      "image": null,
+      "episodes": []
+    }
+  ]
+}

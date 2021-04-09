@@ -17,11 +17,209 @@ a.player-episode-page {
 }
 
 h1 {
-  font-family: 'PartyCrush-Regular', _font(primary);
-  color: _palette(partygames-orange);
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
 }
 
-h2 {
-  font-family: 'PartyCrush-Regular', _font(primary);
-  color: _palette(partygames-orange);
+h1.dpg-title {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+}
+
+h2.dpg-title {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+}
+
+h3.dpg-title {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+}
+
+.player-name {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+  font-size: xx-large !important;
+}
+
+.player-twitter {
+  font-family: 'PartyCrush-Regular', _font(primary) !important;
+  color: _palette(partygames-orange) !important;
+  font-size: x-large !important;
+}
+
+.player-container {
+  display: flex;
+  flex-flow: row wrap;
+  margin: -0.5rem;
+  list-style: none;
+}
+.player-item {
+  margin: 0.5rem;
+  flex: 0 0 auto;
+  height: 40vh;
+  flex-grow: 1;
+}
+
+img.player-thumbnail {
+	display: block;
+	border: 0;
+	width: 100%;
+	height: auto;
+}
+
+img.player-page {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 3px;
+}
+
+a.player-social {
+  text-decoration: none !important;
+  border-bottom-style: none;
+}
+
+.player-social-row {
+  padding-left: 5px;
+}
+
+.card {
+	// background: white;
+	margin-bottom: 2em;	
+}
+
+.card-content {
+	// padding: .5em;
+  text-decoration: none;
+}
+
+.card-content a {
+	color: _palette(partygames-orange);
+	text-decoration: none;
+}
+
+.episode-list-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.player-page-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.player-page-detail {
+  padding: 10px 0px 10px 0px;
+}
+
+.episode-buttons-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:flex-start;
+  align-items: baseline;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  // border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.calendar-button {
+  padding: 0px 10px 0px 10px,;
+  background-color: _palette(primary);
+  border: 0;
+  margin: 5px 5px 20px 5px;
+  text-decoration: none;
+}
+
+a.no-underline {
+  text-decoration: none important;
+  border-bottom: none !important;
+}
+
+ul.player-episode-list {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+li.player-episode-list {
+  border: 1px solid #ddd; /* Add a thin border to each list item */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Add a grey background color */
+  padding: 12px; /* Add some padding */
+}
+/* Flexbox stuff */
+
+@media screen and (min-width: 40em) {
+  .cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+
+  .card {
+      flex: 0 1 calc(50% - 1em);
+  }
+
+  .episode-list-item {
+    flex: 0 1 calc(50% - 1em);
+  }
+
+  .episode-list-container, .player-page-container, .episode-buttons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .player-page-item, .episode-buttons-item {
+    flex: 0 1 calc(50% - 1em);
+  }
+
+
+}
+
+@media screen and (min-width: 60em) {
+
+  .card {
+      flex: 0 1 calc(33% - 1em);
+  }
+  .episode-list-item {
+    flex: 0 1 calc(33% - 1em);
+  }
+  .player-page-item, .episode-buttons-item {
+    flex: 0 1 calc(50% - 1em);
+  }
+  .episode-buttons-twitch {
+    flex: 4 1 calc(50% - 1em);
+  }
 }
