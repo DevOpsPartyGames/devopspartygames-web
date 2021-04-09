@@ -759,12 +759,31 @@
     },
     {
       "id": "2.7.emea",
-      "title": "Season 2 Episode 7 (EMEA)",
+      "title": "Ultimate Penultimate (EMEA)",
       "date": "2021-04-13T20:00:00+02:00",
       "region": "EMEA",
       "season": "2",
       "slug": "s02e07",
+      "ogimage": "s02e07-twittercard.png",
       "players": [
+        {
+          "id": "nica.fee"
+        },
+        {
+          "id": "kai.hoffman"
+        },
+        {
+          "id": "jacquie.grindrod"
+        },
+        {
+          "id": "aaron.aldrich"
+        },
+        {
+          "id": "julie.gunderson"
+        }, 
+        {
+          "id": "lucy.davinhart"
+        }
       ],
       "hosts": [
         "matt.stratton",
