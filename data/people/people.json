@@ -641,5 +641,18 @@
       "name": "Dan Maher",
       "twitter": "phrawzty",
       "image": "dan-maher.jpg"
+    },
+    {
+      "id": "nica.fee",
+      "name": "Nica Fee",
+      "twitter": "serverlessmom",
+      "image": "nica-fee.jpg"
+    },
+        {
+      "id": "julie.gunderson",
+      "name": "Julie Gunderson",
+      "twitter": "julie_gund",
+      "image": "julie-gunderson.jpg"
     }
+
   ]

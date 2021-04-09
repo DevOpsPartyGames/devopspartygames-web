@@ -765,6 +765,21 @@
       "season": "2",
       "slug": "s02e07",
       "players": [
+        {
+          "id": "nica.fee"
+        },
+        {
+          "id": "kai.hoffman"
+        },
+        {
+          "id": "jacquie.grindrod"
+        },
+        {
+          "id": "aaron.aldrich"
+        },
+        {
+          "id": "julie.gunderson"
+        }
       ],
       "hosts": [
         "matt.stratton",
