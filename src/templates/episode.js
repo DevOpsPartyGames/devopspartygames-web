@@ -84,7 +84,7 @@ export default function Episode({ pageContext }) {
                                     eventDate={episode.date}    
                                 />
                             }
-                        <FontAwesomeIcon icon={faTwitch} size="2x" />&nbsp;Join the livestream at <a href = "twitch.tv/devopspartygames">twitch.tv/devopspartygames</a>
+                        <FontAwesomeIcon icon={faTwitch} size="2x" />&nbsp;Join the livestream at <a href = "https://twitch.tv/devopspartygames" target = "_blank" rel="noreferrer">twitch.tv/devopspartygames</a>
                         </div>
                             <h3>Games</h3>
                             {episode.games &&
