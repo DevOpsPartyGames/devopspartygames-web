@@ -3,7 +3,12 @@ import _ from 'lodash';
 import {Layout} from '../components/index';
 import SEO from "../components/seo";
 import ListAllScores from '../components/ListAllScores';
+import ListOverallScores from '../components/ListOverallScores';
+import ListSeasonOneScores from '../components/ListSeasonOneScores';
+import ListSeasonTwoScores from '../components/ListSeasonTwoScores';
 import {safePrefix, htmlToReact} from '../utils';
+import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import 'react-tabs/style/react-tabs.css';
 
 
 export default class Landing extends React.Component {
@@ -32,8 +37,30 @@ export default class Landing extends React.Component {
                   </div>
                   }
                   <div className="post-content">
-                  <ListAllScores />
+                  <Tabs>
+                    <TabList>
+                      <Tab>Overall</Tab>
+                      <Tab>Season One</Tab>
+                      <Tab>Season Two</Tab>
+                    </TabList>
+
+                    <TabPanel>
+                    <h2>Overall Scores</h2>
+                      <ListOverallScores />
+                    </TabPanel>
+                    <TabPanel>
+                      <h2>Season One Scores</h2>
+                      <ListSeasonOneScores />
+                    </TabPanel>
+                    <TabPanel>
+                      <h2>Season Two Scores</h2>
+                      <ListSeasonTwoScores />
+                    </TabPanel>
+                  </Tabs>
                   </div>
+                  {/* <div className="post-content">
+                  <ListAllScores />
+                  </div> */}
                 </article>
               </div>
             </div>
