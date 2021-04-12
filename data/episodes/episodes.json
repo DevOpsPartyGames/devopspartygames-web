@@ -798,5 +798,43 @@
         }
       ]
 
+    },
+    {
+      "id": "2.8.na",
+      "title": "The Final Countdown (Americas)",
+      "date": "2021-04-27T20:00:00-05:00",
+      "region": "North America",
+      "season": "2",
+      "slug": "s02e08",
+      "players": [
+        {
+          "id": "tierney.cyren"
+        },
+        {
+          "id": "jessica.west"
+        },
+        {
+          "id": "joe.karlsson"
+        },
+        {
+          "id": "aaron.kalin"
+        },
+        {
+          "id": "dan.papandrea"
+        }
+      ],
+      "hosts": [
+        "matt.stratton",
+        "jeremy.meiss"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
+
     }
 ]
