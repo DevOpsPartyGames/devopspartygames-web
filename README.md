@@ -92,12 +92,7 @@ Example for a player:
   "id": "pete.cheslock",
   "name": "Pete Cheslock",
   "twitter": "petecheslock",
-  "image": "pete-cheslock.jpg",
-  "episodes": [
-    "s01e01",
-    "s01e03",
-    "s01e05"
-  ]
+  "image": "pete-cheslock.jpg"
 }
 ```
 
