@@ -653,6 +653,36 @@
       "name": "Julie Gunderson",
       "twitter": "julie_gund",
       "image": "julie-gunderson.jpg"
+    },
+    {
+      "id": "tierney.cyren",
+      "name": "Tierney Cyren",
+      "twitter": "bitandbang",
+      "image": "tierney-cyren.jpg"
+    },
+    {
+      "id": "joe.karlsson",
+      "name": "Joe Karlsson",
+      "twitter": "JoeKarlsson1",
+      "image": "joe-karlsson.jpg"
+    },
+    {
+      "id": "aaron.kalin",
+      "name": "Aaron Kalin",
+      "twitter": "martinisoft",
+      "image": "aaron-kalin.jpg"
+    },
+    {
+      "id": "dan.papandrea",
+      "name": "Dan \"POP\" Papandrea",
+      "twitter": "danpopnyc",
+      "image": "dan-papandrea.jpg"
+    },
+    {
+      "id": "dominique.top",
+      "name": "Dominique Top",
+      "twitter": "DevOpsDom",
+      "image": "dominique-top.jpg"
     }
 
   ]
