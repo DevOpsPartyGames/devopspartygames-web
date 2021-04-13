@@ -765,24 +765,31 @@
       "season": "2",
       "slug": "s02e07",
       "ogimage": "s02e07-twittercard.png",
+      "image": "s02e07.png",
       "players": [
         {
-          "id": "nica.fee"
+          "id": "nica.fee",
+          "score": 22
         },
         {
-          "id": "kai.hoffman"
+          "id": "kai.hoffman",
+          "score": 14
         },
         {
-          "id": "jacquie.grindrod"
+          "id": "jacquie.grindrod",
+          "score": 22
         },
         {
-          "id": "aaron.aldrich"
+          "id": "aaron.aldrich",
+          "score": 17
         },
         {
-          "id": "julie.gunderson"
+          "id": "julie.gunderson",
+          "score": 14
         }, 
         {
-          "id": "lucy.davinhart"
+          "id": "lucy.davinhart",
+          "score": 11
         }
       ],
       "hosts": [
@@ -791,10 +798,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/360356269f32a790f6b1f69d22e5467b/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/12090e11ef0e19bf1c18ce51db1946c0/"
         }
       ]
 
