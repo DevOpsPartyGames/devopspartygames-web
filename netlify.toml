@@ -68,3 +68,9 @@ from = "/suggestprompt"
 to = "https://airtable.com/shrPE2retwrKcgk62"
 status = 301
 force = true
+
+[[redirects]]
+from = "/videos"
+to = "https://www.youtube.com/channel/UCRD1sK7xbuEXBLjH8CHhmAw"
+status = 301
+force = true
