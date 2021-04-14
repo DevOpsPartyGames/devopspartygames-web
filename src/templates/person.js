@@ -24,7 +24,8 @@ export default function Person({ pageContext }) {
         <LayoutNM>
            <SEO
               title={player.name}
-              description={player.name}
+              description={`Check out ${player.name} on DevOps Party Games!`}
+              image={`/images/people/${player.id}-card.jpg`}
             />
             <div className="outer">
                 <div className="inner-medium">
