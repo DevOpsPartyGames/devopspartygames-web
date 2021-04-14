@@ -23,8 +23,9 @@ export default function Person({ pageContext }) {
     return(
         <LayoutNM>
            <SEO
-              title={player.name}
-              description={player.name}
+              title={`${player.name} on DevOps Party Games`}
+              description="DevOps Party Games takes the idea of 'online party games' and tilts it on its head by adding DevOps-inspired content to existing games and streaming over Twitch."
+              image={`/images/people/${player.id}-card.jpg`}
             />
             <div className="outer">
                 <div className="inner-medium">

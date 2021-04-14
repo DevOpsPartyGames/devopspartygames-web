@@ -6,6 +6,7 @@ module.exports = {
         `gatsby-source-data`,
         `gatsby-transformer-json`,
         `gatsby-transformer-scores`,
+        `gatsby-plugin-social-sharing-cards`,
         `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-manifest`,
