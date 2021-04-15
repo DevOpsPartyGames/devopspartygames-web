@@ -815,6 +815,7 @@
       "region": "North America",
       "season": "2",
       "slug": "s02e08",
+      "ogimage": "s02e08-twittercard.png",
       "players": [
         {
           "id": "tierney.cyren"
@@ -836,6 +837,9 @@
         },
         {
           "id": "dan.papandrea"
+        },
+        {
+          "id": "kelly.mahoney"
         }
       ],
       "hosts": [
