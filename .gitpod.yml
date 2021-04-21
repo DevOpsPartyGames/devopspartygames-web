@@ -5,3 +5,4 @@ ports:
 tasks:
   - init: npm install
     command: npm run develop
+  
