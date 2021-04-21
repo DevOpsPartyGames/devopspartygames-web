@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DevOpsPartyGames/devopspartygames-web)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8a7ce451-b997-4325-a2b0-1429ddcd2c72/deploy-status)](https://app.netlify.com/sites/graceful-sage-db0ff/deploys)
 
 # DevOps Party Games
