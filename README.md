@@ -40,7 +40,7 @@ Example for an episode:
   "players": [
     {
       "id": "julian.dunn",
-      "score": 12
+      "score": 13
     },
 ...
     {
