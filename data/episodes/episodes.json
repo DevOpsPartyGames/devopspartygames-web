@@ -816,31 +816,41 @@
       "region": "North America",
       "season": "2",
       "slug": "s02e08",
+      "video": "EnlJacrinzw",
+      "image": "s02e08.png",
       "ogimage": "s02e08-twittercard.png",
       "players": [
         {
-          "id": "tierney.cyren"
+          "id": "tierney.cyren",
+          "score": 16
         },
         {
-          "id": "jessica.west"
+          "id": "jessica.west",
+          "score": 20
         },
         {
-          "id": "joe.karlsson"
+          "id": "joe.karlsson",
+          "score": 16
         },
         {
-          "id": "bonnie.aumann"
+          "id": "bonnie.aumann",
+          "score": 10
         },
         {
-          "id": "aaron.kalin"
+          "id": "aaron.kalin",
+          "score": 9
         },
         {
-          "id": "anna.spysz"
+          "id": "anna.spysz",
+          "score": 19
         },
         {
-          "id": "dan.papandrea"
+          "id": "dan.papandrea",
+          "score": 4
         },
         {
-          "id": "kelly.mahoney"
+          "id": "kelly.mahoney",
+          "score": 18
         }
       ],
       "hosts": [
@@ -849,10 +859,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/a4346d67f509989223858cf5de245bb5/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/e1d839a327a571e0631b159dde46f03d/"
         }
       ]
 
