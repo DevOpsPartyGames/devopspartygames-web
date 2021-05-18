@@ -695,6 +695,47 @@
       "name": "Kelly Mahoney",
       "twitter": "sosplush",
       "image": "kelly.mahoney.jpg"
+    },
+    {
+      "id": "ali.spittel",
+      "name": "Ali Spittel",
+      "twitter": "ASpittel",
+      "image": "ali.spittel.jpg"
+    },
+    {
+      "id": "amara.graham",
+      "name": "Amara Graham",
+      "twitter": "MissAmaraKay",
+      "image": "amara.graham.jpg"
+    },
+    {
+      "id": "amy.hermes",
+      "name": "Amy Hermes",
+      "twitter": "amyhermes",
+      "image": "amy.hermes.jpg"
+    },
+    {
+      "id": "justin.garrison",
+      "name": "Justin Garrison",
+      "twitter": "rothgar",
+      "image": "justin.garrison.jpg"
+    },
+    {
+      "id": "jonathan.silvestri",
+      "name": "Jonathan Silvestri",
+      "twitter": "SilvestriCodes",
+      "image": "jonathan.silvestri.jpg"
+    },
+    {
+      "id": "fatima.sarah.khalid",
+      "name": "Fatima Sarah Khalid",
+      "twitter": "sugaroverflow",
+      "image": "fatima.sarah.khalid.jpg"
+    },
+    {
+      "id": "andre.elizondo",
+      "name": "Andre Elizondo",
+      "twitter": "way_too_meta",
+      "image": "andre.elizondo.jpg"
     }
-
   ]
