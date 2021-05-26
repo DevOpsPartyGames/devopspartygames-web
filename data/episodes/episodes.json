@@ -875,31 +875,40 @@
       "region": "North America",
       "season": "3",
       "slug": "s03e01",
+      "image": "s03e01.png",
       "ogimage": "s03e01-twittercard.png",
       "players": [
         {
-          "id": "tim.banks"
+          "id": "tim.banks",
+          "score": 20
         },
         {
-          "id": "amara.graham"
+          "id": "amara.graham",
+          "score": 11
         },
         {
-          "id": "justin.garrison"
+          "id": "justin.garrison",
+          "score": 8
         },
         {
-          "id": "fatima.sarah.khalid"
+          "id": "fatima.sarah.khalid",
+          "score": 13
         },
         {
-          "id": "ali.spittel"
+          "id": "ali.spittel",
+          "score": 20
         },
         {
-          "id": "andre.elizondo"
+          "id": "andre.elizondo",
+          "score": 12
         },
         {
-          "id": "amy.hermes"
+          "id": "amy.hermes",
+          "score": 14
         },
         {
-          "id": "jonathan.silvestri"
+          "id": "jonathan.silvestri",
+          "score": 12
         }
       ],
       "hosts": [
@@ -908,10 +917,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/ef817a5d6931d8e837d3fe37638b7ae5/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/b086a227cec7ea445a39b5af5de90021/"
         }
       ]
     }
