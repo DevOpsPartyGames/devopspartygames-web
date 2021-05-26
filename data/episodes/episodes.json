@@ -925,5 +925,27 @@
           "result": "https://games.jackbox.tv/artifact/DrawfulGame/b086a227cec7ea445a39b5af5de90021/"
         }
       ]
+    },
+    {
+      "id": "3.2.emea",
+      "title": "Season Three Episode Two",
+      "date": "2021-06-29T20:00:00+02:00",
+      "region": "EMEA",
+      "season": "3",
+      "slug": "s03e02",
+      "players": [
+      ],
+      "hosts": [
+        "matt.stratton",
+        "dan.maher"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
     }
 ]
