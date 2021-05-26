@@ -5,9 +5,11 @@ import ListPersonEpisodes from "../components/ListPersonEpisodes";
 import ShowLeaderboardRank from "../components/ShowLeaderboardRank";
 import ShowSeasonOneLeaderboardRank from "../components/ShowSeasonOneLeaderboardRank";
 import ShowSeasonTwoLeaderboardRank from "../components/ShowSeasonTwoLeaderboardRank";
+import ShowSeasonThreeLeaderboardRank from "../components/ShowSeasonThreeLeaderboardRank";
 import {useTopOverallPlayer} from "../hooks/use-top-overall-player";
 import {useSeasonOneTopPlayer} from "../hooks/use-season-one-top-player";
 import {useSeasonTwoTopPlayer} from "../hooks/use-season-two-top-player";
+import {useSeasonThreeTopPlayer} from "../hooks/use-season-three-top-player";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'; 
 import { faMedal } from '@fortawesome/free-solid-svg-icons'
@@ -19,6 +21,7 @@ export default function Person({ pageContext }) {
     const topPlayer = useTopOverallPlayer()
     const topSeasonOnePlayer = useSeasonOneTopPlayer()
     const topSeasonTwoPlayer = useSeasonTwoTopPlayer()
+    const topSeasonThreePlayer = useSeasonThreeTopPlayer()
     // console.log(topPlayer)
     return(
         <LayoutNM>
@@ -43,6 +46,9 @@ export default function Person({ pageContext }) {
                                     personID={player.id}
                                 />
                                 <ShowSeasonTwoLeaderboardRank 
+                                    personID={player.id}
+                                />
+                                <ShowSeasonThreeLeaderboardRank 
                                     personID={player.id}
                                 />
                             </div>
@@ -97,6 +103,12 @@ export default function Person({ pageContext }) {
                                     <div class="tooltip">
                                         <FontAwesomeIcon icon={faMedal} size="2x"/>
                                         <span class="tooltiptext">Top Season Two Player</span>
+                                    </div>
+                                }
+                                {player.id == topSeasonThreePlayer &&
+                                    <div class="tooltip">
+                                        <FontAwesomeIcon icon={faMedal} size="2x"/>
+                                        <span class="tooltiptext">Top Season Three Player</span>
                                     </div>
                                 }
                             </div>

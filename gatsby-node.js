@@ -32,6 +32,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           fields {
             Season_One
             Season_Two
+            Season_Three
           }
             id
             image

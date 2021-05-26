@@ -6,6 +6,7 @@ import ListAllScores from '../components/ListAllScores';
 import ListOverallScores from '../components/ListOverallScores';
 import ListSeasonOneScores from '../components/ListSeasonOneScores';
 import ListSeasonTwoScores from '../components/ListSeasonTwoScores';
+import ListSeasonThreeScores from '../components/ListSeasonThreeScores';
 import {safePrefix, htmlToReact} from '../utils';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
@@ -42,6 +43,7 @@ export default class Landing extends React.Component {
                       <Tab>Overall</Tab>
                       <Tab>Season One</Tab>
                       <Tab>Season Two</Tab>
+                      <Tab>Season Three</Tab>
                     </TabList>
 
                     <TabPanel>
@@ -55,6 +57,10 @@ export default class Landing extends React.Component {
                     <TabPanel>
                       <h2>Season Two Scores</h2>
                       <ListSeasonTwoScores />
+                    </TabPanel>
+                    <TabPanel>
+                      <h2>Season Three Scores</h2>
+                      <ListSeasonThreeScores />
                     </TabPanel>
                   </Tabs>
                   </div>
