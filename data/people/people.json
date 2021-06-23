@@ -737,5 +737,23 @@
       "name": "Andre Elizondo",
       "twitter": "way_too_meta",
       "image": "andre.elizondo.jpg"
+    },
+    {
+      "id": "adam-zimman",
+      "name": "Adam Zimman",
+      "twitter": "azimman",
+      "image": "adam-zimman.jpg"
+    },
+    {
+      "id": "eli-holderness",
+      "name": "Eli Holderness",
+      "twitter": "eliholderness",
+      "image": "eli-holderness.jpg"
+    },
+    {
+      "id": "tuana-celik",
+      "name": "Tuana Çelik",
+      "twitter": "tuanacelik",
+      "image": "tuana-celik.jpg"
     }
   ]
