@@ -934,25 +934,33 @@
       "region": "EMEA",
       "season": "3",
       "slug": "s03e02",
+      "image": "s03e02.png",
       "ogimage": "s03e02-twittercard.png",
+      "video": "p9Ftcq4rF68",
       "players": [
         {
-          "id": "kai.hoffman"
+          "id": "kai.hoffman",
+          "score": 14
         },
         {
-          "id": "adam-zimman"
+          "id": "adam-zimman",
+          "score": 18
         },
         {
-          "id": "eli-holderness"
+          "id": "eli-holderness",
+          "score": 21
         },
         {
-          "id": "tuana-celik"
+          "id": "tuana-celik",
+          "score": 12
         }, 
         {
-          "id": "kris.howard"
+          "id": "kris.howard",
+          "score": 18
         },
         {
-          "id": "james.seconde"
+          "id": "james.seconde",
+          "score": 17
         }
       ],
       "hosts": [
@@ -961,10 +969,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/9a1052eadb6219601bcfa3d1ede60947/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/b1ade19bb2c6457355b4b22fb1caf8f1/"
         }
       ]
     }
