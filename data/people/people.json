@@ -755,5 +755,41 @@
       "name": "Tuana Çelik",
       "twitter": "tuanacelik",
       "image": "tuana-celik.jpg"
+    },
+    {
+      "id": "paul.osman",
+      "name": "Paul Osman",
+      "twitter": "paulosman",
+      "image": "paul.osman.jpg"
+    },
+    {
+      "id": "brittany.richards",
+      "name": "Brittany Richards",
+      "twitter": "BeeRich99",
+      "image": "brittany.richards.jpg"
+    },
+    {
+      "id": "bobby.tables",
+      "name": "Bobby Tables",
+      "twitter": "bobbytables",
+      "image": "bobby.tables.jpg"
+    },
+    {
+      "id": "jay.gordon",
+      "name": "Jay Gordon",
+      "twitter": "jaygordon",
+      "image": "jay.gordon.jpg"
+    },
+    {
+      "id": "laurie.barth",
+      "name": "Laura Barth",
+      "twitter": "laurieontech",
+      "image": "laurie.barth.jpg"
+    },
+    {
+      "id": "celeste.horgan",
+      "name": "Celeste Horgan",
+      "twitter": "celeste_horgan",
+      "image": "celeste.horgan.jpg"
     }
   ]
