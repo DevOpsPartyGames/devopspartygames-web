@@ -1013,7 +1013,8 @@
         }
       ],
       "hosts": [
-        "matt.stratton"
+        "matt.stratton",
+          "jeremy.meiss"
       ],
       "games": [
         {
