@@ -791,5 +791,17 @@
       "name": "Celeste Horgan",
       "twitter": "celeste_horgan",
       "image": "celeste.horgan.jpg"
+    },
+    {
+      "id": "nara.coldwater",
+      "name": "Nara Coldwater",
+      "twitter": "naracoldwater",
+      "image": "nara.coldwater.jpg"
+    },
+    {
+      "id": "jenna.pederson",
+      "name": "Jenna Pederson",
+      "twitter": "jennapederson",
+      "image": "jenna.pederson.jpg"
     }
   ]
