@@ -979,6 +979,52 @@
       ]
     },
     {
+      "id": "x.x.msp",
+      "title": "DevOpsDays Minneapolis 2021 Special Edition",
+      "date":"2021-07-21T20:00:00-05:00",
+      "region": "North America",
+      "season": "x",
+      "slug": "dod-msp-2021",
+      "ogimage": "dod-msp-dpg.png",
+      "players": [
+        {
+          "id": "tim.banks"
+        },
+        {
+          "id": "heidi.waterhouse"
+        },
+        {
+          "id": "ian.coldwater"
+        },
+        {
+          "id": "nara.coldwater"
+        },
+        {
+          "id": "jenna.pederson"
+        },
+        {
+          "id": "joe.laha"
+        },
+        {
+          "id": "kat.cosgrove"
+        },
+        {
+          "id": "pete.cheslock"
+        }
+      ],
+      "hosts": [
+        "matt.stratton"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
+    },
+    {
       "id": "3.3.na",
       "title": "You Made Me Draw Thought Leadership?!",
       "date":"2021-07-27T20:00:00-05:00",
