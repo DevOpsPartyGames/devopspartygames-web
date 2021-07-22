@@ -985,7 +985,9 @@
       "region": "North America",
       "season": "x",
       "slug": "dod-msp-2021",
+      "image": "dod-msp-2021.png",
       "ogimage": "dod-msp-dpg.png",
+      "video": "DeclW9pK36o",
       "players": [
         {
           "id": "tim.banks"
@@ -1013,14 +1015,17 @@
         }
       ],
       "hosts": [
-        "matt.stratton"
+        "matt.stratton",
+        "josh.zimmerman"
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/efdbbf833968bc3b264472c4db9a46ab/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/869abffd305c508245d2d15925840bfc/"
         }
       ]
     },
