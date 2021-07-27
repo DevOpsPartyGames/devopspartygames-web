@@ -803,5 +803,11 @@
       "name": "Jenna Pederson",
       "twitter": "jennapederson",
       "image": "jenna.pederson.jpg"
+    },
+    {
+      "id": "jeremy.price",
+      "name": "Jeremy Price",
+      "image": "jeremy.price.jpg",
+      "twitter": "jermops"
     }
   ]
