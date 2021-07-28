@@ -1036,31 +1036,41 @@
       "region": "North America",
       "season": "3",
       "slug": "s03e03",
+      "image": "s03e03.png",
+      "video": "0IHc8pr94hQ",
       "ogimage": "s03e03-twittercard.png",
       "players": [
         {
-          "id": "katie.mclaughlin"
+          "id": "katie.mclaughlin",
+          "score": 16
         },
         {
-          "id": "paul.osman"
+          "id": "paul.osman",
+          "score": 18
         },
         {
-          "id": "brittany.richards"
+          "id": "brittany.richards",
+          "score": 4
         },
         {
-          "id": "bobby.tables"
+          "id": "bobby.tables",
+          "score": 8
         },
         {
-          "id": "jay.gordon"
+          "id": "jay.gordon",
+          "score": 10
         },
         {
-          "id": "jeremy.price"
+          "id": "jeremy.price",
+          "score": 19
         },
         {
-          "id": "nick.rycar"
+          "id": "nick.rycar",
+          "score": 21
         },
         {
-          "id": "celeste.horgan"
+          "id": "celeste.horgan",
+          "score": 13
         }
       ],
       "hosts": [
@@ -1069,10 +1079,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/d0bc9f2ed7ea541a646156c0ef8ea5ee/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/5bded8d5e2c0f1d8705d00888a212cbf/"
         }
       ]
     }
