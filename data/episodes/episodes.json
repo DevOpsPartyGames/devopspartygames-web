@@ -979,7 +979,7 @@
       ]
     },
     {
-      "id": "x.x.msp",
+      "id": "x.1.msp",
       "title": "DevOpsDays Minneapolis 2021 Special Edition",
       "date":"2021-07-21T20:00:00-05:00",
       "region": "North America",
@@ -1085,6 +1085,52 @@
         {
           "name": "drawful",
           "result": "https://games.jackbox.tv/artifact/DrawfulGame/5bded8d5e2c0f1d8705d00888a212cbf/"
+        }
+      ]
+    },
+    {
+      "id": "x.2.loop",
+      "title": "DevOps Loop  Special Edition",
+      "date":"2021-10-04T15:30:00-05:00",
+      "region": "North America",
+      "season": "x",
+      "slug": "loop-2021",
+      "players": [
+        {
+          "id": "ashley.willis"
+        },
+        {
+          "id": "tasha.drew"
+        },
+        {
+          "id": "heidi.waterhouse"
+        },
+        {
+          "id": "dominique.top"
+        },
+        {
+          "id": "wesley.faulkner"
+        },
+        {
+          "id": "hannah.foxwell"
+        },
+        {
+          "id": "kat.cosgrove"
+        },
+        {
+          "id": "michael.cote"
+        }
+      ],
+      "hosts": [
+        "matt.stratton",
+        "jeremy.meiss"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
         }
       ]
     }
