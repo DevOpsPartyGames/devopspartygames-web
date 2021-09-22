@@ -809,5 +809,29 @@
       "name": "Jeremy Price",
       "image": "jeremy.price.jpg",
       "twitter": "jermops"
+    },
+    {
+      "id": "ashley.willis",
+      "name": "Ashley Willis",
+      "image": "ashley.willis.jpg",
+      "twitter": "ashleymcnamara"
+    },
+    {
+      "id": "tasha.drew",
+      "name": "Tasha Drew",
+      "image": "tasha.drew.jpg",
+      "twitter": "tashadrew"
+    },
+    {
+      "id": "hannah.foxwell",
+      "name":"Hannah Foxwell",
+      "image": "hannah.foxwell.jpg",
+      "twitter": "hannahfoxwell"
+    },
+    {
+      "id": "michael.cote",
+      "name": "Michael Coté",
+      "image": "michael.cote.jpg",
+      "twitter": "cote"
     }
   ]
