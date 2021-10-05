@@ -1094,7 +1094,9 @@
       "date":"2021-10-04T15:30:00-05:00",
       "region": "North America",
       "season": "x",
+      "image": "devops-loop.png",
       "slug": "loop-2021",
+      "video": "b043xblA8-4",
       "players": [
         {
           "id": "ashley.willis"
@@ -1127,7 +1129,8 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/a3dab8b92f07c3e7cc203c92b7939f64/"
         },
         {
           "name": "drawful"
