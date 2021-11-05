@@ -129,7 +129,7 @@
           "score": 9
         },
         {
-          "id": "tiffany.longworth",
+          "id": "trip.longworth",
           "score": 22
         },
         {
@@ -616,7 +616,7 @@
           "score": 12
         },
         {
-          "id": "tiffany.longworth",
+          "id": "trip.longworth",
           "score": 14
         },
         {
@@ -1131,6 +1131,53 @@
         {
           "name": "quiplash",
           "result": "https://games.jackbox.tv/artifact/quiplash3Game/a3dab8b92f07c3e7cc203c92b7939f64/"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
+    },
+    {
+      "id": "x.2.seagl",
+      "title": "SeaGL Special Edition",
+      "date":"2021-11-05T18:30:00-05:00",
+      "region": "North America",
+      "season": "x",
+      "slug": "seagl-2021",
+      "ogimage": "seagl-2021-twittercard.png",
+      "players": [
+        {
+          "id": "rachel.kelly"
+        },
+        {
+          "id": "bri.hatch"
+        },
+        {
+          "id": "deb.nicholson"
+        },
+        {
+          "id": "trip.longworth"
+        },
+        {
+          "id": "sam.kimbrel"
+        },
+        {
+          "id": "nathan.handler"
+        },
+        {
+          "id": "katie.mclaughlin"
+        },
+        {
+          "id": "ben.cotton"
+        }
+      ],
+      "hosts": [
+        "matt.stratton",
+        "paul.czarkowski"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
         },
         {
           "name": "drawful"

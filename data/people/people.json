@@ -155,10 +155,10 @@
       ]
     },
     {
-      "id": "tiffany.longworth",
-      "name": "Tiffany Longworth",
+      "id": "trip.longworth",
+      "name": "Trip Longworth",
       "twitter":"thelongshanx",
-      "image": "tiffany-longworth.jpg",
+      "image": "trip.longworth.jpg",
       "episodes": [
         "s01e03"
       ]
@@ -833,5 +833,41 @@
       "name": "Michael Coté",
       "image": "michael.cote.jpg",
       "twitter": "cote"
+    },
+    {
+      "id": "rachel.kelly",
+      "name": "Rachel Kelly",
+      "image": "rachel.kelly.jpg",
+      "twitter": "wholemilk"
+    },
+    {
+      "id": "ben.cotton",
+      "name": "Ben Cotton",
+      "image": "ben.cotton.jpg",
+      "twitter": "FunnelFiasco"
+    },
+    {
+      "id": "sam.kimbrel",
+      "name": "Sam Kimbrel",
+      "image": "sam.kimbrel.jpg",
+      "twitter": "skimbrel"
+    },
+    {
+      "id": "nathan.handler",
+      "name": "Nathan Handler",
+      "image": "nathan.handler.jpg",
+      "twitter": "NathanHandler"
+    },
+    {
+      "id": "deb.nicholson",
+      "name": "Deb Nicholson",
+      "image": "deb.nicholson.jpg",
+      "twitter": "baconandcoconut"
+    },
+    {
+      "id": "bri.hatch",
+      "name": "Bri Hatch",
+      "image": "bri.hatch.jpg",
+      "twitter": "daethnir"
     }
   ]
