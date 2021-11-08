@@ -1145,6 +1145,8 @@
       "season": "x",
       "slug": "seagl-2021",
       "ogimage": "seagl-2021-twittercard.png",
+      "video": "oV3SUNMQ8E0",
+      "image": "seagl-2021.png",
       "players": [
         {
           "id": "rachel.kelly"
@@ -1177,10 +1179,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/3293f35f3992528c61043fee92dbb0a1/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/d90cd0541e110eb7d87ae1c8b670d9fc/"
         }
       ]
     }
