@@ -869,5 +869,35 @@
       "name": "Bri Hatch",
       "image": "bri.hatch.jpg",
       "twitter": "daethnir"
+    },
+    {
+      "id": "paris.pittman",
+      "name": "Paris Pittman",
+      "image": "paris.pittman.jpg",
+      "twitter": "ParisInBmore"
+    },
+    {
+    "id": "taylor.dolezal",
+    "name": "Taylor Dolezal",
+    "image": "taylor.dolezal.jpg",
+    "twitter": "onlydole"
+    },
+    {
+      "id": "rain.leander",
+      "name": "Rain Leander",
+      "image": "rain.leander.jpg",
+      "twitter": "rainleander"
+    },
+    {
+      "id": "will.gallego",
+      "name": "Will Gallego",
+      "image": "will.gallego.jpg", 
+      "twitter": "wcgallego"
+    },
+    {
+      "id": "andy.tuba",
+      "name": "Andy Tuba",
+      "image": "andy.tuba.jpg",
+      "twitter": "andytuba"
     }
   ]
