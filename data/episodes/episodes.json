@@ -1187,5 +1187,52 @@
           "result": "https://games.jackbox.tv/artifact/DrawfulGame/d90cd0541e110eb7d87ae1c8b670d9fc/"
         }
       ]
+    },
+    {
+      "id": "3.4.na",
+      "title": "I Just Deployed Kubernetes And Boy Are My Arms Tired",
+      "date": "2021-11-23T20:00:00-06:00",
+      "region": "North America",
+      "season": "3",
+      "slug": "s03e04",
+      "ogimage": "s03e04-twittercard.png",
+      "players": [
+        {
+          "id": "sasha.rosenbaum"
+        },
+        {
+          "id": "paris.pittman"
+        },
+        {
+          "id": "rain.leander"
+        },
+        {
+          "id": "taylor.dolezal"
+        },
+        {
+          "id": "rachel.kelly"
+        },
+        {
+          "id": "jay.gordon"
+        },
+        {
+          "id": "will.gallego"
+        },
+        {
+          "id": "andy.tuba"
+        }
+      ],
+      "hosts": [
+        "matt.stratton",
+        "jeremy.meiss"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
     }
 ]
