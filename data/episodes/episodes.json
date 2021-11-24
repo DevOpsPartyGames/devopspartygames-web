@@ -199,7 +199,7 @@
         },
         {
           "id": "shelby.spees",
-          "score": 1
+          "score": 11
         },
         {
           "id": "liz.fong.jones",
@@ -1196,30 +1196,40 @@
       "season": "3",
       "slug": "s03e04",
       "ogimage": "s03e04-twittercard.png",
+      "image": "s03e04.png",
+      "video": "ZJaEehaWfs4",
       "players": [
         {
-          "id": "sasha.rosenbaum"
+          "id": "sasha.rosenbaum",
+          "score": 14
         },
         {
-          "id": "paris.pittman"
+          "id": "paris.pittman", 
+          "score": 6
         },
         {
-          "id": "rain.leander"
+          "id": "rain.leander",
+          "score": 11
         },
         {
-          "id": "taylor.dolezal"
+          "id": "taylor.dolezal",
+          "score": 17
         },
         {
-          "id": "rachel.kelly"
+          "id": "rachel.kelly",
+          "score": 8
         },
         {
-          "id": "jay.gordon"
+          "id": "jay.gordon",
+          "score": 15
         },
         {
-          "id": "will.gallego"
+          "id": "will.gallego",
+          "score": 19
         },
         {
-          "id": "andy.tuba"
+          "id": "andy.tuba",
+          "score": 18
         }
       ],
       "hosts": [
@@ -1228,10 +1238,12 @@
       ],
       "games": [
         {
-          "name": "quiplash"
+          "name": "quiplash",
+          "result": "https://games.jackbox.tv/artifact/quiplash3Game/9a5ae7a4b795d23484f8c3808ddcfc4e/"
         },
         {
-          "name": "drawful"
+          "name": "drawful",
+          "result": "https://games.jackbox.tv/artifact/DrawfulGame/73579272efe7308e32add222b0b1ea63/"
         }
       ]
     }
