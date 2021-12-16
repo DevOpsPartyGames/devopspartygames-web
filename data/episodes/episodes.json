@@ -1246,5 +1246,52 @@
           "result": "https://games.jackbox.tv/artifact/DrawfulGame/73579272efe7308e32add222b0b1ea63/"
         }
       ]
+    },
+    {
+      "id": "x.3.k8s",
+      "title": "Most Extreme Kubernetes Contributor Challenge",
+      "date":"2021-12-18T12:30:00-06:00",
+      "region": "North America",
+      "season": "x",
+      "slug": "k8s-2021",
+      "ogimage": "k8s-2021-twittercard.png",
+      "players": [
+        {
+          "id": "danielle.lancashire"
+        },
+        {
+          "id": "kat.cosgrove"
+        },
+        {
+          "id": "xing.yang"
+        },
+        {
+          "id": "tim.hockin"
+        },
+        {
+          "id": "tabitha.sable"
+        },
+        {
+          "id": "adolfo.garcia"
+        },
+        {
+          "id": "dims.srinivas"
+        },
+        {
+          "id": "laura.lorenz"
+        }
+      ],
+      "hosts": [
+        "matt.stratton",
+        "paris.pittman"
+      ],
+      "games": [
+        {
+          "name": "quiplash"
+        },
+        {
+          "name": "drawful"
+        }
+      ]
     }
 ]

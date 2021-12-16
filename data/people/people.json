@@ -899,5 +899,41 @@
       "name": "Andy Tuba",
       "image": "andy.tuba.jpg",
       "twitter": "andytuba"
+    },
+    {
+      "id": "xing.yang",
+      "name": "Xing Yang",
+      "image": "xing.yang.jpg",
+      "twitter": "2000Xyang"
+    },
+    {
+      "id": "tim.hockin",
+      "name": "Tim Hockin",
+      "image": "tim.hockin.jpg",
+      "twitter": "thockin"
+    },
+    {
+      "id": "tabitha.sable",
+      "name": "Tabitha Sable",
+      "image": "tabitha.sable.jpg",
+      "twitter": "tabbysable"
+    },
+    {
+      "id": "adolfo.garcia",
+      "name": "Adolfo Garcia",
+      "image": "adolfo.garcia.jpg",
+      "twitter": "puerco"
+    },
+    {
+      "id": "dims.srinivas",
+      "name": "Dims Srinivas",
+      "image": "dims.srinivas.jpg",
+      "twitter": "dims"
+    },
+    {
+      "id": "laura.lorenz",
+      "name": "Laura Lorenz",
+      "image": "laura.lorenz.jpg",
+      "twitter": "lauralorenzdev"
     }
   ]
