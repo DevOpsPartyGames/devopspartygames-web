@@ -34,7 +34,7 @@
     "gatsby-plugin-sitemap": "^3.2.0",
     "gatsby-source-filesystem": "^3.2.0",
     "gatsby-transformer-json": "^3.2.0",
-    "gatsby-transformer-remark": "3.2.0",
+    "gatsby-transformer-remark": "5.25.1",
     "jimp": "^0.16.1",
     "js-yaml": "^4.0.0",
     "lodash": "^4.17.21",
